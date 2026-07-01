@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [1879-minimum-xor-sum-of-two-arrays](https://github.com/K-Raze/DSA-CPP/tree/master/1879-minimum-xor-sum-of-two-arrays) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/K-Raze/DSA-CPP/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2172-maximum-and-sum-of-array](https://github.com/K-Raze/DSA-CPP/tree/master/2172-maximum-and-sum-of-array) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/K-Raze/DSA-CPP/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [1879-minimum-xor-sum-of-two-arrays](https://github.com/K-Raze/DSA-CPP/tree/master/1879-minimum-xor-sum-of-two-arrays) |
 | [2172-maximum-and-sum-of-array](https://github.com/K-Raze/DSA-CPP/tree/master/2172-maximum-and-sum-of-array) |
 | [3977-minimum-time-to-reach-target-with-limited-power](https://github.com/K-Raze/DSA-CPP/tree/master/3977-minimum-time-to-reach-target-with-limited-power) |
 ## Graph Theory
@@ -78,9 +80,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [1879-minimum-xor-sum-of-two-arrays](https://github.com/K-Raze/DSA-CPP/tree/master/1879-minimum-xor-sum-of-two-arrays) |
 | [2172-maximum-and-sum-of-array](https://github.com/K-Raze/DSA-CPP/tree/master/2172-maximum-and-sum-of-array) |
 ## Bitmask
 |  |
 | ------- |
+| [1879-minimum-xor-sum-of-two-arrays](https://github.com/K-Raze/DSA-CPP/tree/master/1879-minimum-xor-sum-of-two-arrays) |
 | [2172-maximum-and-sum-of-array](https://github.com/K-Raze/DSA-CPP/tree/master/2172-maximum-and-sum-of-array) |
 <!---LeetCode Topics End-->
