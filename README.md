@@ -16,11 +16,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/K-Raze/DSA-CPP/tree/master/0208-implement-trie-prefix-tree) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/K-Raze/DSA-CPP/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/K-Raze/DSA-CPP/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 ## Hash Table
 |  |
 | ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/K-Raze/DSA-CPP/tree/master/0208-implement-trie-prefix-tree) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/K-Raze/DSA-CPP/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/K-Raze/DSA-CPP/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Divide and Conquer
@@ -105,4 +107,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2178-maximum-split-of-positive-even-integers](https://github.com/K-Raze/DSA-CPP/tree/master/2178-maximum-split-of-positive-even-integers) |
+## Design
+|  |
+| ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/K-Raze/DSA-CPP/tree/master/0208-implement-trie-prefix-tree) |
+## Trie
+|  |
+| ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/K-Raze/DSA-CPP/tree/master/0208-implement-trie-prefix-tree) |
 <!---LeetCode Topics End-->
