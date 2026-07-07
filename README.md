@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1301-number-of-paths-with-max-score](https://github.com/K-Raze/DSA-CPP/tree/master/1301-number-of-paths-with-max-score) |
 | [1879-minimum-xor-sum-of-two-arrays](https://github.com/K-Raze/DSA-CPP/tree/master/1879-minimum-xor-sum-of-two-arrays) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/K-Raze/DSA-CPP/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [2163-minimum-difference-in-sums-after-removal-of-elements](https://github.com/K-Raze/DSA-CPP/tree/master/2163-minimum-difference-in-sums-after-removal-of-elements) |
 | [2172-maximum-and-sum-of-array](https://github.com/K-Raze/DSA-CPP/tree/master/2172-maximum-and-sum-of-array) |
 | [2551-put-marbles-in-bags](https://github.com/K-Raze/DSA-CPP/tree/master/2551-put-marbles-in-bags) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/K-Raze/DSA-CPP/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/K-Raze/DSA-CPP/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [1301-number-of-paths-with-max-score](https://github.com/K-Raze/DSA-CPP/tree/master/1301-number-of-paths-with-max-score) |
 | [1879-minimum-xor-sum-of-two-arrays](https://github.com/K-Raze/DSA-CPP/tree/master/1879-minimum-xor-sum-of-two-arrays) |
+| [2163-minimum-difference-in-sums-after-removal-of-elements](https://github.com/K-Raze/DSA-CPP/tree/master/2163-minimum-difference-in-sums-after-removal-of-elements) |
 | [2172-maximum-and-sum-of-array](https://github.com/K-Raze/DSA-CPP/tree/master/2172-maximum-and-sum-of-array) |
 | [3575-maximum-good-subtree-score](https://github.com/K-Raze/DSA-CPP/tree/master/3575-maximum-good-subtree-score) |
 | [3620-network-recovery-pathways](https://github.com/K-Raze/DSA-CPP/tree/master/3620-network-recovery-pathways) |
@@ -81,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [2163-minimum-difference-in-sums-after-removal-of-elements](https://github.com/K-Raze/DSA-CPP/tree/master/2163-minimum-difference-in-sums-after-removal-of-elements) |
 | [2551-put-marbles-in-bags](https://github.com/K-Raze/DSA-CPP/tree/master/2551-put-marbles-in-bags) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/K-Raze/DSA-CPP/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/K-Raze/DSA-CPP/tree/master/3286-find-a-safe-walk-through-a-grid) |
