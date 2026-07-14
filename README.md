@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/K-Raze/DSA-CPP/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2163-minimum-difference-in-sums-after-removal-of-elements](https://github.com/K-Raze/DSA-CPP/tree/master/2163-minimum-difference-in-sums-after-removal-of-elements) |
 | [2172-maximum-and-sum-of-array](https://github.com/K-Raze/DSA-CPP/tree/master/2172-maximum-and-sum-of-array) |
+| [2328-number-of-increasing-paths-in-a-grid](https://github.com/K-Raze/DSA-CPP/tree/master/2328-number-of-increasing-paths-in-a-grid) |
 | [2551-put-marbles-in-bags](https://github.com/K-Raze/DSA-CPP/tree/master/2551-put-marbles-in-bags) |
 | [2683-neighboring-bitwise-xor](https://github.com/K-Raze/DSA-CPP/tree/master/2683-neighboring-bitwise-xor) |
 | [2684-maximum-number-of-moves-in-a-grid](https://github.com/K-Raze/DSA-CPP/tree/master/2684-maximum-number-of-moves-in-a-grid) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1879-minimum-xor-sum-of-two-arrays](https://github.com/K-Raze/DSA-CPP/tree/master/1879-minimum-xor-sum-of-two-arrays) |
 | [2163-minimum-difference-in-sums-after-removal-of-elements](https://github.com/K-Raze/DSA-CPP/tree/master/2163-minimum-difference-in-sums-after-removal-of-elements) |
 | [2172-maximum-and-sum-of-array](https://github.com/K-Raze/DSA-CPP/tree/master/2172-maximum-and-sum-of-array) |
+| [2328-number-of-increasing-paths-in-a-grid](https://github.com/K-Raze/DSA-CPP/tree/master/2328-number-of-increasing-paths-in-a-grid) |
 | [2684-maximum-number-of-moves-in-a-grid](https://github.com/K-Raze/DSA-CPP/tree/master/2684-maximum-number-of-moves-in-a-grid) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/K-Raze/DSA-CPP/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3533-concatenated-divisibility](https://github.com/K-Raze/DSA-CPP/tree/master/3533-concatenated-divisibility) |
@@ -93,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/K-Raze/DSA-CPP/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [2328-number-of-increasing-paths-in-a-grid](https://github.com/K-Raze/DSA-CPP/tree/master/2328-number-of-increasing-paths-in-a-grid) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/K-Raze/DSA-CPP/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/K-Raze/DSA-CPP/tree/master/2685-count-the-number-of-complete-components) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/K-Raze/DSA-CPP/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -127,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/K-Raze/DSA-CPP/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [2328-number-of-increasing-paths-in-a-grid](https://github.com/K-Raze/DSA-CPP/tree/master/2328-number-of-increasing-paths-in-a-grid) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/K-Raze/DSA-CPP/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/K-Raze/DSA-CPP/tree/master/2685-count-the-number-of-complete-components) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/K-Raze/DSA-CPP/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -144,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0212-word-search-ii](https://github.com/K-Raze/DSA-CPP/tree/master/0212-word-search-ii) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/K-Raze/DSA-CPP/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [1301-number-of-paths-with-max-score](https://github.com/K-Raze/DSA-CPP/tree/master/1301-number-of-paths-with-max-score) |
+| [2328-number-of-increasing-paths-in-a-grid](https://github.com/K-Raze/DSA-CPP/tree/master/2328-number-of-increasing-paths-in-a-grid) |
 | [2684-maximum-number-of-moves-in-a-grid](https://github.com/K-Raze/DSA-CPP/tree/master/2684-maximum-number-of-moves-in-a-grid) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/K-Raze/DSA-CPP/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/K-Raze/DSA-CPP/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -199,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0211-design-add-and-search-words-data-structure](https://github.com/K-Raze/DSA-CPP/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/K-Raze/DSA-CPP/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [2328-number-of-increasing-paths-in-a-grid](https://github.com/K-Raze/DSA-CPP/tree/master/2328-number-of-increasing-paths-in-a-grid) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/K-Raze/DSA-CPP/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/K-Raze/DSA-CPP/tree/master/2685-count-the-number-of-complete-components) |
 | [3327-check-if-dfs-strings-are-palindromes](https://github.com/K-Raze/DSA-CPP/tree/master/3327-check-if-dfs-strings-are-palindromes) |
@@ -207,11 +213,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/K-Raze/DSA-CPP/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [2328-number-of-increasing-paths-in-a-grid](https://github.com/K-Raze/DSA-CPP/tree/master/2328-number-of-increasing-paths-in-a-grid) |
 | [3620-network-recovery-pathways](https://github.com/K-Raze/DSA-CPP/tree/master/3620-network-recovery-pathways) |
 ## Memoization
 |  |
 | ------- |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/K-Raze/DSA-CPP/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [2328-number-of-increasing-paths-in-a-grid](https://github.com/K-Raze/DSA-CPP/tree/master/2328-number-of-increasing-paths-in-a-grid) |
 ## Binary Indexed Tree
 |  |
 | ------- |
