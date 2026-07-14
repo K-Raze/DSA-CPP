@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2812-find-the-safest-path-in-a-grid](https://github.com/K-Raze/DSA-CPP/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/K-Raze/DSA-CPP/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3327-check-if-dfs-strings-are-palindromes](https://github.com/K-Raze/DSA-CPP/tree/master/3327-check-if-dfs-strings-are-palindromes) |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/K-Raze/DSA-CPP/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/K-Raze/DSA-CPP/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3533-concatenated-divisibility](https://github.com/K-Raze/DSA-CPP/tree/master/3533-concatenated-divisibility) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/K-Raze/DSA-CPP/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2163-minimum-difference-in-sums-after-removal-of-elements](https://github.com/K-Raze/DSA-CPP/tree/master/2163-minimum-difference-in-sums-after-removal-of-elements) |
 | [2172-maximum-and-sum-of-array](https://github.com/K-Raze/DSA-CPP/tree/master/2172-maximum-and-sum-of-array) |
 | [2684-maximum-number-of-moves-in-a-grid](https://github.com/K-Raze/DSA-CPP/tree/master/2684-maximum-number-of-moves-in-a-grid) |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/K-Raze/DSA-CPP/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3533-concatenated-divisibility](https://github.com/K-Raze/DSA-CPP/tree/master/3533-concatenated-divisibility) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/K-Raze/DSA-CPP/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3575-maximum-good-subtree-score](https://github.com/K-Raze/DSA-CPP/tree/master/3575-maximum-good-subtree-score) |
@@ -165,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2178-maximum-split-of-positive-even-integers](https://github.com/K-Raze/DSA-CPP/tree/master/2178-maximum-split-of-positive-even-integers) |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/K-Raze/DSA-CPP/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/K-Raze/DSA-CPP/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Backtracking
 |  |
@@ -238,4 +241,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1291-sequential-digits](https://github.com/K-Raze/DSA-CPP/tree/master/1291-sequential-digits) |
+## Number Theory
+|  |
+| ------- |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/K-Raze/DSA-CPP/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 <!---LeetCode Topics End-->
