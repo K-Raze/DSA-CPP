@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3327-check-if-dfs-strings-are-palindromes](https://github.com/K-Raze/DSA-CPP/tree/master/3327-check-if-dfs-strings-are-palindromes) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/K-Raze/DSA-CPP/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/K-Raze/DSA-CPP/tree/master/3501-maximize-active-section-with-trade-ii) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/K-Raze/DSA-CPP/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/K-Raze/DSA-CPP/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Hash Table
 |  |
@@ -266,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1288-remove-covered-intervals](https://github.com/K-Raze/DSA-CPP/tree/master/1288-remove-covered-intervals) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/K-Raze/DSA-CPP/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2551-put-marbles-in-bags](https://github.com/K-Raze/DSA-CPP/tree/master/2551-put-marbles-in-bags) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/K-Raze/DSA-CPP/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/K-Raze/DSA-CPP/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/K-Raze/DSA-CPP/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Hash Function
@@ -313,4 +315,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/K-Raze/DSA-CPP/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+## Counting Sort
+|  |
+| ------- |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/K-Raze/DSA-CPP/tree/master/3517-smallest-palindromic-rearrangement-i) |
 <!---LeetCode Topics End-->
