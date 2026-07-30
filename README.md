@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/K-Raze/DSA-CPP/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/K-Raze/DSA-CPP/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/K-Raze/DSA-CPP/tree/master/0628-maximum-product-of-three-numbers) |
+| [0811-subdomain-visit-count](https://github.com/K-Raze/DSA-CPP/tree/master/0811-subdomain-visit-count) |
 | [1031-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/K-Raze/DSA-CPP/tree/master/1031-maximum-sum-of-two-non-overlapping-subarrays) |
 | [1288-remove-covered-intervals](https://github.com/K-Raze/DSA-CPP/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/K-Raze/DSA-CPP/tree/master/1301-number-of-paths-with-max-score) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0208-implement-trie-prefix-tree](https://github.com/K-Raze/DSA-CPP/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/K-Raze/DSA-CPP/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0212-word-search-ii](https://github.com/K-Raze/DSA-CPP/tree/master/0212-word-search-ii) |
+| [0811-subdomain-visit-count](https://github.com/K-Raze/DSA-CPP/tree/master/0811-subdomain-visit-count) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/K-Raze/DSA-CPP/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/K-Raze/DSA-CPP/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/K-Raze/DSA-CPP/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -65,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/K-Raze/DSA-CPP/tree/master/0128-longest-consecutive-sequence) |
 | [0208-implement-trie-prefix-tree](https://github.com/K-Raze/DSA-CPP/tree/master/0208-implement-trie-prefix-tree) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/K-Raze/DSA-CPP/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
+| [0811-subdomain-visit-count](https://github.com/K-Raze/DSA-CPP/tree/master/0811-subdomain-visit-count) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/K-Raze/DSA-CPP/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/K-Raze/DSA-CPP/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/K-Raze/DSA-CPP/tree/master/3312-sorted-gcd-pair-queries) |
@@ -323,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0811-subdomain-visit-count](https://github.com/K-Raze/DSA-CPP/tree/master/0811-subdomain-visit-count) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/K-Raze/DSA-CPP/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/K-Raze/DSA-CPP/tree/master/3312-sorted-gcd-pair-queries) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/K-Raze/DSA-CPP/tree/master/3518-smallest-palindromic-rearrangement-ii) |
