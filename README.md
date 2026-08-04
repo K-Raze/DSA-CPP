@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/K-Raze/DSA-CPP/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3575-maximum-good-subtree-score](https://github.com/K-Raze/DSA-CPP/tree/master/3575-maximum-good-subtree-score) |
 | [3620-network-recovery-pathways](https://github.com/K-Raze/DSA-CPP/tree/master/3620-network-recovery-pathways) |
+| [3731-find-missing-elements](https://github.com/K-Raze/DSA-CPP/tree/master/3731-find-missing-elements) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/K-Raze/DSA-CPP/tree/master/3739-count-subarrays-with-majority-element-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/K-Raze/DSA-CPP/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3977-minimum-time-to-reach-target-with-limited-power](https://github.com/K-Raze/DSA-CPP/tree/master/3977-minimum-time-to-reach-target-with-limited-power) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3327-check-if-dfs-strings-are-palindromes](https://github.com/K-Raze/DSA-CPP/tree/master/3327-check-if-dfs-strings-are-palindromes) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/K-Raze/DSA-CPP/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/K-Raze/DSA-CPP/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3731-find-missing-elements](https://github.com/K-Raze/DSA-CPP/tree/master/3731-find-missing-elements) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/K-Raze/DSA-CPP/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Divide and Conquer
 |  |
@@ -293,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/K-Raze/DSA-CPP/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/K-Raze/DSA-CPP/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/K-Raze/DSA-CPP/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+| [3731-find-missing-elements](https://github.com/K-Raze/DSA-CPP/tree/master/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/K-Raze/DSA-CPP/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Hash Function
 |  |
