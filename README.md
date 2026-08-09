@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1288-remove-covered-intervals](https://github.com/K-Raze/DSA-CPP/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/K-Raze/DSA-CPP/tree/master/1301-number-of-paths-with-max-score) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/K-Raze/DSA-CPP/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/K-Raze/DSA-CPP/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1879-minimum-xor-sum-of-two-arrays](https://github.com/K-Raze/DSA-CPP/tree/master/1879-minimum-xor-sum-of-two-arrays) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/K-Raze/DSA-CPP/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/K-Raze/DSA-CPP/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/K-Raze/DSA-CPP/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0811-subdomain-visit-count](https://github.com/K-Raze/DSA-CPP/tree/master/0811-subdomain-visit-count) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/K-Raze/DSA-CPP/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/K-Raze/DSA-CPP/tree/master/1679-max-number-of-k-sum-pairs) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/K-Raze/DSA-CPP/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/K-Raze/DSA-CPP/tree/master/3312-sorted-gcd-pair-queries) |
 | [3327-check-if-dfs-strings-are-palindromes](https://github.com/K-Raze/DSA-CPP/tree/master/3327-check-if-dfs-strings-are-palindromes) |
@@ -292,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/K-Raze/DSA-CPP/tree/master/0628-maximum-product-of-three-numbers) |
 | [1288-remove-covered-intervals](https://github.com/K-Raze/DSA-CPP/tree/master/1288-remove-covered-intervals) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/K-Raze/DSA-CPP/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/K-Raze/DSA-CPP/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2551-put-marbles-in-bags](https://github.com/K-Raze/DSA-CPP/tree/master/2551-put-marbles-in-bags) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/K-Raze/DSA-CPP/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/K-Raze/DSA-CPP/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -306,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0165-compare-version-numbers](https://github.com/K-Raze/DSA-CPP/tree/master/0165-compare-version-numbers) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/K-Raze/DSA-CPP/tree/master/1679-max-number-of-k-sum-pairs) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/K-Raze/DSA-CPP/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/K-Raze/DSA-CPP/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Enumeration
