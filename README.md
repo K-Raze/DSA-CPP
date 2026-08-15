@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/K-Raze/DSA-CPP/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3575-maximum-good-subtree-score](https://github.com/K-Raze/DSA-CPP/tree/master/3575-maximum-good-subtree-score) |
 | [3620-network-recovery-pathways](https://github.com/K-Raze/DSA-CPP/tree/master/3620-network-recovery-pathways) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/K-Raze/DSA-CPP/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3731-find-missing-elements](https://github.com/K-Raze/DSA-CPP/tree/master/3731-find-missing-elements) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/K-Raze/DSA-CPP/tree/master/3739-count-subarrays-with-majority-element-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/K-Raze/DSA-CPP/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -222,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3533-concatenated-divisibility](https://github.com/K-Raze/DSA-CPP/tree/master/3533-concatenated-divisibility) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/K-Raze/DSA-CPP/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3575-maximum-good-subtree-score](https://github.com/K-Raze/DSA-CPP/tree/master/3575-maximum-good-subtree-score) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/K-Raze/DSA-CPP/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Bitmask
 |  |
 | ------- |
