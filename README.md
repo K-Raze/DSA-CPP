@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/K-Raze/DSA-CPP/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3519-count-numbers-with-non-decreasing-digits](https://github.com/K-Raze/DSA-CPP/tree/master/3519-count-numbers-with-non-decreasing-digits) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/K-Raze/DSA-CPP/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
+| [4026-maximum-gap-between-stations](https://github.com/K-Raze/DSA-CPP/tree/master/4026-maximum-gap-between-stations) |
 ## Hash Table
 |  |
 | ------- |
@@ -272,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2551-put-marbles-in-bags](https://github.com/K-Raze/DSA-CPP/tree/master/2551-put-marbles-in-bags) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/K-Raze/DSA-CPP/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/K-Raze/DSA-CPP/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+| [4026-maximum-gap-between-stations](https://github.com/K-Raze/DSA-CPP/tree/master/4026-maximum-gap-between-stations) |
 ## Design
 |  |
 | ------- |
@@ -350,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1679-max-number-of-k-sum-pairs](https://github.com/K-Raze/DSA-CPP/tree/master/1679-max-number-of-k-sum-pairs) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/K-Raze/DSA-CPP/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/K-Raze/DSA-CPP/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [4026-maximum-gap-between-stations](https://github.com/K-Raze/DSA-CPP/tree/master/4026-maximum-gap-between-stations) |
 ## Enumeration
 |  |
 | ------- |
