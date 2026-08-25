@@ -157,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/K-Raze/DSA-CPP/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0399-evaluate-division](https://github.com/K-Raze/DSA-CPP/tree/master/0399-evaluate-division) |
+| [1761-minimum-degree-of-a-connected-trio-in-a-graph](https://github.com/K-Raze/DSA-CPP/tree/master/1761-minimum-degree-of-a-connected-trio-in-a-graph) |
 | [2328-number-of-increasing-paths-in-a-grid](https://github.com/K-Raze/DSA-CPP/tree/master/2328-number-of-increasing-paths-in-a-grid) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/K-Raze/DSA-CPP/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/K-Raze/DSA-CPP/tree/master/2685-count-the-number-of-complete-components) |
@@ -364,6 +365,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1291-sequential-digits](https://github.com/K-Raze/DSA-CPP/tree/master/1291-sequential-digits) |
+| [1761-minimum-degree-of-a-connected-trio-in-a-graph](https://github.com/K-Raze/DSA-CPP/tree/master/1761-minimum-degree-of-a-connected-trio-in-a-graph) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/K-Raze/DSA-CPP/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/K-Raze/DSA-CPP/tree/master/3499-maximize-active-section-with-trade-i) |
 ## Number Theory
