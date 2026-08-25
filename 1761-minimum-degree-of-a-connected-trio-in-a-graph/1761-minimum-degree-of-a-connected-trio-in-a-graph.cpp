@@ -17,8 +17,9 @@ public:
 
         for(int i=0;i<n;i++)
             for(int j=i+1;j<n;j++)
+            if(adj[i].find(j)!=adj[i].end())
                 for(int k=j+1;k<n;k++)
-                    if(adj[i].find(j)!=adj[i].end() && adj[i].find(k)!=adj[i].end()
+                    if(adj[i].find(k)!=adj[i].end()
                         && adj[j].find(k)!=adj[j].end())
                             ans=min(ans,deg[i]+deg[j]+deg[k]-6);
         if(ans==2e9)
