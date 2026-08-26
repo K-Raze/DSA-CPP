@@ -11,15 +11,20 @@ public:
         
         int x=0;
         int ans=1;
+        bool tikku=0;
         while(x!=n)
         {
-            ans=(ans*2)%mod;
+            if(tikku)
+                ans=(ans*2)%mod;
+            else
+                tikku=1;
+
             int end=last[arr[x]];
             for(int i=x;i<=end;i++)
                 end=max(end,last[arr[i]]);
             x=end+1;
         }
 
-        return (1LL*ans*500000004)%mod;
+        return ans;
     }
 };
