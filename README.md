@@ -149,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2328-number-of-increasing-paths-in-a-grid](https://github.com/K-Raze/DSA-CPP/tree/master/2328-number-of-increasing-paths-in-a-grid) |
 | [2684-maximum-number-of-moves-in-a-grid](https://github.com/K-Raze/DSA-CPP/tree/master/2684-maximum-number-of-moves-in-a-grid) |
 | [2920-maximum-points-after-collecting-coins-from-all-nodes](https://github.com/K-Raze/DSA-CPP/tree/master/2920-maximum-points-after-collecting-coins-from-all-nodes) |
+| [2973-find-number-of-coins-to-place-in-tree-nodes](https://github.com/K-Raze/DSA-CPP/tree/master/2973-find-number-of-coins-to-place-in-tree-nodes) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/K-Raze/DSA-CPP/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3519-count-numbers-with-non-decreasing-digits](https://github.com/K-Raze/DSA-CPP/tree/master/3519-count-numbers-with-non-decreasing-digits) |
 | [3533-concatenated-divisibility](https://github.com/K-Raze/DSA-CPP/tree/master/3533-concatenated-divisibility) |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2163-minimum-difference-in-sums-after-removal-of-elements](https://github.com/K-Raze/DSA-CPP/tree/master/2163-minimum-difference-in-sums-after-removal-of-elements) |
 | [2551-put-marbles-in-bags](https://github.com/K-Raze/DSA-CPP/tree/master/2551-put-marbles-in-bags) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/K-Raze/DSA-CPP/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [2973-find-number-of-coins-to-place-in-tree-nodes](https://github.com/K-Raze/DSA-CPP/tree/master/2973-find-number-of-coins-to-place-in-tree-nodes) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/K-Raze/DSA-CPP/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3620-network-recovery-pathways](https://github.com/K-Raze/DSA-CPP/tree/master/3620-network-recovery-pathways) |
 | [3977-minimum-time-to-reach-target-with-limited-power](https://github.com/K-Raze/DSA-CPP/tree/master/3977-minimum-time-to-reach-target-with-limited-power) |
@@ -313,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/K-Raze/DSA-CPP/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/K-Raze/DSA-CPP/tree/master/2685-count-the-number-of-complete-components) |
 | [2920-maximum-points-after-collecting-coins-from-all-nodes](https://github.com/K-Raze/DSA-CPP/tree/master/2920-maximum-points-after-collecting-coins-from-all-nodes) |
+| [2973-find-number-of-coins-to-place-in-tree-nodes](https://github.com/K-Raze/DSA-CPP/tree/master/2973-find-number-of-coins-to-place-in-tree-nodes) |
 | [3327-check-if-dfs-strings-are-palindromes](https://github.com/K-Raze/DSA-CPP/tree/master/3327-check-if-dfs-strings-are-palindromes) |
 | [3575-maximum-good-subtree-score](https://github.com/K-Raze/DSA-CPP/tree/master/3575-maximum-good-subtree-score) |
 ## Topological Sort
@@ -342,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0979-distribute-coins-in-binary-tree](https://github.com/K-Raze/DSA-CPP/tree/master/0979-distribute-coins-in-binary-tree) |
 | [2920-maximum-points-after-collecting-coins-from-all-nodes](https://github.com/K-Raze/DSA-CPP/tree/master/2920-maximum-points-after-collecting-coins-from-all-nodes) |
+| [2973-find-number-of-coins-to-place-in-tree-nodes](https://github.com/K-Raze/DSA-CPP/tree/master/2973-find-number-of-coins-to-place-in-tree-nodes) |
 | [3327-check-if-dfs-strings-are-palindromes](https://github.com/K-Raze/DSA-CPP/tree/master/3327-check-if-dfs-strings-are-palindromes) |
 | [3575-maximum-good-subtree-score](https://github.com/K-Raze/DSA-CPP/tree/master/3575-maximum-good-subtree-score) |
 ## Sorting
@@ -352,6 +356,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/K-Raze/DSA-CPP/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/K-Raze/DSA-CPP/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2551-put-marbles-in-bags](https://github.com/K-Raze/DSA-CPP/tree/master/2551-put-marbles-in-bags) |
+| [2973-find-number-of-coins-to-place-in-tree-nodes](https://github.com/K-Raze/DSA-CPP/tree/master/2973-find-number-of-coins-to-place-in-tree-nodes) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/K-Raze/DSA-CPP/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/K-Raze/DSA-CPP/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/K-Raze/DSA-CPP/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -447,6 +452,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0979-distribute-coins-in-binary-tree](https://github.com/K-Raze/DSA-CPP/tree/master/0979-distribute-coins-in-binary-tree) |
 | [2920-maximum-points-after-collecting-coins-from-all-nodes](https://github.com/K-Raze/DSA-CPP/tree/master/2920-maximum-points-after-collecting-coins-from-all-nodes) |
+| [2973-find-number-of-coins-to-place-in-tree-nodes](https://github.com/K-Raze/DSA-CPP/tree/master/2973-find-number-of-coins-to-place-in-tree-nodes) |
 ## Binary Tree
 |  |
 | ------- |
