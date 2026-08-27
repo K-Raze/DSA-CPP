@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/K-Raze/DSA-CPP/tree/master/3739-count-subarrays-with-majority-element-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/K-Raze/DSA-CPP/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3977-minimum-time-to-reach-target-with-limited-power](https://github.com/K-Raze/DSA-CPP/tree/master/3977-minimum-time-to-reach-target-with-limited-power) |
+| [4011-count-subarrays-with-even-odd-ratio-i](https://github.com/K-Raze/DSA-CPP/tree/master/4011-count-subarrays-with-even-odd-ratio-i) |
 | [4013-count-subarrays-with-even-odd-ratio-ii](https://github.com/K-Raze/DSA-CPP/tree/master/4013-count-subarrays-with-even-odd-ratio-ii) |
 | [4027-elevator-requests-iii](https://github.com/K-Raze/DSA-CPP/tree/master/4027-elevator-requests-iii) |
 ## String
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0327-count-of-range-sum](https://github.com/K-Raze/DSA-CPP/tree/master/0327-count-of-range-sum) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/K-Raze/DSA-CPP/tree/master/3739-count-subarrays-with-majority-element-ii) |
+| [4011-count-subarrays-with-even-odd-ratio-i](https://github.com/K-Raze/DSA-CPP/tree/master/4011-count-subarrays-with-even-odd-ratio-i) |
 | [4013-count-subarrays-with-even-odd-ratio-ii](https://github.com/K-Raze/DSA-CPP/tree/master/4013-count-subarrays-with-even-odd-ratio-ii) |
 ## Segment Tree
 |  |
@@ -117,12 +119,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2213-longest-substring-of-one-repeating-character](https://github.com/K-Raze/DSA-CPP/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/K-Raze/DSA-CPP/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/K-Raze/DSA-CPP/tree/master/3739-count-subarrays-with-majority-element-ii) |
+| [4011-count-subarrays-with-even-odd-ratio-i](https://github.com/K-Raze/DSA-CPP/tree/master/4011-count-subarrays-with-even-odd-ratio-i) |
 | [4013-count-subarrays-with-even-odd-ratio-ii](https://github.com/K-Raze/DSA-CPP/tree/master/4013-count-subarrays-with-even-odd-ratio-ii) |
 ## Merge Sort
 |  |
 | ------- |
 | [0327-count-of-range-sum](https://github.com/K-Raze/DSA-CPP/tree/master/0327-count-of-range-sum) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/K-Raze/DSA-CPP/tree/master/3739-count-subarrays-with-majority-element-ii) |
+| [4011-count-subarrays-with-even-odd-ratio-i](https://github.com/K-Raze/DSA-CPP/tree/master/4011-count-subarrays-with-even-odd-ratio-i) |
 | [4013-count-subarrays-with-even-odd-ratio-ii](https://github.com/K-Raze/DSA-CPP/tree/master/4013-count-subarrays-with-even-odd-ratio-ii) |
 ## Prefix Sum
 |  |
@@ -131,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3312-sorted-gcd-pair-queries](https://github.com/K-Raze/DSA-CPP/tree/master/3312-sorted-gcd-pair-queries) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/K-Raze/DSA-CPP/tree/master/3739-count-subarrays-with-majority-element-ii) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/K-Raze/DSA-CPP/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
+| [4011-count-subarrays-with-even-odd-ratio-i](https://github.com/K-Raze/DSA-CPP/tree/master/4011-count-subarrays-with-even-odd-ratio-i) |
 | [4013-count-subarrays-with-even-odd-ratio-ii](https://github.com/K-Raze/DSA-CPP/tree/master/4013-count-subarrays-with-even-odd-ratio-ii) |
 ## Sliding Window
 |  |
@@ -342,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0327-count-of-range-sum](https://github.com/K-Raze/DSA-CPP/tree/master/0327-count-of-range-sum) |
+| [4011-count-subarrays-with-even-odd-ratio-i](https://github.com/K-Raze/DSA-CPP/tree/master/4011-count-subarrays-with-even-odd-ratio-i) |
 | [4013-count-subarrays-with-even-odd-ratio-ii](https://github.com/K-Raze/DSA-CPP/tree/master/4013-count-subarrays-with-even-odd-ratio-ii) |
 ## Ordered Set
 |  |
