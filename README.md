@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3718-smallest-missing-multiple-of-k](https://github.com/K-Raze/DSA-CPP/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/K-Raze/DSA-CPP/tree/master/3731-find-missing-elements) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/K-Raze/DSA-CPP/tree/master/3739-count-subarrays-with-majority-element-ii) |
+| [3786-total-sum-of-interaction-cost-in-tree-groups](https://github.com/K-Raze/DSA-CPP/tree/master/3786-total-sum-of-interaction-cost-in-tree-groups) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/K-Raze/DSA-CPP/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3977-minimum-time-to-reach-target-with-limited-power](https://github.com/K-Raze/DSA-CPP/tree/master/3977-minimum-time-to-reach-target-with-limited-power) |
 | [4011-count-subarrays-with-even-odd-ratio-i](https://github.com/K-Raze/DSA-CPP/tree/master/4011-count-subarrays-with-even-odd-ratio-i) |
@@ -335,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2973-find-number-of-coins-to-place-in-tree-nodes](https://github.com/K-Raze/DSA-CPP/tree/master/2973-find-number-of-coins-to-place-in-tree-nodes) |
 | [3327-check-if-dfs-strings-are-palindromes](https://github.com/K-Raze/DSA-CPP/tree/master/3327-check-if-dfs-strings-are-palindromes) |
 | [3575-maximum-good-subtree-score](https://github.com/K-Raze/DSA-CPP/tree/master/3575-maximum-good-subtree-score) |
+| [3786-total-sum-of-interaction-cost-in-tree-groups](https://github.com/K-Raze/DSA-CPP/tree/master/3786-total-sum-of-interaction-cost-in-tree-groups) |
 ## Topological Sort
 |  |
 | ------- |
@@ -367,6 +369,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2973-find-number-of-coins-to-place-in-tree-nodes](https://github.com/K-Raze/DSA-CPP/tree/master/2973-find-number-of-coins-to-place-in-tree-nodes) |
 | [3327-check-if-dfs-strings-are-palindromes](https://github.com/K-Raze/DSA-CPP/tree/master/3327-check-if-dfs-strings-are-palindromes) |
 | [3575-maximum-good-subtree-score](https://github.com/K-Raze/DSA-CPP/tree/master/3575-maximum-good-subtree-score) |
+| [3786-total-sum-of-interaction-cost-in-tree-groups](https://github.com/K-Raze/DSA-CPP/tree/master/3786-total-sum-of-interaction-cost-in-tree-groups) |
 ## Sorting
 |  |
 | ------- |
