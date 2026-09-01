@@ -68,31 +68,20 @@ public:
                 int ny=y+c[k];
                 if(isValid(nx,ny) && mat[nx][ny]!='X')
                 {
+                    int ne=ce-1;
+                    int nMask=mask;
                     if(mat[nx][ny]=='L')
                     {
                         int bit=cordBit[nx][ny];
-                        int nMask = mask & ~(1 << bit);
-                        if(!vis[nx][ny][ce-1][nMask])
-                        {
-                            vis[nx][ny][ce-1][nMask]=1;
-                            q.push({move+1,ce-1,nx,ny,nMask});
-                        }
+                        nMask = mask & ~(1 << bit);
                     }
                     else if(mat[nx][ny]=='R')
+                        ne=E;
+
+                    if(!vis[nx][ny][ne][nMask])
                     {
-                        if(!vis[nx][ny][E][mask])
-                        {
-                            vis[nx][ny][E][mask]=1+move;
-                            q.push({move+1,E,nx,ny,mask});
-                        }
-                    }
-                    else
-                    {
-                        if(!vis[nx][ny][ce-1][mask])
-                        {
-                            vis[nx][ny][ce-1][mask]=1;
-                            q.push({move+1,ce-1,nx,ny,mask});
-                        }
+                        vis[nx][ny][ne][nMask]=1;
+                        q.push({move+1,ne,nx,ny,nMask});
                     }
                 }
             }
