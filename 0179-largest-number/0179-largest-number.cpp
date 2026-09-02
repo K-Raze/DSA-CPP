@@ -10,10 +10,8 @@ public:
         string ans;
         for(string& s : arr)
             ans+=s;
-        reverse(ans.begin(),ans.end());
-        while(ans.size()>1 && ans.back()=='0')
-            ans.pop_back();
-        reverse(ans.begin(),ans.end());
+        if(ans.front()=='0')
+            return "0";
         return ans;
     }
 };
