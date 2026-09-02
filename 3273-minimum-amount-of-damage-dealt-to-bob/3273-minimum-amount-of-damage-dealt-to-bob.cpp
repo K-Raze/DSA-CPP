@@ -31,7 +31,7 @@ public:
         ll td=accumulate(damage.begin(),damage.end(),0LL);
         for(auto&[d,h] : arr)
         {
-            cout<<d<<" ";
+            // cout<<d<<" ";
             ans+=h*td;
             td-=d;
         }
