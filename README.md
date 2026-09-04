@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3786-total-sum-of-interaction-cost-in-tree-groups](https://github.com/K-Raze/DSA-CPP/tree/master/3786-total-sum-of-interaction-cost-in-tree-groups) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/K-Raze/DSA-CPP/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3903-smallest-stable-index-i](https://github.com/K-Raze/DSA-CPP/tree/master/3903-smallest-stable-index-i) |
+| [3904-smallest-stable-index-ii](https://github.com/K-Raze/DSA-CPP/tree/master/3904-smallest-stable-index-ii) |
 | [3977-minimum-time-to-reach-target-with-limited-power](https://github.com/K-Raze/DSA-CPP/tree/master/3977-minimum-time-to-reach-target-with-limited-power) |
 | [4011-count-subarrays-with-even-odd-ratio-i](https://github.com/K-Raze/DSA-CPP/tree/master/4011-count-subarrays-with-even-odd-ratio-i) |
 | [4012-count-of-unfinished-tasks-after-each-shift](https://github.com/K-Raze/DSA-CPP/tree/master/4012-count-of-unfinished-tasks-after-each-shift) |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/K-Raze/DSA-CPP/tree/master/3739-count-subarrays-with-majority-element-ii) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/K-Raze/DSA-CPP/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3903-smallest-stable-index-i](https://github.com/K-Raze/DSA-CPP/tree/master/3903-smallest-stable-index-i) |
+| [3904-smallest-stable-index-ii](https://github.com/K-Raze/DSA-CPP/tree/master/3904-smallest-stable-index-ii) |
 | [4011-count-subarrays-with-even-odd-ratio-i](https://github.com/K-Raze/DSA-CPP/tree/master/4011-count-subarrays-with-even-odd-ratio-i) |
 | [4012-count-of-unfinished-tasks-after-each-shift](https://github.com/K-Raze/DSA-CPP/tree/master/4012-count-of-unfinished-tasks-after-each-shift) |
 | [4013-count-subarrays-with-even-odd-ratio-ii](https://github.com/K-Raze/DSA-CPP/tree/master/4013-count-subarrays-with-even-odd-ratio-ii) |
