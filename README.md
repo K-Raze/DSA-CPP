@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/K-Raze/DSA-CPP/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0399-evaluate-division](https://github.com/K-Raze/DSA-CPP/tree/master/0399-evaluate-division) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/K-Raze/DSA-CPP/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
+| [0494-target-sum](https://github.com/K-Raze/DSA-CPP/tree/master/0494-target-sum) |
 | [0628-maximum-product-of-three-numbers](https://github.com/K-Raze/DSA-CPP/tree/master/0628-maximum-product-of-three-numbers) |
 | [0811-subdomain-visit-count](https://github.com/K-Raze/DSA-CPP/tree/master/0811-subdomain-visit-count) |
 | [0877-stone-game](https://github.com/K-Raze/DSA-CPP/tree/master/0877-stone-game) |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0115-distinct-subsequences](https://github.com/K-Raze/DSA-CPP/tree/master/0115-distinct-subsequences) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/K-Raze/DSA-CPP/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0375-guess-number-higher-or-lower-ii](https://github.com/K-Raze/DSA-CPP/tree/master/0375-guess-number-higher-or-lower-ii) |
+| [0494-target-sum](https://github.com/K-Raze/DSA-CPP/tree/master/0494-target-sum) |
 | [0877-stone-game](https://github.com/K-Raze/DSA-CPP/tree/master/0877-stone-game) |
 | [0887-super-egg-drop](https://github.com/K-Raze/DSA-CPP/tree/master/0887-super-egg-drop) |
 | [1031-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/K-Raze/DSA-CPP/tree/master/1031-maximum-sum-of-two-non-overlapping-subarrays) |
@@ -322,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0212-word-search-ii](https://github.com/K-Raze/DSA-CPP/tree/master/0212-word-search-ii) |
+| [0494-target-sum](https://github.com/K-Raze/DSA-CPP/tree/master/0494-target-sum) |
 | [2178-maximum-split-of-positive-even-integers](https://github.com/K-Raze/DSA-CPP/tree/master/2178-maximum-split-of-positive-even-integers) |
 ## Greedy
 |  |
@@ -531,4 +534,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1029-two-city-scheduling](https://github.com/K-Raze/DSA-CPP/tree/master/1029-two-city-scheduling) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/K-Raze/DSA-CPP/tree/master/0494-target-sum) |
+## 0-1 Knapsack
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/K-Raze/DSA-CPP/tree/master/0494-target-sum) |
 <!---LeetCode Topics End-->
