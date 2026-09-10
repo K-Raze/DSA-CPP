@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0068-text-justification](https://github.com/K-Raze/DSA-CPP/tree/master/0068-text-justification) |
 | [0128-longest-consecutive-sequence](https://github.com/K-Raze/DSA-CPP/tree/master/0128-longest-consecutive-sequence) |
 | [0179-largest-number](https://github.com/K-Raze/DSA-CPP/tree/master/0179-largest-number) |
 | [0212-word-search-ii](https://github.com/K-Raze/DSA-CPP/tree/master/0212-word-search-ii) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0068-text-justification](https://github.com/K-Raze/DSA-CPP/tree/master/0068-text-justification) |
 | [0071-simplify-path](https://github.com/K-Raze/DSA-CPP/tree/master/0071-simplify-path) |
 | [0115-distinct-subsequences](https://github.com/K-Raze/DSA-CPP/tree/master/0115-distinct-subsequences) |
 | [0165-compare-version-numbers](https://github.com/K-Raze/DSA-CPP/tree/master/0165-compare-version-numbers) |
@@ -470,6 +472,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0068-text-justification](https://github.com/K-Raze/DSA-CPP/tree/master/0068-text-justification) |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/K-Raze/DSA-CPP/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/K-Raze/DSA-CPP/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Combinatorics
