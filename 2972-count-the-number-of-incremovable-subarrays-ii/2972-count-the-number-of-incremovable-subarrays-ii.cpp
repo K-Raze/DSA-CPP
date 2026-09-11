@@ -37,11 +37,11 @@ public:
             }
             reverse(down.begin(),down.end());
         }
-        for(auto[x,y] : up)
-            cout<<x<<" ";
-        cout<<endl;
-        for(auto[x,y]: down)
-            cout<<x<<" ";
+        // for(auto[x,y] : up)
+        //     cout<<x<<" ";
+        // cout<<endl;
+        // for(auto[x,y]: down)
+        //     cout<<x<<" ";
 
         ll ans=0;
 
