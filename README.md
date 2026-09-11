@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/K-Raze/DSA-CPP/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/K-Raze/DSA-CPP/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2963-count-the-number-of-good-partitions](https://github.com/K-Raze/DSA-CPP/tree/master/2963-count-the-number-of-good-partitions) |
+| [2972-count-the-number-of-incremovable-subarrays-ii](https://github.com/K-Raze/DSA-CPP/tree/master/2972-count-the-number-of-incremovable-subarrays-ii) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/K-Raze/DSA-CPP/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/K-Raze/DSA-CPP/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3229-minimum-operations-to-make-array-equal-to-target](https://github.com/K-Raze/DSA-CPP/tree/master/3229-minimum-operations-to-make-array-equal-to-target) |
@@ -246,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0981-time-based-key-value-store](https://github.com/K-Raze/DSA-CPP/tree/master/0981-time-based-key-value-store) |
 | [1146-snapshot-array](https://github.com/K-Raze/DSA-CPP/tree/master/1146-snapshot-array) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/K-Raze/DSA-CPP/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [2972-count-the-number-of-incremovable-subarrays-ii](https://github.com/K-Raze/DSA-CPP/tree/master/2972-count-the-number-of-incremovable-subarrays-ii) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/K-Raze/DSA-CPP/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3312-sorted-gcd-pair-queries](https://github.com/K-Raze/DSA-CPP/tree/master/3312-sorted-gcd-pair-queries) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/K-Raze/DSA-CPP/tree/master/3501-maximize-active-section-with-trade-ii) |
@@ -450,6 +452,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0165-compare-version-numbers](https://github.com/K-Raze/DSA-CPP/tree/master/0165-compare-version-numbers) |
 | [0962-maximum-width-ramp](https://github.com/K-Raze/DSA-CPP/tree/master/0962-maximum-width-ramp) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/K-Raze/DSA-CPP/tree/master/1679-max-number-of-k-sum-pairs) |
+| [2972-count-the-number-of-incremovable-subarrays-ii](https://github.com/K-Raze/DSA-CPP/tree/master/2972-count-the-number-of-incremovable-subarrays-ii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/K-Raze/DSA-CPP/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/K-Raze/DSA-CPP/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/K-Raze/DSA-CPP/tree/master/3867-sum-of-gcd-of-formed-pairs) |
