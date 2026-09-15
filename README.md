@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/K-Raze/DSA-CPP/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/K-Raze/DSA-CPP/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2468-split-message-based-on-limit](https://github.com/K-Raze/DSA-CPP/tree/master/2468-split-message-based-on-limit) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/K-Raze/DSA-CPP/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/K-Raze/DSA-CPP/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/K-Raze/DSA-CPP/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3327-check-if-dfs-strings-are-palindromes](https://github.com/K-Raze/DSA-CPP/tree/master/3327-check-if-dfs-strings-are-palindromes) |
@@ -200,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2163-minimum-difference-in-sums-after-removal-of-elements](https://github.com/K-Raze/DSA-CPP/tree/master/2163-minimum-difference-in-sums-after-removal-of-elements) |
 | [2172-maximum-and-sum-of-array](https://github.com/K-Raze/DSA-CPP/tree/master/2172-maximum-and-sum-of-array) |
 | [2328-number-of-increasing-paths-in-a-grid](https://github.com/K-Raze/DSA-CPP/tree/master/2328-number-of-increasing-paths-in-a-grid) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/K-Raze/DSA-CPP/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2684-maximum-number-of-moves-in-a-grid](https://github.com/K-Raze/DSA-CPP/tree/master/2684-maximum-number-of-moves-in-a-grid) |
 | [2920-maximum-points-after-collecting-coins-from-all-nodes](https://github.com/K-Raze/DSA-CPP/tree/master/2920-maximum-points-after-collecting-coins-from-all-nodes) |
 | [2973-find-number-of-coins-to-place-in-tree-nodes](https://github.com/K-Raze/DSA-CPP/tree/master/2973-find-number-of-coins-to-place-in-tree-nodes) |
@@ -364,6 +366,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2178-maximum-split-of-positive-even-integers](https://github.com/K-Raze/DSA-CPP/tree/master/2178-maximum-split-of-positive-even-integers) |
 | [2350-shortest-impossible-sequence-of-rolls](https://github.com/K-Raze/DSA-CPP/tree/master/2350-shortest-impossible-sequence-of-rolls) |
 | [2449-minimum-number-of-operations-to-make-arrays-similar](https://github.com/K-Raze/DSA-CPP/tree/master/2449-minimum-number-of-operations-to-make-arrays-similar) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/K-Raze/DSA-CPP/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2551-put-marbles-in-bags](https://github.com/K-Raze/DSA-CPP/tree/master/2551-put-marbles-in-bags) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/K-Raze/DSA-CPP/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3229-minimum-operations-to-make-array-equal-to-target](https://github.com/K-Raze/DSA-CPP/tree/master/3229-minimum-operations-to-make-array-equal-to-target) |
@@ -464,6 +467,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0165-compare-version-numbers](https://github.com/K-Raze/DSA-CPP/tree/master/0165-compare-version-numbers) |
 | [0962-maximum-width-ramp](https://github.com/K-Raze/DSA-CPP/tree/master/0962-maximum-width-ramp) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/K-Raze/DSA-CPP/tree/master/1679-max-number-of-k-sum-pairs) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/K-Raze/DSA-CPP/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2970-count-the-number-of-incremovable-subarrays-i](https://github.com/K-Raze/DSA-CPP/tree/master/2970-count-the-number-of-incremovable-subarrays-i) |
 | [2972-count-the-number-of-incremovable-subarrays-ii](https://github.com/K-Raze/DSA-CPP/tree/master/2972-count-the-number-of-incremovable-subarrays-ii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/K-Raze/DSA-CPP/tree/master/3534-path-existence-queries-in-a-graph-ii) |
