@@ -1,17 +1,19 @@
+    int parent_dsu[20005];
+    int size_dsu[20005];
 class Solution {
 public:
 
     // L ques 
 
     // ----------------------- DSU ----------------------
-    vector<int> parent_dsu, size_dsu;
     const int del=1e4+1;
     void dsu_init()
     {
-        parent_dsu.resize(20005);
-        size_dsu.assign(20005, 1);
         for (int i = 0; i < 20005; i++)
+        {
             parent_dsu[i] = i;
+            size_dsu[i]=1;
+        }
     }
 
     int ultParent(int x) { return x == parent_dsu[x] ? x : parent_dsu[x] = ultParent(parent_dsu[x]); }
