@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1301-number-of-paths-with-max-score](https://github.com/K-Raze/DSA-CPP/tree/master/1301-number-of-paths-with-max-score) |
 | [1326-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/K-Raze/DSA-CPP/tree/master/1326-minimum-number-of-taps-to-open-to-water-a-garden) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/K-Raze/DSA-CPP/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/K-Raze/DSA-CPP/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/K-Raze/DSA-CPP/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [1627-graph-connectivity-with-threshold](https://github.com/K-Raze/DSA-CPP/tree/master/1627-graph-connectivity-with-threshold) |
 | [1675-minimize-deviation-in-array](https://github.com/K-Raze/DSA-CPP/tree/master/1675-minimize-deviation-in-array) |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0981-time-based-key-value-store](https://github.com/K-Raze/DSA-CPP/tree/master/0981-time-based-key-value-store) |
 | [1146-snapshot-array](https://github.com/K-Raze/DSA-CPP/tree/master/1146-snapshot-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/K-Raze/DSA-CPP/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/K-Raze/DSA-CPP/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/K-Raze/DSA-CPP/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2350-shortest-impossible-sequence-of-rolls](https://github.com/K-Raze/DSA-CPP/tree/master/2350-shortest-impossible-sequence-of-rolls) |
 | [2514-count-anagrams](https://github.com/K-Raze/DSA-CPP/tree/master/2514-count-anagrams) |
@@ -189,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1031-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/K-Raze/DSA-CPP/tree/master/1031-maximum-sum-of-two-non-overlapping-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/K-Raze/DSA-CPP/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/K-Raze/DSA-CPP/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/K-Raze/DSA-CPP/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/K-Raze/DSA-CPP/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Dynamic Programming
@@ -205,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1031-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/K-Raze/DSA-CPP/tree/master/1031-maximum-sum-of-two-non-overlapping-subarrays) |
 | [1301-number-of-paths-with-max-score](https://github.com/K-Raze/DSA-CPP/tree/master/1301-number-of-paths-with-max-score) |
 | [1326-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/K-Raze/DSA-CPP/tree/master/1326-minimum-number-of-taps-to-open-to-water-a-garden) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/K-Raze/DSA-CPP/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1510-stone-game-iv](https://github.com/K-Raze/DSA-CPP/tree/master/1510-stone-game-iv) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/K-Raze/DSA-CPP/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1872-stone-game-viii](https://github.com/K-Raze/DSA-CPP/tree/master/1872-stone-game-viii) |
@@ -272,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0887-super-egg-drop](https://github.com/K-Raze/DSA-CPP/tree/master/0887-super-egg-drop) |
 | [0981-time-based-key-value-store](https://github.com/K-Raze/DSA-CPP/tree/master/0981-time-based-key-value-store) |
 | [1146-snapshot-array](https://github.com/K-Raze/DSA-CPP/tree/master/1146-snapshot-array) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/K-Raze/DSA-CPP/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/K-Raze/DSA-CPP/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2970-count-the-number-of-incremovable-subarrays-i](https://github.com/K-Raze/DSA-CPP/tree/master/2970-count-the-number-of-incremovable-subarrays-i) |
 | [2972-count-the-number-of-incremovable-subarrays-ii](https://github.com/K-Raze/DSA-CPP/tree/master/2972-count-the-number-of-incremovable-subarrays-ii) |
