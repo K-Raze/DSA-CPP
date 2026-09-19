@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1697-checking-existence-of-edge-length-limited-paths](https://github.com/K-Raze/DSA-CPP/tree/master/1697-checking-existence-of-edge-length-limited-paths) |
 | [1872-stone-game-viii](https://github.com/K-Raze/DSA-CPP/tree/master/1872-stone-game-viii) |
 | [1879-minimum-xor-sum-of-two-arrays](https://github.com/K-Raze/DSA-CPP/tree/master/1879-minimum-xor-sum-of-two-arrays) |
+| [1916-count-ways-to-build-rooms-in-an-ant-colony](https://github.com/K-Raze/DSA-CPP/tree/master/1916-count-ways-to-build-rooms-in-an-ant-colony) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/K-Raze/DSA-CPP/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/K-Raze/DSA-CPP/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2087-minimum-cost-homecoming-of-a-robot-in-a-grid](https://github.com/K-Raze/DSA-CPP/tree/master/2087-minimum-cost-homecoming-of-a-robot-in-a-grid) |
@@ -213,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/K-Raze/DSA-CPP/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1872-stone-game-viii](https://github.com/K-Raze/DSA-CPP/tree/master/1872-stone-game-viii) |
 | [1879-minimum-xor-sum-of-two-arrays](https://github.com/K-Raze/DSA-CPP/tree/master/1879-minimum-xor-sum-of-two-arrays) |
+| [1916-count-ways-to-build-rooms-in-an-ant-colony](https://github.com/K-Raze/DSA-CPP/tree/master/1916-count-ways-to-build-rooms-in-an-ant-colony) |
 | [2163-minimum-difference-in-sums-after-removal-of-elements](https://github.com/K-Raze/DSA-CPP/tree/master/2163-minimum-difference-in-sums-after-removal-of-elements) |
 | [2172-maximum-and-sum-of-array](https://github.com/K-Raze/DSA-CPP/tree/master/2172-maximum-and-sum-of-array) |
 | [2328-number-of-increasing-paths-in-a-grid](https://github.com/K-Raze/DSA-CPP/tree/master/2328-number-of-increasing-paths-in-a-grid) |
@@ -237,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0399-evaluate-division](https://github.com/K-Raze/DSA-CPP/tree/master/0399-evaluate-division) |
 | [1697-checking-existence-of-edge-length-limited-paths](https://github.com/K-Raze/DSA-CPP/tree/master/1697-checking-existence-of-edge-length-limited-paths) |
 | [1761-minimum-degree-of-a-connected-trio-in-a-graph](https://github.com/K-Raze/DSA-CPP/tree/master/1761-minimum-degree-of-a-connected-trio-in-a-graph) |
+| [1916-count-ways-to-build-rooms-in-an-ant-colony](https://github.com/K-Raze/DSA-CPP/tree/master/1916-count-ways-to-build-rooms-in-an-ant-colony) |
 | [2328-number-of-increasing-paths-in-a-grid](https://github.com/K-Raze/DSA-CPP/tree/master/2328-number-of-increasing-paths-in-a-grid) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/K-Raze/DSA-CPP/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/K-Raze/DSA-CPP/tree/master/2685-count-the-number-of-complete-components) |
@@ -359,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/K-Raze/DSA-CPP/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1627-graph-connectivity-with-threshold](https://github.com/K-Raze/DSA-CPP/tree/master/1627-graph-connectivity-with-threshold) |
 | [1872-stone-game-viii](https://github.com/K-Raze/DSA-CPP/tree/master/1872-stone-game-viii) |
+| [1916-count-ways-to-build-rooms-in-an-ant-colony](https://github.com/K-Raze/DSA-CPP/tree/master/1916-count-ways-to-build-rooms-in-an-ant-colony) |
 | [1927-sum-game](https://github.com/K-Raze/DSA-CPP/tree/master/1927-sum-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/K-Raze/DSA-CPP/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2178-maximum-split-of-positive-even-integers](https://github.com/K-Raze/DSA-CPP/tree/master/2178-maximum-split-of-positive-even-integers) |
@@ -424,6 +428,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/K-Raze/DSA-CPP/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0399-evaluate-division](https://github.com/K-Raze/DSA-CPP/tree/master/0399-evaluate-division) |
 | [0979-distribute-coins-in-binary-tree](https://github.com/K-Raze/DSA-CPP/tree/master/0979-distribute-coins-in-binary-tree) |
+| [1916-count-ways-to-build-rooms-in-an-ant-colony](https://github.com/K-Raze/DSA-CPP/tree/master/1916-count-ways-to-build-rooms-in-an-ant-colony) |
 | [2328-number-of-increasing-paths-in-a-grid](https://github.com/K-Raze/DSA-CPP/tree/master/2328-number-of-increasing-paths-in-a-grid) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/K-Raze/DSA-CPP/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/K-Raze/DSA-CPP/tree/master/2685-count-the-number-of-complete-components) |
@@ -436,6 +441,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/K-Raze/DSA-CPP/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [1916-count-ways-to-build-rooms-in-an-ant-colony](https://github.com/K-Raze/DSA-CPP/tree/master/1916-count-ways-to-build-rooms-in-an-ant-colony) |
 | [2328-number-of-increasing-paths-in-a-grid](https://github.com/K-Raze/DSA-CPP/tree/master/2328-number-of-increasing-paths-in-a-grid) |
 | [3620-network-recovery-pathways](https://github.com/K-Raze/DSA-CPP/tree/master/3620-network-recovery-pathways) |
 ## Memoization
@@ -461,6 +467,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0979-distribute-coins-in-binary-tree](https://github.com/K-Raze/DSA-CPP/tree/master/0979-distribute-coins-in-binary-tree) |
+| [1916-count-ways-to-build-rooms-in-an-ant-colony](https://github.com/K-Raze/DSA-CPP/tree/master/1916-count-ways-to-build-rooms-in-an-ant-colony) |
 | [2920-maximum-points-after-collecting-coins-from-all-nodes](https://github.com/K-Raze/DSA-CPP/tree/master/2920-maximum-points-after-collecting-coins-from-all-nodes) |
 | [2973-find-number-of-coins-to-place-in-tree-nodes](https://github.com/K-Raze/DSA-CPP/tree/master/2973-find-number-of-coins-to-place-in-tree-nodes) |
 | [3327-check-if-dfs-strings-are-palindromes](https://github.com/K-Raze/DSA-CPP/tree/master/3327-check-if-dfs-strings-are-palindromes) |
@@ -546,6 +553,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/K-Raze/DSA-CPP/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
+| [1916-count-ways-to-build-rooms-in-an-ant-colony](https://github.com/K-Raze/DSA-CPP/tree/master/1916-count-ways-to-build-rooms-in-an-ant-colony) |
 | [2514-count-anagrams](https://github.com/K-Raze/DSA-CPP/tree/master/2514-count-anagrams) |
 | [2963-count-the-number-of-good-partitions](https://github.com/K-Raze/DSA-CPP/tree/master/2963-count-the-number-of-good-partitions) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/K-Raze/DSA-CPP/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
@@ -598,6 +606,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0979-distribute-coins-in-binary-tree](https://github.com/K-Raze/DSA-CPP/tree/master/0979-distribute-coins-in-binary-tree) |
+| [1916-count-ways-to-build-rooms-in-an-ant-colony](https://github.com/K-Raze/DSA-CPP/tree/master/1916-count-ways-to-build-rooms-in-an-ant-colony) |
 | [2920-maximum-points-after-collecting-coins-from-all-nodes](https://github.com/K-Raze/DSA-CPP/tree/master/2920-maximum-points-after-collecting-coins-from-all-nodes) |
 | [2973-find-number-of-coins-to-place-in-tree-nodes](https://github.com/K-Raze/DSA-CPP/tree/master/2973-find-number-of-coins-to-place-in-tree-nodes) |
 ## Binary Tree
@@ -635,5 +644,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Fermat's Little Theorem
 |  |
 | ------- |
+| [1916-count-ways-to-build-rooms-in-an-ant-colony](https://github.com/K-Raze/DSA-CPP/tree/master/1916-count-ways-to-build-rooms-in-an-ant-colony) |
 | [2514-count-anagrams](https://github.com/K-Raze/DSA-CPP/tree/master/2514-count-anagrams) |
 <!---LeetCode Topics End-->
