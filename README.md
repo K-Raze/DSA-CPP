@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [4012-count-of-unfinished-tasks-after-each-shift](https://github.com/K-Raze/DSA-CPP/tree/master/4012-count-of-unfinished-tasks-after-each-shift) |
 | [4013-count-subarrays-with-even-odd-ratio-ii](https://github.com/K-Raze/DSA-CPP/tree/master/4013-count-subarrays-with-even-odd-ratio-ii) |
 | [4027-elevator-requests-iii](https://github.com/K-Raze/DSA-CPP/tree/master/4027-elevator-requests-iii) |
+| [4053-minimum-operations-to-make-every-element-palindromic](https://github.com/K-Raze/DSA-CPP/tree/master/4053-minimum-operations-to-make-every-element-palindromic) |
 ## String
 |  |
 | ------- |
@@ -291,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/K-Raze/DSA-CPP/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/K-Raze/DSA-CPP/tree/master/3620-network-recovery-pathways) |
 | [4012-count-of-unfinished-tasks-after-each-shift](https://github.com/K-Raze/DSA-CPP/tree/master/4012-count-of-unfinished-tasks-after-each-shift) |
+| [4053-minimum-operations-to-make-every-element-palindromic](https://github.com/K-Raze/DSA-CPP/tree/master/4053-minimum-operations-to-make-every-element-palindromic) |
 ## Breadth-First Search
 |  |
 | ------- |
