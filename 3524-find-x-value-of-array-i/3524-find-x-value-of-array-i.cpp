@@ -1,5 +1,5 @@
 using ll=long long;
-ll dp[100005][2][5][5];
+ll dp[100005][2][5];
 class Solution {
 public:
 
@@ -7,8 +7,8 @@ public:
     {
         if(x==arr.size())
             return (start && rem==r);
-        if(dp[x][start][rem][r]!=-1)
-            return dp[x][start][rem][r];
+        if(dp[x][start][rem]!=-1)
+            return dp[x][start][rem];
         ll ans=0;
         if(start)
         {
@@ -24,14 +24,16 @@ public:
             // start
             ans+=solve(x+1,1,arr[x]%k,arr,k,r);
         }
-        return dp[x][start][rem][r]=ans;
+        return dp[x][start][rem]=ans;
     }
 
     vector<long long> resultArray(vector<int>& arr, int k) {
         vector<ll>ans(k);
-        memset(dp,-1,sizeof(dp));
         for(int i=0;i<k;i++)
+        {
+            memset(dp,-1,sizeof(dp));
             ans[i]=solve(0,0,0,arr,k,i);
+        }
         return ans;
     }
 };
