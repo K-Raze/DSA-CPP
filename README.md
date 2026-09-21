@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3501-maximize-active-section-with-trade-ii](https://github.com/K-Raze/DSA-CPP/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/K-Raze/DSA-CPP/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3522-calculate-score-after-performing-instructions](https://github.com/K-Raze/DSA-CPP/tree/master/3522-calculate-score-after-performing-instructions) |
+| [3523-make-array-non-decreasing](https://github.com/K-Raze/DSA-CPP/tree/master/3523-make-array-non-decreasing) |
 | [3524-find-x-value-of-array-i](https://github.com/K-Raze/DSA-CPP/tree/master/3524-find-x-value-of-array-i) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/K-Raze/DSA-CPP/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3533-concatenated-divisibility](https://github.com/K-Raze/DSA-CPP/tree/master/3533-concatenated-divisibility) |
@@ -416,6 +417,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/K-Raze/DSA-CPP/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3229-minimum-operations-to-make-array-equal-to-target](https://github.com/K-Raze/DSA-CPP/tree/master/3229-minimum-operations-to-make-array-equal-to-target) |
 | [3273-minimum-amount-of-damage-dealt-to-bob](https://github.com/K-Raze/DSA-CPP/tree/master/3273-minimum-amount-of-damage-dealt-to-bob) |
+| [3523-make-array-non-decreasing](https://github.com/K-Raze/DSA-CPP/tree/master/3523-make-array-non-decreasing) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/K-Raze/DSA-CPP/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [4026-maximum-gap-between-stations](https://github.com/K-Raze/DSA-CPP/tree/master/4026-maximum-gap-between-stations) |
 ## Design
@@ -588,12 +590,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0962-maximum-width-ramp](https://github.com/K-Raze/DSA-CPP/tree/master/0962-maximum-width-ramp) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/K-Raze/DSA-CPP/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [3229-minimum-operations-to-make-array-equal-to-target](https://github.com/K-Raze/DSA-CPP/tree/master/3229-minimum-operations-to-make-array-equal-to-target) |
+| [3523-make-array-non-decreasing](https://github.com/K-Raze/DSA-CPP/tree/master/3523-make-array-non-decreasing) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0962-maximum-width-ramp](https://github.com/K-Raze/DSA-CPP/tree/master/0962-maximum-width-ramp) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/K-Raze/DSA-CPP/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [3229-minimum-operations-to-make-array-equal-to-target](https://github.com/K-Raze/DSA-CPP/tree/master/3229-minimum-operations-to-make-array-equal-to-target) |
+| [3523-make-array-non-decreasing](https://github.com/K-Raze/DSA-CPP/tree/master/3523-make-array-non-decreasing) |
 ## Counting Sort
 |  |
 | ------- |
