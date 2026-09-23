@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2087-minimum-cost-homecoming-of-a-robot-in-a-grid](https://github.com/K-Raze/DSA-CPP/tree/master/2087-minimum-cost-homecoming-of-a-robot-in-a-grid) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/K-Raze/DSA-CPP/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2163-minimum-difference-in-sums-after-removal-of-elements](https://github.com/K-Raze/DSA-CPP/tree/master/2163-minimum-difference-in-sums-after-removal-of-elements) |
+| [2171-removing-minimum-number-of-magic-beans](https://github.com/K-Raze/DSA-CPP/tree/master/2171-removing-minimum-number-of-magic-beans) |
 | [2172-maximum-and-sum-of-array](https://github.com/K-Raze/DSA-CPP/tree/master/2172-maximum-and-sum-of-array) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/K-Raze/DSA-CPP/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2328-number-of-increasing-paths-in-a-grid](https://github.com/K-Raze/DSA-CPP/tree/master/2328-number-of-increasing-paths-in-a-grid) |
@@ -190,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/K-Raze/DSA-CPP/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1872-stone-game-viii](https://github.com/K-Raze/DSA-CPP/tree/master/1872-stone-game-viii) |
+| [2171-removing-minimum-number-of-magic-beans](https://github.com/K-Raze/DSA-CPP/tree/master/2171-removing-minimum-number-of-magic-beans) |
 | [3312-sorted-gcd-pair-queries](https://github.com/K-Raze/DSA-CPP/tree/master/3312-sorted-gcd-pair-queries) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/K-Raze/DSA-CPP/tree/master/3739-count-subarrays-with-majority-element-ii) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/K-Raze/DSA-CPP/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
@@ -417,6 +419,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1927-sum-game](https://github.com/K-Raze/DSA-CPP/tree/master/1927-sum-game) |
 | [2087-minimum-cost-homecoming-of-a-robot-in-a-grid](https://github.com/K-Raze/DSA-CPP/tree/master/2087-minimum-cost-homecoming-of-a-robot-in-a-grid) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/K-Raze/DSA-CPP/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2171-removing-minimum-number-of-magic-beans](https://github.com/K-Raze/DSA-CPP/tree/master/2171-removing-minimum-number-of-magic-beans) |
 | [2178-maximum-split-of-positive-even-integers](https://github.com/K-Raze/DSA-CPP/tree/master/2178-maximum-split-of-positive-even-integers) |
 | [2350-shortest-impossible-sequence-of-rolls](https://github.com/K-Raze/DSA-CPP/tree/master/2350-shortest-impossible-sequence-of-rolls) |
 | [2449-minimum-number-of-operations-to-make-arrays-similar](https://github.com/K-Raze/DSA-CPP/tree/master/2449-minimum-number-of-operations-to-make-arrays-similar) |
@@ -507,6 +510,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/K-Raze/DSA-CPP/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/K-Raze/DSA-CPP/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1697-checking-existence-of-edge-length-limited-paths](https://github.com/K-Raze/DSA-CPP/tree/master/1697-checking-existence-of-edge-length-limited-paths) |
+| [2171-removing-minimum-number-of-magic-beans](https://github.com/K-Raze/DSA-CPP/tree/master/2171-removing-minimum-number-of-magic-beans) |
 | [2449-minimum-number-of-operations-to-make-arrays-similar](https://github.com/K-Raze/DSA-CPP/tree/master/2449-minimum-number-of-operations-to-make-arrays-similar) |
 | [2551-put-marbles-in-bags](https://github.com/K-Raze/DSA-CPP/tree/master/2551-put-marbles-in-bags) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/K-Raze/DSA-CPP/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
@@ -543,6 +547,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1291-sequential-digits](https://github.com/K-Raze/DSA-CPP/tree/master/1291-sequential-digits) |
 | [1761-minimum-degree-of-a-connected-trio-in-a-graph](https://github.com/K-Raze/DSA-CPP/tree/master/1761-minimum-degree-of-a-connected-trio-in-a-graph) |
+| [2171-removing-minimum-number-of-magic-beans](https://github.com/K-Raze/DSA-CPP/tree/master/2171-removing-minimum-number-of-magic-beans) |
 | [2468-split-message-based-on-limit](https://github.com/K-Raze/DSA-CPP/tree/master/2468-split-message-based-on-limit) |
 | [2959-number-of-possible-sets-of-closing-branches](https://github.com/K-Raze/DSA-CPP/tree/master/2959-number-of-possible-sets-of-closing-branches) |
 | [2970-count-the-number-of-incremovable-subarrays-i](https://github.com/K-Raze/DSA-CPP/tree/master/2970-count-the-number-of-incremovable-subarrays-i) |
