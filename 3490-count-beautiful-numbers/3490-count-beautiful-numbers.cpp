@@ -6,6 +6,8 @@ public:
 
     int solve(int x,bool strict,bool lead0,int modVal,int sum,string& s,int total)
     {
+        if(sum>total)
+            return 0;
         if(x==s.size())
         {
             if(lead0 || sum!=total)
