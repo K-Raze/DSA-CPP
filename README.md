@@ -245,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/K-Raze/DSA-CPP/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3575-maximum-good-subtree-score](https://github.com/K-Raze/DSA-CPP/tree/master/3575-maximum-good-subtree-score) |
 | [3620-network-recovery-pathways](https://github.com/K-Raze/DSA-CPP/tree/master/3620-network-recovery-pathways) |
+| [3704-count-no-zero-pairs-that-sum-to-n](https://github.com/K-Raze/DSA-CPP/tree/master/3704-count-no-zero-pairs-that-sum-to-n) |
 | [3977-minimum-time-to-reach-target-with-limited-power](https://github.com/K-Raze/DSA-CPP/tree/master/3977-minimum-time-to-reach-target-with-limited-power) |
 | [4027-elevator-requests-iii](https://github.com/K-Raze/DSA-CPP/tree/master/4027-elevator-requests-iii) |
 ## Graph Theory
@@ -400,6 +401,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3519-count-numbers-with-non-decreasing-digits](https://github.com/K-Raze/DSA-CPP/tree/master/3519-count-numbers-with-non-decreasing-digits) |
 | [3524-find-x-value-of-array-i](https://github.com/K-Raze/DSA-CPP/tree/master/3524-find-x-value-of-array-i) |
 | [3525-find-x-value-of-array-ii](https://github.com/K-Raze/DSA-CPP/tree/master/3525-find-x-value-of-array-ii) |
+| [3704-count-no-zero-pairs-that-sum-to-n](https://github.com/K-Raze/DSA-CPP/tree/master/3704-count-no-zero-pairs-that-sum-to-n) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/K-Raze/DSA-CPP/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/K-Raze/DSA-CPP/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3870-count-commas-in-range](https://github.com/K-Raze/DSA-CPP/tree/master/3870-count-commas-in-range) |
