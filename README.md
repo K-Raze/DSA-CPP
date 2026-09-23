@@ -251,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/K-Raze/DSA-CPP/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0399-evaluate-division](https://github.com/K-Raze/DSA-CPP/tree/master/0399-evaluate-division) |
+| [1579-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/K-Raze/DSA-CPP/tree/master/1579-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
 | [1697-checking-existence-of-edge-length-limited-paths](https://github.com/K-Raze/DSA-CPP/tree/master/1697-checking-existence-of-edge-length-limited-paths) |
 | [1761-minimum-degree-of-a-connected-trio-in-a-graph](https://github.com/K-Raze/DSA-CPP/tree/master/1761-minimum-degree-of-a-connected-trio-in-a-graph) |
 | [1916-count-ways-to-build-rooms-in-an-ant-colony](https://github.com/K-Raze/DSA-CPP/tree/master/1916-count-ways-to-build-rooms-in-an-ant-colony) |
@@ -327,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/K-Raze/DSA-CPP/tree/master/0128-longest-consecutive-sequence) |
 | [0399-evaluate-division](https://github.com/K-Raze/DSA-CPP/tree/master/0399-evaluate-division) |
+| [1579-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/K-Raze/DSA-CPP/tree/master/1579-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
 | [1627-graph-connectivity-with-threshold](https://github.com/K-Raze/DSA-CPP/tree/master/1627-graph-connectivity-with-threshold) |
 | [1697-checking-existence-of-edge-length-limited-paths](https://github.com/K-Raze/DSA-CPP/tree/master/1697-checking-existence-of-edge-length-limited-paths) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/K-Raze/DSA-CPP/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
