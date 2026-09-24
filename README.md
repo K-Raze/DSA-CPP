@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2171-removing-minimum-number-of-magic-beans](https://github.com/K-Raze/DSA-CPP/tree/master/2171-removing-minimum-number-of-magic-beans) |
 | [2172-maximum-and-sum-of-array](https://github.com/K-Raze/DSA-CPP/tree/master/2172-maximum-and-sum-of-array) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/K-Raze/DSA-CPP/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [2301-match-substring-after-replacement](https://github.com/K-Raze/DSA-CPP/tree/master/2301-match-substring-after-replacement) |
 | [2328-number-of-increasing-paths-in-a-grid](https://github.com/K-Raze/DSA-CPP/tree/master/2328-number-of-increasing-paths-in-a-grid) |
 | [2350-shortest-impossible-sequence-of-rolls](https://github.com/K-Raze/DSA-CPP/tree/master/2350-shortest-impossible-sequence-of-rolls) |
 | [2392-build-a-matrix-with-conditions](https://github.com/K-Raze/DSA-CPP/tree/master/2392-build-a-matrix-with-conditions) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1927-sum-game](https://github.com/K-Raze/DSA-CPP/tree/master/1927-sum-game) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/K-Raze/DSA-CPP/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/K-Raze/DSA-CPP/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [2301-match-substring-after-replacement](https://github.com/K-Raze/DSA-CPP/tree/master/2301-match-substring-after-replacement) |
 | [2468-split-message-based-on-limit](https://github.com/K-Raze/DSA-CPP/tree/master/2468-split-message-based-on-limit) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/K-Raze/DSA-CPP/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2514-count-anagrams](https://github.com/K-Raze/DSA-CPP/tree/master/2514-count-anagrams) |
@@ -146,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/K-Raze/DSA-CPP/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/K-Raze/DSA-CPP/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/K-Raze/DSA-CPP/tree/master/1679-max-number-of-k-sum-pairs) |
+| [2301-match-substring-after-replacement](https://github.com/K-Raze/DSA-CPP/tree/master/2301-match-substring-after-replacement) |
 | [2350-shortest-impossible-sequence-of-rolls](https://github.com/K-Raze/DSA-CPP/tree/master/2350-shortest-impossible-sequence-of-rolls) |
 | [2514-count-anagrams](https://github.com/K-Raze/DSA-CPP/tree/master/2514-count-anagrams) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/K-Raze/DSA-CPP/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -692,4 +695,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2392-build-a-matrix-with-conditions](https://github.com/K-Raze/DSA-CPP/tree/master/2392-build-a-matrix-with-conditions) |
+## String Matching
+|  |
+| ------- |
+| [2301-match-substring-after-replacement](https://github.com/K-Raze/DSA-CPP/tree/master/2301-match-substring-after-replacement) |
 <!---LeetCode Topics End-->
