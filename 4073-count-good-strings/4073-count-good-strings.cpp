@@ -3,7 +3,7 @@ const int mod=1e9+7;
 class Solution {
 public:
 
-    vector<vector<ll>>matrixMul(vector<vector<ll>>& a,vector<vector<ll>>& b)
+    vector<vector<ll>>matrixMul(const vector<vector<ll>>& a,const vector<vector<ll>>& b)
     {
         int nr=a.size(),nc=b[0].size();
         vector<vector<ll>>ans(nr,vector<ll>(nc));
@@ -23,7 +23,7 @@ public:
         {0,1}
     };
 
-    vector<vector<ll>>matrixExpo(vector<vector<ll>>& a,ll p)
+    vector<vector<ll>>matrixExpo(const vector<vector<ll>>& a,ll p)
     {
         if(p==0)
             return I;
