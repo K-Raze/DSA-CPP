@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0399-evaluate-division](https://github.com/K-Raze/DSA-CPP/tree/master/0399-evaluate-division) |
 | [0468-validate-ip-address](https://github.com/K-Raze/DSA-CPP/tree/master/0468-validate-ip-address) |
 | [0811-subdomain-visit-count](https://github.com/K-Raze/DSA-CPP/tree/master/0811-subdomain-visit-count) |
+| [0856-score-of-parentheses](https://github.com/K-Raze/DSA-CPP/tree/master/0856-score-of-parentheses) |
 | [0899-orderly-queue](https://github.com/K-Raze/DSA-CPP/tree/master/0899-orderly-queue) |
 | [0981-time-based-key-value-store](https://github.com/K-Raze/DSA-CPP/tree/master/0981-time-based-key-value-store) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/K-Raze/DSA-CPP/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -632,6 +633,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/K-Raze/DSA-CPP/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/K-Raze/DSA-CPP/tree/master/0032-longest-valid-parentheses) |
 | [0071-simplify-path](https://github.com/K-Raze/DSA-CPP/tree/master/0071-simplify-path) |
+| [0856-score-of-parentheses](https://github.com/K-Raze/DSA-CPP/tree/master/0856-score-of-parentheses) |
 | [0907-sum-of-subarray-minimums](https://github.com/K-Raze/DSA-CPP/tree/master/0907-sum-of-subarray-minimums) |
 | [0962-maximum-width-ramp](https://github.com/K-Raze/DSA-CPP/tree/master/0962-maximum-width-ramp) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/K-Raze/DSA-CPP/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -711,6 +713,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/K-Raze/DSA-CPP/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/K-Raze/DSA-CPP/tree/master/0032-longest-valid-parentheses) |
+| [0856-score-of-parentheses](https://github.com/K-Raze/DSA-CPP/tree/master/0856-score-of-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/K-Raze/DSA-CPP/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/K-Raze/DSA-CPP/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Fermat's Little Theorem
