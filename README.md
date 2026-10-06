@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [4027-elevator-requests-iii](https://github.com/K-Raze/DSA-CPP/tree/master/4027-elevator-requests-iii) |
 | [4053-minimum-operations-to-make-every-element-palindromic](https://github.com/K-Raze/DSA-CPP/tree/master/4053-minimum-operations-to-make-every-element-palindromic) |
 | [4066-maximum-equal-adjacent-pairs-after-at-most-one-replacement](https://github.com/K-Raze/DSA-CPP/tree/master/4066-maximum-equal-adjacent-pairs-after-at-most-one-replacement) |
+| [4067-longest-subarray-with-restricted-pair-sums](https://github.com/K-Raze/DSA-CPP/tree/master/4067-longest-subarray-with-restricted-pair-sums) |
 | [4068-maximize-meeting-earnings-with-idle-gaps](https://github.com/K-Raze/DSA-CPP/tree/master/4068-maximize-meeting-earnings-with-idle-gaps) |
 ## String
 |  |
@@ -181,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3731-find-missing-elements](https://github.com/K-Raze/DSA-CPP/tree/master/3731-find-missing-elements) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/K-Raze/DSA-CPP/tree/master/3739-count-subarrays-with-majority-element-ii) |
 | [4066-maximum-equal-adjacent-pairs-after-at-most-one-replacement](https://github.com/K-Raze/DSA-CPP/tree/master/4066-maximum-equal-adjacent-pairs-after-at-most-one-replacement) |
+| [4067-longest-subarray-with-restricted-pair-sums](https://github.com/K-Raze/DSA-CPP/tree/master/4067-longest-subarray-with-restricted-pair-sums) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -227,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/K-Raze/DSA-CPP/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/K-Raze/DSA-CPP/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/K-Raze/DSA-CPP/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+| [4067-longest-subarray-with-restricted-pair-sums](https://github.com/K-Raze/DSA-CPP/tree/master/4067-longest-subarray-with-restricted-pair-sums) |
 ## Dynamic Programming
 |  |
 | ------- |
