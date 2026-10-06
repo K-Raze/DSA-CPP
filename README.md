@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [4013-count-subarrays-with-even-odd-ratio-ii](https://github.com/K-Raze/DSA-CPP/tree/master/4013-count-subarrays-with-even-odd-ratio-ii) |
 | [4027-elevator-requests-iii](https://github.com/K-Raze/DSA-CPP/tree/master/4027-elevator-requests-iii) |
 | [4053-minimum-operations-to-make-every-element-palindromic](https://github.com/K-Raze/DSA-CPP/tree/master/4053-minimum-operations-to-make-every-element-palindromic) |
+| [4066-maximum-equal-adjacent-pairs-after-at-most-one-replacement](https://github.com/K-Raze/DSA-CPP/tree/master/4066-maximum-equal-adjacent-pairs-after-at-most-one-replacement) |
 | [4068-maximize-meeting-earnings-with-idle-gaps](https://github.com/K-Raze/DSA-CPP/tree/master/4068-maximize-meeting-earnings-with-idle-gaps) |
 ## String
 |  |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3718-smallest-missing-multiple-of-k](https://github.com/K-Raze/DSA-CPP/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/K-Raze/DSA-CPP/tree/master/3731-find-missing-elements) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/K-Raze/DSA-CPP/tree/master/3739-count-subarrays-with-majority-element-ii) |
+| [4066-maximum-equal-adjacent-pairs-after-at-most-one-replacement](https://github.com/K-Raze/DSA-CPP/tree/master/4066-maximum-equal-adjacent-pairs-after-at-most-one-replacement) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -633,6 +635,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/K-Raze/DSA-CPP/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/K-Raze/DSA-CPP/tree/master/3312-sorted-gcd-pair-queries) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/K-Raze/DSA-CPP/tree/master/3518-smallest-palindromic-rearrangement-ii) |
+| [4066-maximum-equal-adjacent-pairs-after-at-most-one-replacement](https://github.com/K-Raze/DSA-CPP/tree/master/4066-maximum-equal-adjacent-pairs-after-at-most-one-replacement) |
 ## Stack
 |  |
 | ------- |
