@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [4013-count-subarrays-with-even-odd-ratio-ii](https://github.com/K-Raze/DSA-CPP/tree/master/4013-count-subarrays-with-even-odd-ratio-ii) |
 | [4027-elevator-requests-iii](https://github.com/K-Raze/DSA-CPP/tree/master/4027-elevator-requests-iii) |
 | [4053-minimum-operations-to-make-every-element-palindromic](https://github.com/K-Raze/DSA-CPP/tree/master/4053-minimum-operations-to-make-every-element-palindromic) |
+| [4068-maximize-meeting-earnings-with-idle-gaps](https://github.com/K-Raze/DSA-CPP/tree/master/4068-maximize-meeting-earnings-with-idle-gaps) |
 ## String
 |  |
 | ------- |
@@ -267,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3704-count-no-zero-pairs-that-sum-to-n](https://github.com/K-Raze/DSA-CPP/tree/master/3704-count-no-zero-pairs-that-sum-to-n) |
 | [3977-minimum-time-to-reach-target-with-limited-power](https://github.com/K-Raze/DSA-CPP/tree/master/3977-minimum-time-to-reach-target-with-limited-power) |
 | [4027-elevator-requests-iii](https://github.com/K-Raze/DSA-CPP/tree/master/4027-elevator-requests-iii) |
+| [4068-maximize-meeting-earnings-with-idle-gaps](https://github.com/K-Raze/DSA-CPP/tree/master/4068-maximize-meeting-earnings-with-idle-gaps) |
 ## Graph Theory
 |  |
 | ------- |
@@ -333,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3620-network-recovery-pathways](https://github.com/K-Raze/DSA-CPP/tree/master/3620-network-recovery-pathways) |
 | [4012-count-of-unfinished-tasks-after-each-shift](https://github.com/K-Raze/DSA-CPP/tree/master/4012-count-of-unfinished-tasks-after-each-shift) |
 | [4053-minimum-operations-to-make-every-element-palindromic](https://github.com/K-Raze/DSA-CPP/tree/master/4053-minimum-operations-to-make-every-element-palindromic) |
+| [4068-maximize-meeting-earnings-with-idle-gaps](https://github.com/K-Raze/DSA-CPP/tree/master/4068-maximize-meeting-earnings-with-idle-gaps) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -555,6 +558,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3731-find-missing-elements](https://github.com/K-Raze/DSA-CPP/tree/master/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/K-Raze/DSA-CPP/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [4027-elevator-requests-iii](https://github.com/K-Raze/DSA-CPP/tree/master/4027-elevator-requests-iii) |
+| [4068-maximize-meeting-earnings-with-idle-gaps](https://github.com/K-Raze/DSA-CPP/tree/master/4068-maximize-meeting-earnings-with-idle-gaps) |
 ## Hash Function
 |  |
 | ------- |
