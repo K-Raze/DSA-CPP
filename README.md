@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2301-match-substring-after-replacement](https://github.com/K-Raze/DSA-CPP/tree/master/2301-match-substring-after-replacement) |
 | [2328-number-of-increasing-paths-in-a-grid](https://github.com/K-Raze/DSA-CPP/tree/master/2328-number-of-increasing-paths-in-a-grid) |
 | [2350-shortest-impossible-sequence-of-rolls](https://github.com/K-Raze/DSA-CPP/tree/master/2350-shortest-impossible-sequence-of-rolls) |
+| [2382-maximum-segment-sum-after-removals](https://github.com/K-Raze/DSA-CPP/tree/master/2382-maximum-segment-sum-after-removals) |
 | [2392-build-a-matrix-with-conditions](https://github.com/K-Raze/DSA-CPP/tree/master/2392-build-a-matrix-with-conditions) |
 | [2449-minimum-number-of-operations-to-make-arrays-similar](https://github.com/K-Raze/DSA-CPP/tree/master/2449-minimum-number-of-operations-to-make-arrays-similar) |
 | [2551-put-marbles-in-bags](https://github.com/K-Raze/DSA-CPP/tree/master/2551-put-marbles-in-bags) |
@@ -213,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/K-Raze/DSA-CPP/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1872-stone-game-viii](https://github.com/K-Raze/DSA-CPP/tree/master/1872-stone-game-viii) |
 | [2171-removing-minimum-number-of-magic-beans](https://github.com/K-Raze/DSA-CPP/tree/master/2171-removing-minimum-number-of-magic-beans) |
+| [2382-maximum-segment-sum-after-removals](https://github.com/K-Raze/DSA-CPP/tree/master/2382-maximum-segment-sum-after-removals) |
 | [3312-sorted-gcd-pair-queries](https://github.com/K-Raze/DSA-CPP/tree/master/3312-sorted-gcd-pair-queries) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/K-Raze/DSA-CPP/tree/master/3739-count-subarrays-with-majority-element-ii) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/K-Raze/DSA-CPP/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
@@ -363,6 +365,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1579-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/K-Raze/DSA-CPP/tree/master/1579-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
 | [1627-graph-connectivity-with-threshold](https://github.com/K-Raze/DSA-CPP/tree/master/1627-graph-connectivity-with-threshold) |
 | [1697-checking-existence-of-edge-length-limited-paths](https://github.com/K-Raze/DSA-CPP/tree/master/1697-checking-existence-of-edge-length-limited-paths) |
+| [2382-maximum-segment-sum-after-removals](https://github.com/K-Raze/DSA-CPP/tree/master/2382-maximum-segment-sum-after-removals) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/K-Raze/DSA-CPP/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/K-Raze/DSA-CPP/tree/master/2685-count-the-number-of-complete-components) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/K-Raze/DSA-CPP/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -526,6 +529,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/K-Raze/DSA-CPP/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [1675-minimize-deviation-in-array](https://github.com/K-Raze/DSA-CPP/tree/master/1675-minimize-deviation-in-array) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/K-Raze/DSA-CPP/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [2382-maximum-segment-sum-after-removals](https://github.com/K-Raze/DSA-CPP/tree/master/2382-maximum-segment-sum-after-removals) |
 ## Tree
 |  |
 | ------- |
