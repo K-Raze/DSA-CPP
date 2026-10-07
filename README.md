@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2213-longest-substring-of-one-repeating-character](https://github.com/K-Raze/DSA-CPP/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2301-match-substring-after-replacement](https://github.com/K-Raze/DSA-CPP/tree/master/2301-match-substring-after-replacement) |
 | [2328-number-of-increasing-paths-in-a-grid](https://github.com/K-Raze/DSA-CPP/tree/master/2328-number-of-increasing-paths-in-a-grid) |
+| [2334-subarray-with-elements-greater-than-varying-threshold](https://github.com/K-Raze/DSA-CPP/tree/master/2334-subarray-with-elements-greater-than-varying-threshold) |
 | [2350-shortest-impossible-sequence-of-rolls](https://github.com/K-Raze/DSA-CPP/tree/master/2350-shortest-impossible-sequence-of-rolls) |
 | [2382-maximum-segment-sum-after-removals](https://github.com/K-Raze/DSA-CPP/tree/master/2382-maximum-segment-sum-after-removals) |
 | [2392-build-a-matrix-with-conditions](https://github.com/K-Raze/DSA-CPP/tree/master/2392-build-a-matrix-with-conditions) |
@@ -367,6 +368,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1579-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/K-Raze/DSA-CPP/tree/master/1579-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
 | [1627-graph-connectivity-with-threshold](https://github.com/K-Raze/DSA-CPP/tree/master/1627-graph-connectivity-with-threshold) |
 | [1697-checking-existence-of-edge-length-limited-paths](https://github.com/K-Raze/DSA-CPP/tree/master/1697-checking-existence-of-edge-length-limited-paths) |
+| [2334-subarray-with-elements-greater-than-varying-threshold](https://github.com/K-Raze/DSA-CPP/tree/master/2334-subarray-with-elements-greater-than-varying-threshold) |
 | [2382-maximum-segment-sum-after-removals](https://github.com/K-Raze/DSA-CPP/tree/master/2382-maximum-segment-sum-after-removals) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/K-Raze/DSA-CPP/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/K-Raze/DSA-CPP/tree/master/2685-count-the-number-of-complete-components) |
@@ -659,6 +661,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/K-Raze/DSA-CPP/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/K-Raze/DSA-CPP/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2104-sum-of-subarray-ranges](https://github.com/K-Raze/DSA-CPP/tree/master/2104-sum-of-subarray-ranges) |
+| [2334-subarray-with-elements-greater-than-varying-threshold](https://github.com/K-Raze/DSA-CPP/tree/master/2334-subarray-with-elements-greater-than-varying-threshold) |
 | [3113-find-the-number-of-subarrays-where-boundary-elements-are-maximum](https://github.com/K-Raze/DSA-CPP/tree/master/3113-find-the-number-of-subarrays-where-boundary-elements-are-maximum) |
 | [3229-minimum-operations-to-make-array-equal-to-target](https://github.com/K-Raze/DSA-CPP/tree/master/3229-minimum-operations-to-make-array-equal-to-target) |
 | [3523-make-array-non-decreasing](https://github.com/K-Raze/DSA-CPP/tree/master/3523-make-array-non-decreasing) |
@@ -669,6 +672,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0962-maximum-width-ramp](https://github.com/K-Raze/DSA-CPP/tree/master/0962-maximum-width-ramp) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/K-Raze/DSA-CPP/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [2104-sum-of-subarray-ranges](https://github.com/K-Raze/DSA-CPP/tree/master/2104-sum-of-subarray-ranges) |
+| [2334-subarray-with-elements-greater-than-varying-threshold](https://github.com/K-Raze/DSA-CPP/tree/master/2334-subarray-with-elements-greater-than-varying-threshold) |
 | [3113-find-the-number-of-subarrays-where-boundary-elements-are-maximum](https://github.com/K-Raze/DSA-CPP/tree/master/3113-find-the-number-of-subarrays-where-boundary-elements-are-maximum) |
 | [3229-minimum-operations-to-make-array-equal-to-target](https://github.com/K-Raze/DSA-CPP/tree/master/3229-minimum-operations-to-make-array-equal-to-target) |
 | [3523-make-array-non-decreasing](https://github.com/K-Raze/DSA-CPP/tree/master/3523-make-array-non-decreasing) |
