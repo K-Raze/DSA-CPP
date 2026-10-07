@@ -2,7 +2,7 @@ using ll=long long;
 class Solution {
 public:
     long long wonderfulSubstrings(string s) {
-        unordered_map<ll,ll>xorCnt;
+        vector<int>xorCnt(1<<10,0);
         xorCnt[0]++;
 
         ll pre=0;
@@ -15,8 +15,7 @@ public:
             for(int bit=0;bit<10;bit++)
             {
                 int nPre=(pre ^ (1<<bit));
-                if(xorCnt.find(nPre)!=xorCnt.end())
-                    ans+=xorCnt[nPre];
+                ans+=xorCnt[nPre];
             }
             xorCnt[pre]++;
         }
