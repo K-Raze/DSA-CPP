@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2683-neighboring-bitwise-xor](https://github.com/K-Raze/DSA-CPP/tree/master/2683-neighboring-bitwise-xor) |
 | [2684-maximum-number-of-moves-in-a-grid](https://github.com/K-Raze/DSA-CPP/tree/master/2684-maximum-number-of-moves-in-a-grid) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/K-Raze/DSA-CPP/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/K-Raze/DSA-CPP/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2920-maximum-points-after-collecting-coins-from-all-nodes](https://github.com/K-Raze/DSA-CPP/tree/master/2920-maximum-points-after-collecting-coins-from-all-nodes) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/K-Raze/DSA-CPP/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/K-Raze/DSA-CPP/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2350-shortest-impossible-sequence-of-rolls](https://github.com/K-Raze/DSA-CPP/tree/master/2350-shortest-impossible-sequence-of-rolls) |
 | [2514-count-anagrams](https://github.com/K-Raze/DSA-CPP/tree/master/2514-count-anagrams) |
 | [2588-count-the-number-of-beautiful-subarrays](https://github.com/K-Raze/DSA-CPP/tree/master/2588-count-the-number-of-beautiful-subarrays) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/K-Raze/DSA-CPP/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/K-Raze/DSA-CPP/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2963-count-the-number-of-good-partitions](https://github.com/K-Raze/DSA-CPP/tree/master/2963-count-the-number-of-good-partitions) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/K-Raze/DSA-CPP/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -415,6 +417,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2172-maximum-and-sum-of-array](https://github.com/K-Raze/DSA-CPP/tree/master/2172-maximum-and-sum-of-array) |
 | [2588-count-the-number-of-beautiful-subarrays](https://github.com/K-Raze/DSA-CPP/tree/master/2588-count-the-number-of-beautiful-subarrays) |
 | [2683-neighboring-bitwise-xor](https://github.com/K-Raze/DSA-CPP/tree/master/2683-neighboring-bitwise-xor) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/K-Raze/DSA-CPP/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2920-maximum-points-after-collecting-coins-from-all-nodes](https://github.com/K-Raze/DSA-CPP/tree/master/2920-maximum-points-after-collecting-coins-from-all-nodes) |
 | [2959-number-of-possible-sets-of-closing-branches](https://github.com/K-Raze/DSA-CPP/tree/master/2959-number-of-possible-sets-of-closing-branches) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/K-Raze/DSA-CPP/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
@@ -491,6 +494,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2449-minimum-number-of-operations-to-make-arrays-similar](https://github.com/K-Raze/DSA-CPP/tree/master/2449-minimum-number-of-operations-to-make-arrays-similar) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/K-Raze/DSA-CPP/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2551-put-marbles-in-bags](https://github.com/K-Raze/DSA-CPP/tree/master/2551-put-marbles-in-bags) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/K-Raze/DSA-CPP/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/K-Raze/DSA-CPP/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3229-minimum-operations-to-make-array-equal-to-target](https://github.com/K-Raze/DSA-CPP/tree/master/3229-minimum-operations-to-make-array-equal-to-target) |
 | [3273-minimum-amount-of-damage-dealt-to-bob](https://github.com/K-Raze/DSA-CPP/tree/master/3273-minimum-amount-of-damage-dealt-to-bob) |
