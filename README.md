@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1675-minimize-deviation-in-array](https://github.com/K-Raze/DSA-CPP/tree/master/1675-minimize-deviation-in-array) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/K-Raze/DSA-CPP/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1697-checking-existence-of-edge-length-limited-paths](https://github.com/K-Raze/DSA-CPP/tree/master/1697-checking-existence-of-edge-length-limited-paths) |
+| [1707-maximum-xor-with-an-element-from-array](https://github.com/K-Raze/DSA-CPP/tree/master/1707-maximum-xor-with-an-element-from-array) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/K-Raze/DSA-CPP/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1872-stone-game-viii](https://github.com/K-Raze/DSA-CPP/tree/master/1872-stone-game-viii) |
 | [1879-minimum-xor-sum-of-two-arrays](https://github.com/K-Raze/DSA-CPP/tree/master/1879-minimum-xor-sum-of-two-arrays) |
@@ -419,6 +420,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/K-Raze/DSA-CPP/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [1371-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/K-Raze/DSA-CPP/tree/master/1371-find-the-longest-substring-containing-vowels-in-even-counts) |
+| [1707-maximum-xor-with-an-element-from-array](https://github.com/K-Raze/DSA-CPP/tree/master/1707-maximum-xor-with-an-element-from-array) |
 | [1879-minimum-xor-sum-of-two-arrays](https://github.com/K-Raze/DSA-CPP/tree/master/1879-minimum-xor-sum-of-two-arrays) |
 | [1915-number-of-wonderful-substrings](https://github.com/K-Raze/DSA-CPP/tree/master/1915-number-of-wonderful-substrings) |
 | [2172-maximum-and-sum-of-array](https://github.com/K-Raze/DSA-CPP/tree/master/2172-maximum-and-sum-of-array) |
@@ -528,6 +530,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0211-design-add-and-search-words-data-structure](https://github.com/K-Raze/DSA-CPP/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0212-word-search-ii](https://github.com/K-Raze/DSA-CPP/tree/master/0212-word-search-ii) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/K-Raze/DSA-CPP/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
+| [1707-maximum-xor-with-an-element-from-array](https://github.com/K-Raze/DSA-CPP/tree/master/1707-maximum-xor-with-an-element-from-array) |
 ## Depth-First Search
 |  |
 | ------- |
