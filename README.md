@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/K-Raze/DSA-CPP/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/K-Raze/DSA-CPP/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [2920-maximum-points-after-collecting-coins-from-all-nodes](https://github.com/K-Raze/DSA-CPP/tree/master/2920-maximum-points-after-collecting-coins-from-all-nodes) |
+| [2935-maximum-strong-pair-xor-ii](https://github.com/K-Raze/DSA-CPP/tree/master/2935-maximum-strong-pair-xor-ii) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/K-Raze/DSA-CPP/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/K-Raze/DSA-CPP/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2963-count-the-number-of-good-partitions](https://github.com/K-Raze/DSA-CPP/tree/master/2963-count-the-number-of-good-partitions) |
@@ -186,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2588-count-the-number-of-beautiful-subarrays](https://github.com/K-Raze/DSA-CPP/tree/master/2588-count-the-number-of-beautiful-subarrays) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/K-Raze/DSA-CPP/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/K-Raze/DSA-CPP/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
+| [2935-maximum-strong-pair-xor-ii](https://github.com/K-Raze/DSA-CPP/tree/master/2935-maximum-strong-pair-xor-ii) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/K-Raze/DSA-CPP/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2963-count-the-number-of-good-partitions](https://github.com/K-Raze/DSA-CPP/tree/master/2963-count-the-number-of-good-partitions) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/K-Raze/DSA-CPP/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -252,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/K-Raze/DSA-CPP/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/K-Raze/DSA-CPP/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/K-Raze/DSA-CPP/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
+| [2935-maximum-strong-pair-xor-ii](https://github.com/K-Raze/DSA-CPP/tree/master/2935-maximum-strong-pair-xor-ii) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/K-Raze/DSA-CPP/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [4067-longest-subarray-with-restricted-pair-sums](https://github.com/K-Raze/DSA-CPP/tree/master/4067-longest-subarray-with-restricted-pair-sums) |
 ## Dynamic Programming
@@ -429,6 +432,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2871-split-array-into-maximum-number-of-subarrays](https://github.com/K-Raze/DSA-CPP/tree/master/2871-split-array-into-maximum-number-of-subarrays) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/K-Raze/DSA-CPP/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2920-maximum-points-after-collecting-coins-from-all-nodes](https://github.com/K-Raze/DSA-CPP/tree/master/2920-maximum-points-after-collecting-coins-from-all-nodes) |
+| [2935-maximum-strong-pair-xor-ii](https://github.com/K-Raze/DSA-CPP/tree/master/2935-maximum-strong-pair-xor-ii) |
 | [2959-number-of-possible-sets-of-closing-branches](https://github.com/K-Raze/DSA-CPP/tree/master/2959-number-of-possible-sets-of-closing-branches) |
 | [3007-maximum-number-that-sum-of-the-prices-is-less-than-or-equal-to-k](https://github.com/K-Raze/DSA-CPP/tree/master/3007-maximum-number-that-sum-of-the-prices-is-less-than-or-equal-to-k) |
 | [3022-minimize-or-of-remaining-elements-using-operations](https://github.com/K-Raze/DSA-CPP/tree/master/3022-minimize-or-of-remaining-elements-using-operations) |
@@ -531,6 +535,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0212-word-search-ii](https://github.com/K-Raze/DSA-CPP/tree/master/0212-word-search-ii) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/K-Raze/DSA-CPP/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [1707-maximum-xor-with-an-element-from-array](https://github.com/K-Raze/DSA-CPP/tree/master/1707-maximum-xor-with-an-element-from-array) |
+| [2935-maximum-strong-pair-xor-ii](https://github.com/K-Raze/DSA-CPP/tree/master/2935-maximum-strong-pair-xor-ii) |
 ## Depth-First Search
 |  |
 | ------- |
