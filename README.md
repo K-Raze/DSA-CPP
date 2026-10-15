@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1872-stone-game-viii](https://github.com/K-Raze/DSA-CPP/tree/master/1872-stone-game-viii) |
 | [1879-minimum-xor-sum-of-two-arrays](https://github.com/K-Raze/DSA-CPP/tree/master/1879-minimum-xor-sum-of-two-arrays) |
 | [1916-count-ways-to-build-rooms-in-an-ant-colony](https://github.com/K-Raze/DSA-CPP/tree/master/1916-count-ways-to-build-rooms-in-an-ant-colony) |
+| [1938-maximum-genetic-difference-query](https://github.com/K-Raze/DSA-CPP/tree/master/1938-maximum-genetic-difference-query) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/K-Raze/DSA-CPP/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/K-Raze/DSA-CPP/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2087-minimum-cost-homecoming-of-a-robot-in-a-grid](https://github.com/K-Raze/DSA-CPP/tree/master/2087-minimum-cost-homecoming-of-a-robot-in-a-grid) |
@@ -182,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1679-max-number-of-k-sum-pairs](https://github.com/K-Raze/DSA-CPP/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/K-Raze/DSA-CPP/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1915-number-of-wonderful-substrings](https://github.com/K-Raze/DSA-CPP/tree/master/1915-number-of-wonderful-substrings) |
+| [1938-maximum-genetic-difference-query](https://github.com/K-Raze/DSA-CPP/tree/master/1938-maximum-genetic-difference-query) |
 | [2301-match-substring-after-replacement](https://github.com/K-Raze/DSA-CPP/tree/master/2301-match-substring-after-replacement) |
 | [2350-shortest-impossible-sequence-of-rolls](https://github.com/K-Raze/DSA-CPP/tree/master/2350-shortest-impossible-sequence-of-rolls) |
 | [2514-count-anagrams](https://github.com/K-Raze/DSA-CPP/tree/master/2514-count-anagrams) |
@@ -429,6 +431,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1707-maximum-xor-with-an-element-from-array](https://github.com/K-Raze/DSA-CPP/tree/master/1707-maximum-xor-with-an-element-from-array) |
 | [1879-minimum-xor-sum-of-two-arrays](https://github.com/K-Raze/DSA-CPP/tree/master/1879-minimum-xor-sum-of-two-arrays) |
 | [1915-number-of-wonderful-substrings](https://github.com/K-Raze/DSA-CPP/tree/master/1915-number-of-wonderful-substrings) |
+| [1938-maximum-genetic-difference-query](https://github.com/K-Raze/DSA-CPP/tree/master/1938-maximum-genetic-difference-query) |
 | [2172-maximum-and-sum-of-array](https://github.com/K-Raze/DSA-CPP/tree/master/2172-maximum-and-sum-of-array) |
 | [2588-count-the-number-of-beautiful-subarrays](https://github.com/K-Raze/DSA-CPP/tree/master/2588-count-the-number-of-beautiful-subarrays) |
 | [2683-neighboring-bitwise-xor](https://github.com/K-Raze/DSA-CPP/tree/master/2683-neighboring-bitwise-xor) |
@@ -539,6 +542,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0212-word-search-ii](https://github.com/K-Raze/DSA-CPP/tree/master/0212-word-search-ii) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/K-Raze/DSA-CPP/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [1707-maximum-xor-with-an-element-from-array](https://github.com/K-Raze/DSA-CPP/tree/master/1707-maximum-xor-with-an-element-from-array) |
+| [1938-maximum-genetic-difference-query](https://github.com/K-Raze/DSA-CPP/tree/master/1938-maximum-genetic-difference-query) |
 | [2932-maximum-strong-pair-xor-i](https://github.com/K-Raze/DSA-CPP/tree/master/2932-maximum-strong-pair-xor-i) |
 | [2935-maximum-strong-pair-xor-ii](https://github.com/K-Raze/DSA-CPP/tree/master/2935-maximum-strong-pair-xor-ii) |
 ## Depth-First Search
@@ -550,6 +554,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0979-distribute-coins-in-binary-tree](https://github.com/K-Raze/DSA-CPP/tree/master/0979-distribute-coins-in-binary-tree) |
 | [1377-frog-position-after-t-seconds](https://github.com/K-Raze/DSA-CPP/tree/master/1377-frog-position-after-t-seconds) |
 | [1916-count-ways-to-build-rooms-in-an-ant-colony](https://github.com/K-Raze/DSA-CPP/tree/master/1916-count-ways-to-build-rooms-in-an-ant-colony) |
+| [1938-maximum-genetic-difference-query](https://github.com/K-Raze/DSA-CPP/tree/master/1938-maximum-genetic-difference-query) |
 | [2328-number-of-increasing-paths-in-a-grid](https://github.com/K-Raze/DSA-CPP/tree/master/2328-number-of-increasing-paths-in-a-grid) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/K-Raze/DSA-CPP/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/K-Raze/DSA-CPP/tree/master/2685-count-the-number-of-complete-components) |
