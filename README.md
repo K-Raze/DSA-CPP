@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/K-Raze/DSA-CPP/tree/master/0877-stone-game) |
 | [0907-sum-of-subarray-minimums](https://github.com/K-Raze/DSA-CPP/tree/master/0907-sum-of-subarray-minimums) |
 | [0962-maximum-width-ramp](https://github.com/K-Raze/DSA-CPP/tree/master/0962-maximum-width-ramp) |
+| [0982-triples-with-bitwise-and-equal-to-zero](https://github.com/K-Raze/DSA-CPP/tree/master/0982-triples-with-bitwise-and-equal-to-zero) |
 | [1029-two-city-scheduling](https://github.com/K-Raze/DSA-CPP/tree/master/1029-two-city-scheduling) |
 | [1031-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/K-Raze/DSA-CPP/tree/master/1031-maximum-sum-of-two-non-overlapping-subarrays) |
 | [1146-snapshot-array](https://github.com/K-Raze/DSA-CPP/tree/master/1146-snapshot-array) |
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0811-subdomain-visit-count](https://github.com/K-Raze/DSA-CPP/tree/master/0811-subdomain-visit-count) |
 | [0815-bus-routes](https://github.com/K-Raze/DSA-CPP/tree/master/0815-bus-routes) |
 | [0981-time-based-key-value-store](https://github.com/K-Raze/DSA-CPP/tree/master/0981-time-based-key-value-store) |
+| [0982-triples-with-bitwise-and-equal-to-zero](https://github.com/K-Raze/DSA-CPP/tree/master/0982-triples-with-bitwise-and-equal-to-zero) |
 | [1146-snapshot-array](https://github.com/K-Raze/DSA-CPP/tree/master/1146-snapshot-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/K-Raze/DSA-CPP/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1371-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/K-Raze/DSA-CPP/tree/master/1371-find-the-longest-substring-containing-vowels-in-even-counts) |
@@ -427,6 +429,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/K-Raze/DSA-CPP/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
+| [0982-triples-with-bitwise-and-equal-to-zero](https://github.com/K-Raze/DSA-CPP/tree/master/0982-triples-with-bitwise-and-equal-to-zero) |
 | [1371-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/K-Raze/DSA-CPP/tree/master/1371-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1707-maximum-xor-with-an-element-from-array](https://github.com/K-Raze/DSA-CPP/tree/master/1707-maximum-xor-with-an-element-from-array) |
 | [1879-minimum-xor-sum-of-two-arrays](https://github.com/K-Raze/DSA-CPP/tree/master/1879-minimum-xor-sum-of-two-arrays) |
