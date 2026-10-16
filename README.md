@@ -270,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/K-Raze/DSA-CPP/tree/master/0032-longest-valid-parentheses) |
 | [0115-distinct-subsequences](https://github.com/K-Raze/DSA-CPP/tree/master/0115-distinct-subsequences) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/K-Raze/DSA-CPP/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0343-integer-break](https://github.com/K-Raze/DSA-CPP/tree/master/0343-integer-break) |
 | [0375-guess-number-higher-or-lower-ii](https://github.com/K-Raze/DSA-CPP/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [0494-target-sum](https://github.com/K-Raze/DSA-CPP/tree/master/0494-target-sum) |
 | [0871-minimum-number-of-refueling-stops](https://github.com/K-Raze/DSA-CPP/tree/master/0871-minimum-number-of-refueling-stops) |
@@ -465,6 +466,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0343-integer-break](https://github.com/K-Raze/DSA-CPP/tree/master/0343-integer-break) |
 | [0375-guess-number-higher-or-lower-ii](https://github.com/K-Raze/DSA-CPP/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/K-Raze/DSA-CPP/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/K-Raze/DSA-CPP/tree/master/0877-stone-game) |
