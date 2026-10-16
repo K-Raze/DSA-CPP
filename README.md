@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1288-remove-covered-intervals](https://github.com/K-Raze/DSA-CPP/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/K-Raze/DSA-CPP/tree/master/1301-number-of-paths-with-max-score) |
 | [1326-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/K-Raze/DSA-CPP/tree/master/1326-minimum-number-of-taps-to-open-to-water-a-garden) |
+| [1353-maximum-number-of-events-that-can-be-attended](https://github.com/K-Raze/DSA-CPP/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/K-Raze/DSA-CPP/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/K-Raze/DSA-CPP/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/K-Raze/DSA-CPP/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
@@ -336,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0871-minimum-number-of-refueling-stops](https://github.com/K-Raze/DSA-CPP/tree/master/0871-minimum-number-of-refueling-stops) |
+| [1353-maximum-number-of-events-that-can-be-attended](https://github.com/K-Raze/DSA-CPP/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/K-Raze/DSA-CPP/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/K-Raze/DSA-CPP/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [1675-minimize-deviation-in-array](https://github.com/K-Raze/DSA-CPP/tree/master/1675-minimize-deviation-in-array) |
@@ -512,6 +514,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1029-two-city-scheduling](https://github.com/K-Raze/DSA-CPP/tree/master/1029-two-city-scheduling) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/K-Raze/DSA-CPP/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1326-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/K-Raze/DSA-CPP/tree/master/1326-minimum-number-of-taps-to-open-to-water-a-garden) |
+| [1353-maximum-number-of-events-that-can-be-attended](https://github.com/K-Raze/DSA-CPP/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
 | [1675-minimize-deviation-in-array](https://github.com/K-Raze/DSA-CPP/tree/master/1675-minimize-deviation-in-array) |
 | [1927-sum-game](https://github.com/K-Raze/DSA-CPP/tree/master/1927-sum-game) |
 | [2087-minimum-cost-homecoming-of-a-robot-in-a-grid](https://github.com/K-Raze/DSA-CPP/tree/master/2087-minimum-cost-homecoming-of-a-robot-in-a-grid) |
@@ -618,6 +621,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0899-orderly-queue](https://github.com/K-Raze/DSA-CPP/tree/master/0899-orderly-queue) |
 | [1029-two-city-scheduling](https://github.com/K-Raze/DSA-CPP/tree/master/1029-two-city-scheduling) |
 | [1288-remove-covered-intervals](https://github.com/K-Raze/DSA-CPP/tree/master/1288-remove-covered-intervals) |
+| [1353-maximum-number-of-events-that-can-be-attended](https://github.com/K-Raze/DSA-CPP/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/K-Raze/DSA-CPP/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/K-Raze/DSA-CPP/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1697-checking-existence-of-edge-length-limited-paths](https://github.com/K-Raze/DSA-CPP/tree/master/1697-checking-existence-of-edge-length-limited-paths) |
