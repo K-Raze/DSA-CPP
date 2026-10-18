@@ -77,6 +77,6 @@ public:
     int numOfWays(vector<int>& arr) {
         int n=arr.size();
         init(n+1);
-        return solve(arr)-1;
+        return (solve(arr)-1+mod)%mod;
     }
 };
