@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0907-sum-of-subarray-minimums](https://github.com/K-Raze/DSA-CPP/tree/master/0907-sum-of-subarray-minimums) |
 | [0962-maximum-width-ramp](https://github.com/K-Raze/DSA-CPP/tree/master/0962-maximum-width-ramp) |
 | [0982-triples-with-bitwise-and-equal-to-zero](https://github.com/K-Raze/DSA-CPP/tree/master/0982-triples-with-bitwise-and-equal-to-zero) |
+| [1024-video-stitching](https://github.com/K-Raze/DSA-CPP/tree/master/1024-video-stitching) |
 | [1029-two-city-scheduling](https://github.com/K-Raze/DSA-CPP/tree/master/1029-two-city-scheduling) |
 | [1031-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/K-Raze/DSA-CPP/tree/master/1031-maximum-sum-of-two-non-overlapping-subarrays) |
 | [1146-snapshot-array](https://github.com/K-Raze/DSA-CPP/tree/master/1146-snapshot-array) |
@@ -284,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/K-Raze/DSA-CPP/tree/master/0877-stone-game) |
 | [0887-super-egg-drop](https://github.com/K-Raze/DSA-CPP/tree/master/0887-super-egg-drop) |
 | [0907-sum-of-subarray-minimums](https://github.com/K-Raze/DSA-CPP/tree/master/0907-sum-of-subarray-minimums) |
+| [1024-video-stitching](https://github.com/K-Raze/DSA-CPP/tree/master/1024-video-stitching) |
 | [1031-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/K-Raze/DSA-CPP/tree/master/1031-maximum-sum-of-two-non-overlapping-subarrays) |
 | [1301-number-of-paths-with-max-score](https://github.com/K-Raze/DSA-CPP/tree/master/1301-number-of-paths-with-max-score) |
 | [1326-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/K-Raze/DSA-CPP/tree/master/1326-minimum-number-of-taps-to-open-to-water-a-garden) |
@@ -523,6 +525,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0179-largest-number](https://github.com/K-Raze/DSA-CPP/tree/master/0179-largest-number) |
 | [0871-minimum-number-of-refueling-stops](https://github.com/K-Raze/DSA-CPP/tree/master/0871-minimum-number-of-refueling-stops) |
+| [1024-video-stitching](https://github.com/K-Raze/DSA-CPP/tree/master/1024-video-stitching) |
 | [1029-two-city-scheduling](https://github.com/K-Raze/DSA-CPP/tree/master/1029-two-city-scheduling) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/K-Raze/DSA-CPP/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1326-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/K-Raze/DSA-CPP/tree/master/1326-minimum-number-of-taps-to-open-to-water-a-garden) |
