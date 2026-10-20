@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3575-maximum-good-subtree-score](https://github.com/K-Raze/DSA-CPP/tree/master/3575-maximum-good-subtree-score) |
 | [3620-network-recovery-pathways](https://github.com/K-Raze/DSA-CPP/tree/master/3620-network-recovery-pathways) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/K-Raze/DSA-CPP/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
+| [3715-sum-of-perfect-square-ancestors](https://github.com/K-Raze/DSA-CPP/tree/master/3715-sum-of-perfect-square-ancestors) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/K-Raze/DSA-CPP/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/K-Raze/DSA-CPP/tree/master/3731-find-missing-elements) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/K-Raze/DSA-CPP/tree/master/3739-count-subarrays-with-majority-element-ii) |
@@ -216,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/K-Raze/DSA-CPP/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/K-Raze/DSA-CPP/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/K-Raze/DSA-CPP/tree/master/3568-minimum-moves-to-clean-the-classroom) |
+| [3715-sum-of-perfect-square-ancestors](https://github.com/K-Raze/DSA-CPP/tree/master/3715-sum-of-perfect-square-ancestors) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/K-Raze/DSA-CPP/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/K-Raze/DSA-CPP/tree/master/3731-find-missing-elements) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/K-Raze/DSA-CPP/tree/master/3739-count-subarrays-with-majority-element-ii) |
@@ -517,6 +519,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3524-find-x-value-of-array-i](https://github.com/K-Raze/DSA-CPP/tree/master/3524-find-x-value-of-array-i) |
 | [3525-find-x-value-of-array-ii](https://github.com/K-Raze/DSA-CPP/tree/master/3525-find-x-value-of-array-ii) |
 | [3704-count-no-zero-pairs-that-sum-to-n](https://github.com/K-Raze/DSA-CPP/tree/master/3704-count-no-zero-pairs-that-sum-to-n) |
+| [3715-sum-of-perfect-square-ancestors](https://github.com/K-Raze/DSA-CPP/tree/master/3715-sum-of-perfect-square-ancestors) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/K-Raze/DSA-CPP/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/K-Raze/DSA-CPP/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3870-count-commas-in-range](https://github.com/K-Raze/DSA-CPP/tree/master/3870-count-commas-in-range) |
@@ -594,6 +597,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2973-find-number-of-coins-to-place-in-tree-nodes](https://github.com/K-Raze/DSA-CPP/tree/master/2973-find-number-of-coins-to-place-in-tree-nodes) |
 | [3327-check-if-dfs-strings-are-palindromes](https://github.com/K-Raze/DSA-CPP/tree/master/3327-check-if-dfs-strings-are-palindromes) |
 | [3575-maximum-good-subtree-score](https://github.com/K-Raze/DSA-CPP/tree/master/3575-maximum-good-subtree-score) |
+| [3715-sum-of-perfect-square-ancestors](https://github.com/K-Raze/DSA-CPP/tree/master/3715-sum-of-perfect-square-ancestors) |
 | [3786-total-sum-of-interaction-cost-in-tree-groups](https://github.com/K-Raze/DSA-CPP/tree/master/3786-total-sum-of-interaction-cost-in-tree-groups) |
 ## Topological Sort
 |  |
@@ -639,6 +643,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2973-find-number-of-coins-to-place-in-tree-nodes](https://github.com/K-Raze/DSA-CPP/tree/master/2973-find-number-of-coins-to-place-in-tree-nodes) |
 | [3327-check-if-dfs-strings-are-palindromes](https://github.com/K-Raze/DSA-CPP/tree/master/3327-check-if-dfs-strings-are-palindromes) |
 | [3575-maximum-good-subtree-score](https://github.com/K-Raze/DSA-CPP/tree/master/3575-maximum-good-subtree-score) |
+| [3715-sum-of-perfect-square-ancestors](https://github.com/K-Raze/DSA-CPP/tree/master/3715-sum-of-perfect-square-ancestors) |
 | [3786-total-sum-of-interaction-cost-in-tree-groups](https://github.com/K-Raze/DSA-CPP/tree/master/3786-total-sum-of-interaction-cost-in-tree-groups) |
 ## Sorting
 |  |
@@ -717,6 +722,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/K-Raze/DSA-CPP/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3312-sorted-gcd-pair-queries](https://github.com/K-Raze/DSA-CPP/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/K-Raze/DSA-CPP/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+| [3715-sum-of-perfect-square-ancestors](https://github.com/K-Raze/DSA-CPP/tree/master/3715-sum-of-perfect-square-ancestors) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/K-Raze/DSA-CPP/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Game Theory
 |  |
@@ -754,6 +760,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/K-Raze/DSA-CPP/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/K-Raze/DSA-CPP/tree/master/3312-sorted-gcd-pair-queries) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/K-Raze/DSA-CPP/tree/master/3518-smallest-palindromic-rearrangement-ii) |
+| [3715-sum-of-perfect-square-ancestors](https://github.com/K-Raze/DSA-CPP/tree/master/3715-sum-of-perfect-square-ancestors) |
 | [4066-maximum-equal-adjacent-pairs-after-at-most-one-replacement](https://github.com/K-Raze/DSA-CPP/tree/master/4066-maximum-equal-adjacent-pairs-after-at-most-one-replacement) |
 ## Stack
 |  |
