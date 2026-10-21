@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0068-text-justification](https://github.com/K-Raze/DSA-CPP/tree/master/0068-text-justification) |
 | [0128-longest-consecutive-sequence](https://github.com/K-Raze/DSA-CPP/tree/master/0128-longest-consecutive-sequence) |
+| [0135-candy](https://github.com/K-Raze/DSA-CPP/tree/master/0135-candy) |
 | [0179-largest-number](https://github.com/K-Raze/DSA-CPP/tree/master/0179-largest-number) |
 | [0212-word-search-ii](https://github.com/K-Raze/DSA-CPP/tree/master/0212-word-search-ii) |
 | [0327-count-of-range-sum](https://github.com/K-Raze/DSA-CPP/tree/master/0327-count-of-range-sum) |
@@ -545,6 +546,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0135-candy](https://github.com/K-Raze/DSA-CPP/tree/master/0135-candy) |
 | [0179-largest-number](https://github.com/K-Raze/DSA-CPP/tree/master/0179-largest-number) |
 | [0502-ipo](https://github.com/K-Raze/DSA-CPP/tree/master/0502-ipo) |
 | [0871-minimum-number-of-refueling-stops](https://github.com/K-Raze/DSA-CPP/tree/master/0871-minimum-number-of-refueling-stops) |
