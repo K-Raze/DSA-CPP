@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1697-checking-existence-of-edge-length-limited-paths](https://github.com/K-Raze/DSA-CPP/tree/master/1697-checking-existence-of-edge-length-limited-paths) |
 | [1707-maximum-xor-with-an-element-from-array](https://github.com/K-Raze/DSA-CPP/tree/master/1707-maximum-xor-with-an-element-from-array) |
 | [1735-count-ways-to-make-array-with-product](https://github.com/K-Raze/DSA-CPP/tree/master/1735-count-ways-to-make-array-with-product) |
+| [1803-count-pairs-with-xor-in-a-range](https://github.com/K-Raze/DSA-CPP/tree/master/1803-count-pairs-with-xor-in-a-range) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/K-Raze/DSA-CPP/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1872-stone-game-viii](https://github.com/K-Raze/DSA-CPP/tree/master/1872-stone-game-viii) |
 | [1879-minimum-xor-sum-of-two-arrays](https://github.com/K-Raze/DSA-CPP/tree/master/1879-minimum-xor-sum-of-two-arrays) |
@@ -465,6 +466,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0982-triples-with-bitwise-and-equal-to-zero](https://github.com/K-Raze/DSA-CPP/tree/master/0982-triples-with-bitwise-and-equal-to-zero) |
 | [1371-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/K-Raze/DSA-CPP/tree/master/1371-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1707-maximum-xor-with-an-element-from-array](https://github.com/K-Raze/DSA-CPP/tree/master/1707-maximum-xor-with-an-element-from-array) |
+| [1803-count-pairs-with-xor-in-a-range](https://github.com/K-Raze/DSA-CPP/tree/master/1803-count-pairs-with-xor-in-a-range) |
 | [1879-minimum-xor-sum-of-two-arrays](https://github.com/K-Raze/DSA-CPP/tree/master/1879-minimum-xor-sum-of-two-arrays) |
 | [1915-number-of-wonderful-substrings](https://github.com/K-Raze/DSA-CPP/tree/master/1915-number-of-wonderful-substrings) |
 | [1938-maximum-genetic-difference-query](https://github.com/K-Raze/DSA-CPP/tree/master/1938-maximum-genetic-difference-query) |
@@ -595,6 +597,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0212-word-search-ii](https://github.com/K-Raze/DSA-CPP/tree/master/0212-word-search-ii) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/K-Raze/DSA-CPP/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [1707-maximum-xor-with-an-element-from-array](https://github.com/K-Raze/DSA-CPP/tree/master/1707-maximum-xor-with-an-element-from-array) |
+| [1803-count-pairs-with-xor-in-a-range](https://github.com/K-Raze/DSA-CPP/tree/master/1803-count-pairs-with-xor-in-a-range) |
 | [1938-maximum-genetic-difference-query](https://github.com/K-Raze/DSA-CPP/tree/master/1938-maximum-genetic-difference-query) |
 | [2932-maximum-strong-pair-xor-i](https://github.com/K-Raze/DSA-CPP/tree/master/2932-maximum-strong-pair-xor-i) |
 | [2935-maximum-strong-pair-xor-ii](https://github.com/K-Raze/DSA-CPP/tree/master/2935-maximum-strong-pair-xor-ii) |
