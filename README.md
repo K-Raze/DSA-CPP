@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/K-Raze/DSA-CPP/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3575-maximum-good-subtree-score](https://github.com/K-Raze/DSA-CPP/tree/master/3575-maximum-good-subtree-score) |
 | [3620-network-recovery-pathways](https://github.com/K-Raze/DSA-CPP/tree/master/3620-network-recovery-pathways) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/K-Raze/DSA-CPP/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3681-maximum-xor-of-subsequences](https://github.com/K-Raze/DSA-CPP/tree/master/3681-maximum-xor-of-subsequences) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/K-Raze/DSA-CPP/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3715-sum-of-perfect-square-ancestors](https://github.com/K-Raze/DSA-CPP/tree/master/3715-sum-of-perfect-square-ancestors) |
@@ -496,6 +497,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/K-Raze/DSA-CPP/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/K-Raze/DSA-CPP/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3575-maximum-good-subtree-score](https://github.com/K-Raze/DSA-CPP/tree/master/3575-maximum-good-subtree-score) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/K-Raze/DSA-CPP/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3681-maximum-xor-of-subsequences](https://github.com/K-Raze/DSA-CPP/tree/master/3681-maximum-xor-of-subsequences) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/K-Raze/DSA-CPP/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [4027-elevator-requests-iii](https://github.com/K-Raze/DSA-CPP/tree/master/4027-elevator-requests-iii) |
