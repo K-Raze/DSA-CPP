@@ -400,6 +400,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0887-super-egg-drop](https://github.com/K-Raze/DSA-CPP/tree/master/0887-super-egg-drop) |
 | [0981-time-based-key-value-store](https://github.com/K-Raze/DSA-CPP/tree/master/0981-time-based-key-value-store) |
 | [1146-snapshot-array](https://github.com/K-Raze/DSA-CPP/tree/master/1146-snapshot-array) |
+| [1201-ugly-number-iii](https://github.com/K-Raze/DSA-CPP/tree/master/1201-ugly-number-iii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/K-Raze/DSA-CPP/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1782-count-pairs-of-nodes](https://github.com/K-Raze/DSA-CPP/tree/master/1782-count-pairs-of-nodes) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/K-Raze/DSA-CPP/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -519,6 +520,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/K-Raze/DSA-CPP/tree/master/0877-stone-game) |
 | [0887-super-egg-drop](https://github.com/K-Raze/DSA-CPP/tree/master/0887-super-egg-drop) |
 | [0899-orderly-queue](https://github.com/K-Raze/DSA-CPP/tree/master/0899-orderly-queue) |
+| [1201-ugly-number-iii](https://github.com/K-Raze/DSA-CPP/tree/master/1201-ugly-number-iii) |
 | [1510-stone-game-iv](https://github.com/K-Raze/DSA-CPP/tree/master/1510-stone-game-iv) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/K-Raze/DSA-CPP/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/K-Raze/DSA-CPP/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
@@ -749,6 +751,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [1201-ugly-number-iii](https://github.com/K-Raze/DSA-CPP/tree/master/1201-ugly-number-iii) |
 | [1627-graph-connectivity-with-threshold](https://github.com/K-Raze/DSA-CPP/tree/master/1627-graph-connectivity-with-threshold) |
 | [1735-count-ways-to-make-array-with-product](https://github.com/K-Raze/DSA-CPP/tree/master/1735-count-ways-to-make-array-with-product) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/K-Raze/DSA-CPP/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -779,6 +782,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Combinatorics
 |  |
 | ------- |
+| [1201-ugly-number-iii](https://github.com/K-Raze/DSA-CPP/tree/master/1201-ugly-number-iii) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/K-Raze/DSA-CPP/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/K-Raze/DSA-CPP/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1735-count-ways-to-make-array-with-product](https://github.com/K-Raze/DSA-CPP/tree/master/1735-count-ways-to-make-array-with-product) |
@@ -923,10 +927,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Euclidean Algorithm
 |  |
 | ------- |
+| [1201-ugly-number-iii](https://github.com/K-Raze/DSA-CPP/tree/master/1201-ugly-number-iii) |
 | [2344-minimum-deletions-to-make-array-divisible](https://github.com/K-Raze/DSA-CPP/tree/master/2344-minimum-deletions-to-make-array-divisible) |
 ## Greatest Common Divisor
 |  |
 | ------- |
+| [1201-ugly-number-iii](https://github.com/K-Raze/DSA-CPP/tree/master/1201-ugly-number-iii) |
 | [2344-minimum-deletions-to-make-array-divisible](https://github.com/K-Raze/DSA-CPP/tree/master/2344-minimum-deletions-to-make-array-divisible) |
 ## Binary Search Tree
 |  |
@@ -944,4 +950,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1994-the-number-of-good-subsets](https://github.com/K-Raze/DSA-CPP/tree/master/1994-the-number-of-good-subsets) |
+## Least Common Multiple
+|  |
+| ------- |
+| [1201-ugly-number-iii](https://github.com/K-Raze/DSA-CPP/tree/master/1201-ugly-number-iii) |
+## Inclusion-Exclusion Principle
+|  |
+| ------- |
+| [1201-ugly-number-iii](https://github.com/K-Raze/DSA-CPP/tree/master/1201-ugly-number-iii) |
 <!---LeetCode Topics End-->
