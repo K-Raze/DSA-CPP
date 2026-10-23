@@ -167,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1371-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/K-Raze/DSA-CPP/tree/master/1371-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1397-find-all-good-strings](https://github.com/K-Raze/DSA-CPP/tree/master/1397-find-all-good-strings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/K-Raze/DSA-CPP/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [1745-palindrome-partitioning-iv](https://github.com/K-Raze/DSA-CPP/tree/master/1745-palindrome-partitioning-iv) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/K-Raze/DSA-CPP/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1915-number-of-wonderful-substrings](https://github.com/K-Raze/DSA-CPP/tree/master/1915-number-of-wonderful-substrings) |
 | [1927-sum-game](https://github.com/K-Raze/DSA-CPP/tree/master/1927-sum-game) |
@@ -316,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/K-Raze/DSA-CPP/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/K-Raze/DSA-CPP/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1735-count-ways-to-make-array-with-product](https://github.com/K-Raze/DSA-CPP/tree/master/1735-count-ways-to-make-array-with-product) |
+| [1745-palindrome-partitioning-iv](https://github.com/K-Raze/DSA-CPP/tree/master/1745-palindrome-partitioning-iv) |
 | [1872-stone-game-viii](https://github.com/K-Raze/DSA-CPP/tree/master/1872-stone-game-viii) |
 | [1879-minimum-xor-sum-of-two-arrays](https://github.com/K-Raze/DSA-CPP/tree/master/1879-minimum-xor-sum-of-two-arrays) |
 | [1916-count-ways-to-build-rooms-in-an-ant-colony](https://github.com/K-Raze/DSA-CPP/tree/master/1916-count-ways-to-build-rooms-in-an-ant-colony) |
