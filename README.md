@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/K-Raze/DSA-CPP/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1872-stone-game-viii](https://github.com/K-Raze/DSA-CPP/tree/master/1872-stone-game-viii) |
 | [1879-minimum-xor-sum-of-two-arrays](https://github.com/K-Raze/DSA-CPP/tree/master/1879-minimum-xor-sum-of-two-arrays) |
+| [1889-minimum-space-wasted-from-packaging](https://github.com/K-Raze/DSA-CPP/tree/master/1889-minimum-space-wasted-from-packaging) |
 | [1916-count-ways-to-build-rooms-in-an-ant-colony](https://github.com/K-Raze/DSA-CPP/tree/master/1916-count-ways-to-build-rooms-in-an-ant-colony) |
 | [1938-maximum-genetic-difference-query](https://github.com/K-Raze/DSA-CPP/tree/master/1938-maximum-genetic-difference-query) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/K-Raze/DSA-CPP/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -267,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1371-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/K-Raze/DSA-CPP/tree/master/1371-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/K-Raze/DSA-CPP/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1872-stone-game-viii](https://github.com/K-Raze/DSA-CPP/tree/master/1872-stone-game-viii) |
+| [1889-minimum-space-wasted-from-packaging](https://github.com/K-Raze/DSA-CPP/tree/master/1889-minimum-space-wasted-from-packaging) |
 | [1915-number-of-wonderful-substrings](https://github.com/K-Raze/DSA-CPP/tree/master/1915-number-of-wonderful-substrings) |
 | [2171-removing-minimum-number-of-magic-beans](https://github.com/K-Raze/DSA-CPP/tree/master/2171-removing-minimum-number-of-magic-beans) |
 | [2251-number-of-flowers-in-full-bloom](https://github.com/K-Raze/DSA-CPP/tree/master/2251-number-of-flowers-in-full-bloom) |
@@ -403,6 +405,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1201-ugly-number-iii](https://github.com/K-Raze/DSA-CPP/tree/master/1201-ugly-number-iii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/K-Raze/DSA-CPP/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1782-count-pairs-of-nodes](https://github.com/K-Raze/DSA-CPP/tree/master/1782-count-pairs-of-nodes) |
+| [1889-minimum-space-wasted-from-packaging](https://github.com/K-Raze/DSA-CPP/tree/master/1889-minimum-space-wasted-from-packaging) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/K-Raze/DSA-CPP/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2251-number-of-flowers-in-full-bloom](https://github.com/K-Raze/DSA-CPP/tree/master/2251-number-of-flowers-in-full-bloom) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/K-Raze/DSA-CPP/tree/master/2333-minimum-sum-of-squared-difference) |
@@ -692,6 +695,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1679-max-number-of-k-sum-pairs](https://github.com/K-Raze/DSA-CPP/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1697-checking-existence-of-edge-length-limited-paths](https://github.com/K-Raze/DSA-CPP/tree/master/1697-checking-existence-of-edge-length-limited-paths) |
 | [1782-count-pairs-of-nodes](https://github.com/K-Raze/DSA-CPP/tree/master/1782-count-pairs-of-nodes) |
+| [1889-minimum-space-wasted-from-packaging](https://github.com/K-Raze/DSA-CPP/tree/master/1889-minimum-space-wasted-from-packaging) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/K-Raze/DSA-CPP/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2171-removing-minimum-number-of-magic-beans](https://github.com/K-Raze/DSA-CPP/tree/master/2171-removing-minimum-number-of-magic-beans) |
 | [2251-number-of-flowers-in-full-bloom](https://github.com/K-Raze/DSA-CPP/tree/master/2251-number-of-flowers-in-full-bloom) |
