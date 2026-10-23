@@ -327,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2585-number-of-ways-to-earn-points](https://github.com/K-Raze/DSA-CPP/tree/master/2585-number-of-ways-to-earn-points) |
 | [2684-maximum-number-of-moves-in-a-grid](https://github.com/K-Raze/DSA-CPP/tree/master/2684-maximum-number-of-moves-in-a-grid) |
 | [2920-maximum-points-after-collecting-coins-from-all-nodes](https://github.com/K-Raze/DSA-CPP/tree/master/2920-maximum-points-after-collecting-coins-from-all-nodes) |
+| [2930-number-of-strings-which-can-be-rearranged-to-contain-substring](https://github.com/K-Raze/DSA-CPP/tree/master/2930-number-of-strings-which-can-be-rearranged-to-contain-substring) |
 | [2973-find-number-of-coins-to-place-in-tree-nodes](https://github.com/K-Raze/DSA-CPP/tree/master/2973-find-number-of-coins-to-place-in-tree-nodes) |
 | [3007-maximum-number-that-sum-of-the-prices-is-less-than-or-equal-to-k](https://github.com/K-Raze/DSA-CPP/tree/master/3007-maximum-number-that-sum-of-the-prices-is-less-than-or-equal-to-k) |
 | [3229-minimum-operations-to-make-array-equal-to-target](https://github.com/K-Raze/DSA-CPP/tree/master/3229-minimum-operations-to-make-array-equal-to-target) |
@@ -538,6 +539,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2344-minimum-deletions-to-make-array-divisible](https://github.com/K-Raze/DSA-CPP/tree/master/2344-minimum-deletions-to-make-array-divisible) |
 | [2514-count-anagrams](https://github.com/K-Raze/DSA-CPP/tree/master/2514-count-anagrams) |
 | [2862-maximum-element-sum-of-a-complete-subset-of-indices](https://github.com/K-Raze/DSA-CPP/tree/master/2862-maximum-element-sum-of-a-complete-subset-of-indices) |
+| [2930-number-of-strings-which-can-be-rearranged-to-contain-substring](https://github.com/K-Raze/DSA-CPP/tree/master/2930-number-of-strings-which-can-be-rearranged-to-contain-substring) |
 | [2963-count-the-number-of-good-partitions](https://github.com/K-Raze/DSA-CPP/tree/master/2963-count-the-number-of-good-partitions) |
 | [3007-maximum-number-that-sum-of-the-prices-is-less-than-or-equal-to-k](https://github.com/K-Raze/DSA-CPP/tree/master/3007-maximum-number-that-sum-of-the-prices-is-less-than-or-equal-to-k) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/K-Raze/DSA-CPP/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
@@ -792,6 +794,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1735-count-ways-to-make-array-with-product](https://github.com/K-Raze/DSA-CPP/tree/master/1735-count-ways-to-make-array-with-product) |
 | [1916-count-ways-to-build-rooms-in-an-ant-colony](https://github.com/K-Raze/DSA-CPP/tree/master/1916-count-ways-to-build-rooms-in-an-ant-colony) |
 | [2514-count-anagrams](https://github.com/K-Raze/DSA-CPP/tree/master/2514-count-anagrams) |
+| [2930-number-of-strings-which-can-be-rearranged-to-contain-substring](https://github.com/K-Raze/DSA-CPP/tree/master/2930-number-of-strings-which-can-be-rearranged-to-contain-substring) |
 | [2963-count-the-number-of-good-partitions](https://github.com/K-Raze/DSA-CPP/tree/master/2963-count-the-number-of-good-partitions) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/K-Raze/DSA-CPP/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3312-sorted-gcd-pair-queries](https://github.com/K-Raze/DSA-CPP/tree/master/3312-sorted-gcd-pair-queries) |
