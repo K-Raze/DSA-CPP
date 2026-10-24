@@ -1,6 +1,6 @@
 using ll=long long;
 const int mod=1e9+7;
-int dp[84][800][84];
+int dp[12][370][84];
 class Solution {
 public:
 
@@ -46,6 +46,8 @@ public:
 
     ll solve(int x,int sum,int tk,int req,int n)
     {
+        if(sum>req || tk>(n+1)/2)
+            return 0;
         if(x==10)
         {
             if(sum==req && tk==(n+1)/2)
