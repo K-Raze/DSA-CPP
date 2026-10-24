@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2350-shortest-impossible-sequence-of-rolls](https://github.com/K-Raze/DSA-CPP/tree/master/2350-shortest-impossible-sequence-of-rolls) |
 | [2382-maximum-segment-sum-after-removals](https://github.com/K-Raze/DSA-CPP/tree/master/2382-maximum-segment-sum-after-removals) |
 | [2392-build-a-matrix-with-conditions](https://github.com/K-Raze/DSA-CPP/tree/master/2392-build-a-matrix-with-conditions) |
+| [2448-minimum-cost-to-make-array-equal](https://github.com/K-Raze/DSA-CPP/tree/master/2448-minimum-cost-to-make-array-equal) |
 | [2449-minimum-number-of-operations-to-make-arrays-similar](https://github.com/K-Raze/DSA-CPP/tree/master/2449-minimum-number-of-operations-to-make-arrays-similar) |
 | [2503-maximum-number-of-points-from-grid-queries](https://github.com/K-Raze/DSA-CPP/tree/master/2503-maximum-number-of-points-from-grid-queries) |
 | [2551-put-marbles-in-bags](https://github.com/K-Raze/DSA-CPP/tree/master/2551-put-marbles-in-bags) |
@@ -276,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2171-removing-minimum-number-of-magic-beans](https://github.com/K-Raze/DSA-CPP/tree/master/2171-removing-minimum-number-of-magic-beans) |
 | [2251-number-of-flowers-in-full-bloom](https://github.com/K-Raze/DSA-CPP/tree/master/2251-number-of-flowers-in-full-bloom) |
 | [2382-maximum-segment-sum-after-removals](https://github.com/K-Raze/DSA-CPP/tree/master/2382-maximum-segment-sum-after-removals) |
+| [2448-minimum-cost-to-make-array-equal](https://github.com/K-Raze/DSA-CPP/tree/master/2448-minimum-cost-to-make-array-equal) |
 | [2588-count-the-number-of-beautiful-subarrays](https://github.com/K-Raze/DSA-CPP/tree/master/2588-count-the-number-of-beautiful-subarrays) |
 | [3312-sorted-gcd-pair-queries](https://github.com/K-Raze/DSA-CPP/tree/master/3312-sorted-gcd-pair-queries) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/K-Raze/DSA-CPP/tree/master/3739-count-subarrays-with-majority-element-ii) |
@@ -416,6 +418,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2089-find-target-indices-after-sorting-array](https://github.com/K-Raze/DSA-CPP/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2251-number-of-flowers-in-full-bloom](https://github.com/K-Raze/DSA-CPP/tree/master/2251-number-of-flowers-in-full-bloom) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/K-Raze/DSA-CPP/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2448-minimum-cost-to-make-array-equal](https://github.com/K-Raze/DSA-CPP/tree/master/2448-minimum-cost-to-make-array-equal) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/K-Raze/DSA-CPP/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2970-count-the-number-of-incremovable-subarrays-i](https://github.com/K-Raze/DSA-CPP/tree/master/2970-count-the-number-of-incremovable-subarrays-i) |
 | [2972-count-the-number-of-incremovable-subarrays-ii](https://github.com/K-Raze/DSA-CPP/tree/master/2972-count-the-number-of-incremovable-subarrays-ii) |
@@ -593,6 +596,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2178-maximum-split-of-positive-even-integers](https://github.com/K-Raze/DSA-CPP/tree/master/2178-maximum-split-of-positive-even-integers) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/K-Raze/DSA-CPP/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2350-shortest-impossible-sequence-of-rolls](https://github.com/K-Raze/DSA-CPP/tree/master/2350-shortest-impossible-sequence-of-rolls) |
+| [2448-minimum-cost-to-make-array-equal](https://github.com/K-Raze/DSA-CPP/tree/master/2448-minimum-cost-to-make-array-equal) |
 | [2449-minimum-number-of-operations-to-make-arrays-similar](https://github.com/K-Raze/DSA-CPP/tree/master/2449-minimum-number-of-operations-to-make-arrays-similar) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/K-Raze/DSA-CPP/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2551-put-marbles-in-bags](https://github.com/K-Raze/DSA-CPP/tree/master/2551-put-marbles-in-bags) |
@@ -710,6 +714,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2251-number-of-flowers-in-full-bloom](https://github.com/K-Raze/DSA-CPP/tree/master/2251-number-of-flowers-in-full-bloom) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/K-Raze/DSA-CPP/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2344-minimum-deletions-to-make-array-divisible](https://github.com/K-Raze/DSA-CPP/tree/master/2344-minimum-deletions-to-make-array-divisible) |
+| [2448-minimum-cost-to-make-array-equal](https://github.com/K-Raze/DSA-CPP/tree/master/2448-minimum-cost-to-make-array-equal) |
 | [2449-minimum-number-of-operations-to-make-arrays-similar](https://github.com/K-Raze/DSA-CPP/tree/master/2449-minimum-number-of-operations-to-make-arrays-similar) |
 | [2503-maximum-number-of-points-from-grid-queries](https://github.com/K-Raze/DSA-CPP/tree/master/2503-maximum-number-of-points-from-grid-queries) |
 | [2551-put-marbles-in-bags](https://github.com/K-Raze/DSA-CPP/tree/master/2551-put-marbles-in-bags) |
