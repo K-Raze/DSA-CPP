@@ -641,6 +641,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/K-Raze/DSA-CPP/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/K-Raze/DSA-CPP/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/K-Raze/DSA-CPP/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0399-evaluate-division](https://github.com/K-Raze/DSA-CPP/tree/master/0399-evaluate-division) |
@@ -692,6 +693,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/K-Raze/DSA-CPP/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0979-distribute-coins-in-binary-tree](https://github.com/K-Raze/DSA-CPP/tree/master/0979-distribute-coins-in-binary-tree) |
 | [1377-frog-position-after-t-seconds](https://github.com/K-Raze/DSA-CPP/tree/master/1377-frog-position-after-t-seconds) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/K-Raze/DSA-CPP/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
@@ -841,6 +843,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/K-Raze/DSA-CPP/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/K-Raze/DSA-CPP/tree/master/0032-longest-valid-parentheses) |
 | [0071-simplify-path](https://github.com/K-Raze/DSA-CPP/tree/master/0071-simplify-path) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/K-Raze/DSA-CPP/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0856-score-of-parentheses](https://github.com/K-Raze/DSA-CPP/tree/master/0856-score-of-parentheses) |
 | [0907-sum-of-subarray-minimums](https://github.com/K-Raze/DSA-CPP/tree/master/0907-sum-of-subarray-minimums) |
 | [0962-maximum-width-ramp](https://github.com/K-Raze/DSA-CPP/tree/master/0962-maximum-width-ramp) |
@@ -895,6 +898,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/K-Raze/DSA-CPP/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0979-distribute-coins-in-binary-tree](https://github.com/K-Raze/DSA-CPP/tree/master/0979-distribute-coins-in-binary-tree) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/K-Raze/DSA-CPP/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Hungarian Algorithm
@@ -997,4 +1001,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2398-maximum-number-of-robots-within-budget](https://github.com/K-Raze/DSA-CPP/tree/master/2398-maximum-number-of-robots-within-budget) |
+## Linked List
+|  |
+| ------- |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/K-Raze/DSA-CPP/tree/master/0114-flatten-binary-tree-to-linked-list) |
 <!---LeetCode Topics End-->
