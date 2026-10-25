@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2350-shortest-impossible-sequence-of-rolls](https://github.com/K-Raze/DSA-CPP/tree/master/2350-shortest-impossible-sequence-of-rolls) |
 | [2382-maximum-segment-sum-after-removals](https://github.com/K-Raze/DSA-CPP/tree/master/2382-maximum-segment-sum-after-removals) |
 | [2392-build-a-matrix-with-conditions](https://github.com/K-Raze/DSA-CPP/tree/master/2392-build-a-matrix-with-conditions) |
+| [2398-maximum-number-of-robots-within-budget](https://github.com/K-Raze/DSA-CPP/tree/master/2398-maximum-number-of-robots-within-budget) |
 | [2448-minimum-cost-to-make-array-equal](https://github.com/K-Raze/DSA-CPP/tree/master/2448-minimum-cost-to-make-array-equal) |
 | [2449-minimum-number-of-operations-to-make-arrays-similar](https://github.com/K-Raze/DSA-CPP/tree/master/2449-minimum-number-of-operations-to-make-arrays-similar) |
 | [2503-maximum-number-of-points-from-grid-queries](https://github.com/K-Raze/DSA-CPP/tree/master/2503-maximum-number-of-points-from-grid-queries) |
@@ -279,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2171-removing-minimum-number-of-magic-beans](https://github.com/K-Raze/DSA-CPP/tree/master/2171-removing-minimum-number-of-magic-beans) |
 | [2251-number-of-flowers-in-full-bloom](https://github.com/K-Raze/DSA-CPP/tree/master/2251-number-of-flowers-in-full-bloom) |
 | [2382-maximum-segment-sum-after-removals](https://github.com/K-Raze/DSA-CPP/tree/master/2382-maximum-segment-sum-after-removals) |
+| [2398-maximum-number-of-robots-within-budget](https://github.com/K-Raze/DSA-CPP/tree/master/2398-maximum-number-of-robots-within-budget) |
 | [2448-minimum-cost-to-make-array-equal](https://github.com/K-Raze/DSA-CPP/tree/master/2448-minimum-cost-to-make-array-equal) |
 | [2588-count-the-number-of-beautiful-subarrays](https://github.com/K-Raze/DSA-CPP/tree/master/2588-count-the-number-of-beautiful-subarrays) |
 | [3312-sorted-gcd-pair-queries](https://github.com/K-Raze/DSA-CPP/tree/master/3312-sorted-gcd-pair-queries) |
@@ -295,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1031-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/K-Raze/DSA-CPP/tree/master/1031-maximum-sum-of-two-non-overlapping-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/K-Raze/DSA-CPP/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/K-Raze/DSA-CPP/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [2398-maximum-number-of-robots-within-budget](https://github.com/K-Raze/DSA-CPP/tree/master/2398-maximum-number-of-robots-within-budget) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/K-Raze/DSA-CPP/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2932-maximum-strong-pair-xor-i](https://github.com/K-Raze/DSA-CPP/tree/master/2932-maximum-strong-pair-xor-i) |
 | [2935-maximum-strong-pair-xor-ii](https://github.com/K-Raze/DSA-CPP/tree/master/2935-maximum-strong-pair-xor-ii) |
@@ -390,6 +393,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2163-minimum-difference-in-sums-after-removal-of-elements](https://github.com/K-Raze/DSA-CPP/tree/master/2163-minimum-difference-in-sums-after-removal-of-elements) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/K-Raze/DSA-CPP/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2344-minimum-deletions-to-make-array-divisible](https://github.com/K-Raze/DSA-CPP/tree/master/2344-minimum-deletions-to-make-array-divisible) |
+| [2398-maximum-number-of-robots-within-budget](https://github.com/K-Raze/DSA-CPP/tree/master/2398-maximum-number-of-robots-within-budget) |
 | [2503-maximum-number-of-points-from-grid-queries](https://github.com/K-Raze/DSA-CPP/tree/master/2503-maximum-number-of-points-from-grid-queries) |
 | [2551-put-marbles-in-bags](https://github.com/K-Raze/DSA-CPP/tree/master/2551-put-marbles-in-bags) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/K-Raze/DSA-CPP/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -421,6 +425,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2089-find-target-indices-after-sorting-array](https://github.com/K-Raze/DSA-CPP/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2251-number-of-flowers-in-full-bloom](https://github.com/K-Raze/DSA-CPP/tree/master/2251-number-of-flowers-in-full-bloom) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/K-Raze/DSA-CPP/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2398-maximum-number-of-robots-within-budget](https://github.com/K-Raze/DSA-CPP/tree/master/2398-maximum-number-of-robots-within-budget) |
 | [2448-minimum-cost-to-make-array-equal](https://github.com/K-Raze/DSA-CPP/tree/master/2448-minimum-cost-to-make-array-equal) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/K-Raze/DSA-CPP/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2970-count-the-number-of-incremovable-subarrays-i](https://github.com/K-Raze/DSA-CPP/tree/master/2970-count-the-number-of-incremovable-subarrays-i) |
@@ -984,4 +989,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1201-ugly-number-iii](https://github.com/K-Raze/DSA-CPP/tree/master/1201-ugly-number-iii) |
+## Queue
+|  |
+| ------- |
+| [2398-maximum-number-of-robots-within-budget](https://github.com/K-Raze/DSA-CPP/tree/master/2398-maximum-number-of-robots-within-budget) |
+## Monotonic Queue
+|  |
+| ------- |
+| [2398-maximum-number-of-robots-within-budget](https://github.com/K-Raze/DSA-CPP/tree/master/2398-maximum-number-of-robots-within-budget) |
 <!---LeetCode Topics End-->
