@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2603-collect-coins-in-a-tree](https://github.com/K-Raze/DSA-CPP/tree/master/2603-collect-coins-in-a-tree) |
 | [2683-neighboring-bitwise-xor](https://github.com/K-Raze/DSA-CPP/tree/master/2683-neighboring-bitwise-xor) |
 | [2684-maximum-number-of-moves-in-a-grid](https://github.com/K-Raze/DSA-CPP/tree/master/2684-maximum-number-of-moves-in-a-grid) |
+| [2781-length-of-the-longest-valid-substring](https://github.com/K-Raze/DSA-CPP/tree/master/2781-length-of-the-longest-valid-substring) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/K-Raze/DSA-CPP/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2862-maximum-element-sum-of-a-complete-subset-of-indices](https://github.com/K-Raze/DSA-CPP/tree/master/2862-maximum-element-sum-of-a-complete-subset-of-indices) |
 | [2871-split-array-into-maximum-number-of-subarrays](https://github.com/K-Raze/DSA-CPP/tree/master/2871-split-array-into-maximum-number-of-subarrays) |
@@ -182,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2468-split-message-based-on-limit](https://github.com/K-Raze/DSA-CPP/tree/master/2468-split-message-based-on-limit) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/K-Raze/DSA-CPP/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2514-count-anagrams](https://github.com/K-Raze/DSA-CPP/tree/master/2514-count-anagrams) |
+| [2781-length-of-the-longest-valid-substring](https://github.com/K-Raze/DSA-CPP/tree/master/2781-length-of-the-longest-valid-substring) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/K-Raze/DSA-CPP/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/K-Raze/DSA-CPP/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3327-check-if-dfs-strings-are-palindromes](https://github.com/K-Raze/DSA-CPP/tree/master/3327-check-if-dfs-strings-are-palindromes) |
@@ -221,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2350-shortest-impossible-sequence-of-rolls](https://github.com/K-Raze/DSA-CPP/tree/master/2350-shortest-impossible-sequence-of-rolls) |
 | [2514-count-anagrams](https://github.com/K-Raze/DSA-CPP/tree/master/2514-count-anagrams) |
 | [2588-count-the-number-of-beautiful-subarrays](https://github.com/K-Raze/DSA-CPP/tree/master/2588-count-the-number-of-beautiful-subarrays) |
+| [2781-length-of-the-longest-valid-substring](https://github.com/K-Raze/DSA-CPP/tree/master/2781-length-of-the-longest-valid-substring) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/K-Raze/DSA-CPP/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/K-Raze/DSA-CPP/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [2932-maximum-strong-pair-xor-i](https://github.com/K-Raze/DSA-CPP/tree/master/2932-maximum-strong-pair-xor-i) |
@@ -300,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/K-Raze/DSA-CPP/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1499-max-value-of-equation](https://github.com/K-Raze/DSA-CPP/tree/master/1499-max-value-of-equation) |
 | [2398-maximum-number-of-robots-within-budget](https://github.com/K-Raze/DSA-CPP/tree/master/2398-maximum-number-of-robots-within-budget) |
+| [2781-length-of-the-longest-valid-substring](https://github.com/K-Raze/DSA-CPP/tree/master/2781-length-of-the-longest-valid-substring) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/K-Raze/DSA-CPP/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2932-maximum-strong-pair-xor-i](https://github.com/K-Raze/DSA-CPP/tree/master/2932-maximum-strong-pair-xor-i) |
 | [2935-maximum-strong-pair-xor-ii](https://github.com/K-Raze/DSA-CPP/tree/master/2935-maximum-strong-pair-xor-ii) |
