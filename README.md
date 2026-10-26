@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/K-Raze/DSA-CPP/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/K-Raze/DSA-CPP/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/K-Raze/DSA-CPP/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1499-max-value-of-equation](https://github.com/K-Raze/DSA-CPP/tree/master/1499-max-value-of-equation) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/K-Raze/DSA-CPP/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/K-Raze/DSA-CPP/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [1627-graph-connectivity-with-threshold](https://github.com/K-Raze/DSA-CPP/tree/master/1627-graph-connectivity-with-threshold) |
@@ -297,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1031-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/K-Raze/DSA-CPP/tree/master/1031-maximum-sum-of-two-non-overlapping-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/K-Raze/DSA-CPP/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/K-Raze/DSA-CPP/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1499-max-value-of-equation](https://github.com/K-Raze/DSA-CPP/tree/master/1499-max-value-of-equation) |
 | [2398-maximum-number-of-robots-within-budget](https://github.com/K-Raze/DSA-CPP/tree/master/2398-maximum-number-of-robots-within-budget) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/K-Raze/DSA-CPP/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2932-maximum-strong-pair-xor-i](https://github.com/K-Raze/DSA-CPP/tree/master/2932-maximum-strong-pair-xor-i) |
@@ -390,6 +392,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0871-minimum-number-of-refueling-stops](https://github.com/K-Raze/DSA-CPP/tree/master/0871-minimum-number-of-refueling-stops) |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/K-Raze/DSA-CPP/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/K-Raze/DSA-CPP/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1499-max-value-of-equation](https://github.com/K-Raze/DSA-CPP/tree/master/1499-max-value-of-equation) |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/K-Raze/DSA-CPP/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [1675-minimize-deviation-in-array](https://github.com/K-Raze/DSA-CPP/tree/master/1675-minimize-deviation-in-array) |
 | [2163-minimum-difference-in-sums-after-removal-of-elements](https://github.com/K-Raze/DSA-CPP/tree/master/2163-minimum-difference-in-sums-after-removal-of-elements) |
@@ -1001,10 +1004,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [1499-max-value-of-equation](https://github.com/K-Raze/DSA-CPP/tree/master/1499-max-value-of-equation) |
 | [2398-maximum-number-of-robots-within-budget](https://github.com/K-Raze/DSA-CPP/tree/master/2398-maximum-number-of-robots-within-budget) |
 ## Monotonic Queue
 |  |
 | ------- |
+| [1499-max-value-of-equation](https://github.com/K-Raze/DSA-CPP/tree/master/1499-max-value-of-equation) |
 | [2398-maximum-number-of-robots-within-budget](https://github.com/K-Raze/DSA-CPP/tree/master/2398-maximum-number-of-robots-within-budget) |
 ## Linked List
 |  |
