@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/K-Raze/DSA-CPP/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0494-target-sum](https://github.com/K-Raze/DSA-CPP/tree/master/0494-target-sum) |
 | [0502-ipo](https://github.com/K-Raze/DSA-CPP/tree/master/0502-ipo) |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/K-Raze/DSA-CPP/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0628-maximum-product-of-three-numbers](https://github.com/K-Raze/DSA-CPP/tree/master/0628-maximum-product-of-three-numbers) |
 | [0811-subdomain-visit-count](https://github.com/K-Raze/DSA-CPP/tree/master/0811-subdomain-visit-count) |
 | [0815-bus-routes](https://github.com/K-Raze/DSA-CPP/tree/master/0815-bus-routes) |
@@ -600,6 +601,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0135-candy](https://github.com/K-Raze/DSA-CPP/tree/master/0135-candy) |
 | [0179-largest-number](https://github.com/K-Raze/DSA-CPP/tree/master/0179-largest-number) |
 | [0502-ipo](https://github.com/K-Raze/DSA-CPP/tree/master/0502-ipo) |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/K-Raze/DSA-CPP/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0871-minimum-number-of-refueling-stops](https://github.com/K-Raze/DSA-CPP/tree/master/0871-minimum-number-of-refueling-stops) |
 | [1024-video-stitching](https://github.com/K-Raze/DSA-CPP/tree/master/1024-video-stitching) |
 | [1029-two-city-scheduling](https://github.com/K-Raze/DSA-CPP/tree/master/1029-two-city-scheduling) |
@@ -722,6 +724,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0179-largest-number](https://github.com/K-Raze/DSA-CPP/tree/master/0179-largest-number) |
 | [0502-ipo](https://github.com/K-Raze/DSA-CPP/tree/master/0502-ipo) |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/K-Raze/DSA-CPP/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0628-maximum-product-of-three-numbers](https://github.com/K-Raze/DSA-CPP/tree/master/0628-maximum-product-of-three-numbers) |
 | [0899-orderly-queue](https://github.com/K-Raze/DSA-CPP/tree/master/0899-orderly-queue) |
 | [1029-two-city-scheduling](https://github.com/K-Raze/DSA-CPP/tree/master/1029-two-city-scheduling) |
@@ -763,6 +766,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0165-compare-version-numbers](https://github.com/K-Raze/DSA-CPP/tree/master/0165-compare-version-numbers) |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/K-Raze/DSA-CPP/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0962-maximum-width-ramp](https://github.com/K-Raze/DSA-CPP/tree/master/0962-maximum-width-ramp) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/K-Raze/DSA-CPP/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1697-checking-existence-of-edge-length-limited-paths](https://github.com/K-Raze/DSA-CPP/tree/master/1697-checking-existence-of-edge-length-limited-paths) |
@@ -856,6 +860,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/K-Raze/DSA-CPP/tree/master/0032-longest-valid-parentheses) |
 | [0071-simplify-path](https://github.com/K-Raze/DSA-CPP/tree/master/0071-simplify-path) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/K-Raze/DSA-CPP/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/K-Raze/DSA-CPP/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0856-score-of-parentheses](https://github.com/K-Raze/DSA-CPP/tree/master/0856-score-of-parentheses) |
 | [0907-sum-of-subarray-minimums](https://github.com/K-Raze/DSA-CPP/tree/master/0907-sum-of-subarray-minimums) |
 | [0962-maximum-width-ramp](https://github.com/K-Raze/DSA-CPP/tree/master/0962-maximum-width-ramp) |
@@ -871,6 +876,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/K-Raze/DSA-CPP/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0907-sum-of-subarray-minimums](https://github.com/K-Raze/DSA-CPP/tree/master/0907-sum-of-subarray-minimums) |
 | [0962-maximum-width-ramp](https://github.com/K-Raze/DSA-CPP/tree/master/0962-maximum-width-ramp) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/K-Raze/DSA-CPP/tree/master/1081-smallest-subsequence-of-distinct-characters) |
