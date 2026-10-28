@@ -374,6 +374,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/K-Raze/DSA-CPP/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0399-evaluate-division](https://github.com/K-Raze/DSA-CPP/tree/master/0399-evaluate-division) |
 | [1377-frog-position-after-t-seconds](https://github.com/K-Raze/DSA-CPP/tree/master/1377-frog-position-after-t-seconds) |
+| [1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree](https://github.com/K-Raze/DSA-CPP/tree/master/1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree) |
 | [1579-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/K-Raze/DSA-CPP/tree/master/1579-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
 | [1697-checking-existence-of-edge-length-limited-paths](https://github.com/K-Raze/DSA-CPP/tree/master/1697-checking-existence-of-edge-length-limited-paths) |
 | [1761-minimum-degree-of-a-connected-trio-in-a-graph](https://github.com/K-Raze/DSA-CPP/tree/master/1761-minimum-degree-of-a-connected-trio-in-a-graph) |
@@ -475,6 +476,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/K-Raze/DSA-CPP/tree/master/0128-longest-consecutive-sequence) |
 | [0399-evaluate-division](https://github.com/K-Raze/DSA-CPP/tree/master/0399-evaluate-division) |
+| [1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree](https://github.com/K-Raze/DSA-CPP/tree/master/1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/K-Raze/DSA-CPP/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1579-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/K-Raze/DSA-CPP/tree/master/1579-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
 | [1627-graph-connectivity-with-threshold](https://github.com/K-Raze/DSA-CPP/tree/master/1627-graph-connectivity-with-threshold) |
@@ -735,6 +737,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1288-remove-covered-intervals](https://github.com/K-Raze/DSA-CPP/tree/master/1288-remove-covered-intervals) |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/K-Raze/DSA-CPP/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/K-Raze/DSA-CPP/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree](https://github.com/K-Raze/DSA-CPP/tree/master/1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/K-Raze/DSA-CPP/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1697-checking-existence-of-edge-length-limited-paths](https://github.com/K-Raze/DSA-CPP/tree/master/1697-checking-existence-of-edge-length-limited-paths) |
 | [1782-count-pairs-of-nodes](https://github.com/K-Raze/DSA-CPP/tree/master/1782-count-pairs-of-nodes) |
@@ -1037,4 +1040,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2876-count-visited-nodes-in-a-directed-graph](https://github.com/K-Raze/DSA-CPP/tree/master/2876-count-visited-nodes-in-a-directed-graph) |
+## Minimum Spanning Tree
+|  |
+| ------- |
+| [1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree](https://github.com/K-Raze/DSA-CPP/tree/master/1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree) |
+## Strongly Connected Component
+|  |
+| ------- |
+| [1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree](https://github.com/K-Raze/DSA-CPP/tree/master/1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree) |
+## Prim's Algorithm
+|  |
+| ------- |
+| [1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree](https://github.com/K-Raze/DSA-CPP/tree/master/1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree) |
+## Kruskal's Algorithm
+|  |
+| ------- |
+| [1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree](https://github.com/K-Raze/DSA-CPP/tree/master/1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree) |
+## Borůvka's Algorithm
+|  |
+| ------- |
+| [1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree](https://github.com/K-Raze/DSA-CPP/tree/master/1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree) |
 <!---LeetCode Topics End-->
