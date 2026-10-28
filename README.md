@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1024-video-stitching](https://github.com/K-Raze/DSA-CPP/tree/master/1024-video-stitching) |
 | [1029-two-city-scheduling](https://github.com/K-Raze/DSA-CPP/tree/master/1029-two-city-scheduling) |
 | [1031-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/K-Raze/DSA-CPP/tree/master/1031-maximum-sum-of-two-non-overlapping-subarrays) |
+| [1125-smallest-sufficient-team](https://github.com/K-Raze/DSA-CPP/tree/master/1125-smallest-sufficient-team) |
 | [1146-snapshot-array](https://github.com/K-Raze/DSA-CPP/tree/master/1146-snapshot-array) |
 | [1288-remove-covered-intervals](https://github.com/K-Raze/DSA-CPP/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/K-Raze/DSA-CPP/tree/master/1301-number-of-paths-with-max-score) |
@@ -325,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0907-sum-of-subarray-minimums](https://github.com/K-Raze/DSA-CPP/tree/master/0907-sum-of-subarray-minimums) |
 | [1024-video-stitching](https://github.com/K-Raze/DSA-CPP/tree/master/1024-video-stitching) |
 | [1031-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/K-Raze/DSA-CPP/tree/master/1031-maximum-sum-of-two-non-overlapping-subarrays) |
+| [1125-smallest-sufficient-team](https://github.com/K-Raze/DSA-CPP/tree/master/1125-smallest-sufficient-team) |
 | [1278-palindrome-partitioning-iii](https://github.com/K-Raze/DSA-CPP/tree/master/1278-palindrome-partitioning-iii) |
 | [1301-number-of-paths-with-max-score](https://github.com/K-Raze/DSA-CPP/tree/master/1301-number-of-paths-with-max-score) |
 | [1326-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/K-Raze/DSA-CPP/tree/master/1326-minimum-number-of-taps-to-open-to-water-a-garden) |
@@ -504,6 +506,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/K-Raze/DSA-CPP/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0982-triples-with-bitwise-and-equal-to-zero](https://github.com/K-Raze/DSA-CPP/tree/master/0982-triples-with-bitwise-and-equal-to-zero) |
+| [1125-smallest-sufficient-team](https://github.com/K-Raze/DSA-CPP/tree/master/1125-smallest-sufficient-team) |
 | [1371-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/K-Raze/DSA-CPP/tree/master/1371-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1707-maximum-xor-with-an-element-from-array](https://github.com/K-Raze/DSA-CPP/tree/master/1707-maximum-xor-with-an-element-from-array) |
 | [1803-count-pairs-with-xor-in-a-range](https://github.com/K-Raze/DSA-CPP/tree/master/1803-count-pairs-with-xor-in-a-range) |
@@ -536,6 +539,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bitmask
 |  |
 | ------- |
+| [1125-smallest-sufficient-team](https://github.com/K-Raze/DSA-CPP/tree/master/1125-smallest-sufficient-team) |
 | [1879-minimum-xor-sum-of-two-arrays](https://github.com/K-Raze/DSA-CPP/tree/master/1879-minimum-xor-sum-of-two-arrays) |
 | [1994-the-number-of-good-subsets](https://github.com/K-Raze/DSA-CPP/tree/master/1994-the-number-of-good-subsets) |
 | [2172-maximum-and-sum-of-array](https://github.com/K-Raze/DSA-CPP/tree/master/2172-maximum-and-sum-of-array) |
