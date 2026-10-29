@@ -134,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3731-find-missing-elements](https://github.com/K-Raze/DSA-CPP/tree/master/3731-find-missing-elements) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/K-Raze/DSA-CPP/tree/master/3739-count-subarrays-with-majority-element-ii) |
 | [3786-total-sum-of-interaction-cost-in-tree-groups](https://github.com/K-Raze/DSA-CPP/tree/master/3786-total-sum-of-interaction-cost-in-tree-groups) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/K-Raze/DSA-CPP/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/K-Raze/DSA-CPP/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3886-sum-of-sortable-integers](https://github.com/K-Raze/DSA-CPP/tree/master/3886-sum-of-sortable-integers) |
 | [3903-smallest-stable-index-i](https://github.com/K-Raze/DSA-CPP/tree/master/3903-smallest-stable-index-i) |
@@ -200,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3522-calculate-score-after-performing-instructions](https://github.com/K-Raze/DSA-CPP/tree/master/3522-calculate-score-after-performing-instructions) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/K-Raze/DSA-CPP/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/K-Raze/DSA-CPP/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/K-Raze/DSA-CPP/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [4026-maximum-gap-between-stations](https://github.com/K-Raze/DSA-CPP/tree/master/4026-maximum-gap-between-stations) |
 ## Hash Table
 |  |
@@ -256,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0327-count-of-range-sum](https://github.com/K-Raze/DSA-CPP/tree/master/0327-count-of-range-sum) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/K-Raze/DSA-CPP/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/K-Raze/DSA-CPP/tree/master/3739-count-subarrays-with-majority-element-ii) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/K-Raze/DSA-CPP/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [4011-count-subarrays-with-even-odd-ratio-i](https://github.com/K-Raze/DSA-CPP/tree/master/4011-count-subarrays-with-even-odd-ratio-i) |
 | [4013-count-subarrays-with-even-odd-ratio-ii](https://github.com/K-Raze/DSA-CPP/tree/master/4013-count-subarrays-with-even-odd-ratio-ii) |
 ## Segment Tree
@@ -267,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3501-maximize-active-section-with-trade-ii](https://github.com/K-Raze/DSA-CPP/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3525-find-x-value-of-array-ii](https://github.com/K-Raze/DSA-CPP/tree/master/3525-find-x-value-of-array-ii) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/K-Raze/DSA-CPP/tree/master/3739-count-subarrays-with-majority-element-ii) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/K-Raze/DSA-CPP/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [4011-count-subarrays-with-even-odd-ratio-i](https://github.com/K-Raze/DSA-CPP/tree/master/4011-count-subarrays-with-even-odd-ratio-i) |
 | [4013-count-subarrays-with-even-odd-ratio-ii](https://github.com/K-Raze/DSA-CPP/tree/master/4013-count-subarrays-with-even-odd-ratio-ii) |
 ## Merge Sort
@@ -541,6 +545,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/K-Raze/DSA-CPP/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3681-maximum-xor-of-subsequences](https://github.com/K-Raze/DSA-CPP/tree/master/3681-maximum-xor-of-subsequences) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/K-Raze/DSA-CPP/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/K-Raze/DSA-CPP/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [4027-elevator-requests-iii](https://github.com/K-Raze/DSA-CPP/tree/master/4027-elevator-requests-iii) |
 ## Bitmask
 |  |
@@ -682,6 +687,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3575-maximum-good-subtree-score](https://github.com/K-Raze/DSA-CPP/tree/master/3575-maximum-good-subtree-score) |
 | [3715-sum-of-perfect-square-ancestors](https://github.com/K-Raze/DSA-CPP/tree/master/3715-sum-of-perfect-square-ancestors) |
 | [3786-total-sum-of-interaction-cost-in-tree-groups](https://github.com/K-Raze/DSA-CPP/tree/master/3786-total-sum-of-interaction-cost-in-tree-groups) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/K-Raze/DSA-CPP/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Topological Sort
 |  |
 | ------- |
@@ -705,6 +711,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0327-count-of-range-sum](https://github.com/K-Raze/DSA-CPP/tree/master/0327-count-of-range-sum) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/K-Raze/DSA-CPP/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/K-Raze/DSA-CPP/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [4011-count-subarrays-with-even-odd-ratio-i](https://github.com/K-Raze/DSA-CPP/tree/master/4011-count-subarrays-with-even-odd-ratio-i) |
 | [4013-count-subarrays-with-even-odd-ratio-ii](https://github.com/K-Raze/DSA-CPP/tree/master/4013-count-subarrays-with-even-odd-ratio-ii) |
 ## Ordered Set
@@ -731,6 +738,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3575-maximum-good-subtree-score](https://github.com/K-Raze/DSA-CPP/tree/master/3575-maximum-good-subtree-score) |
 | [3715-sum-of-perfect-square-ancestors](https://github.com/K-Raze/DSA-CPP/tree/master/3715-sum-of-perfect-square-ancestors) |
 | [3786-total-sum-of-interaction-cost-in-tree-groups](https://github.com/K-Raze/DSA-CPP/tree/master/3786-total-sum-of-interaction-cost-in-tree-groups) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/K-Raze/DSA-CPP/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Sorting
 |  |
 | ------- |
