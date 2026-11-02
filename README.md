@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1031-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/K-Raze/DSA-CPP/tree/master/1031-maximum-sum-of-two-non-overlapping-subarrays) |
 | [1125-smallest-sufficient-team](https://github.com/K-Raze/DSA-CPP/tree/master/1125-smallest-sufficient-team) |
 | [1146-snapshot-array](https://github.com/K-Raze/DSA-CPP/tree/master/1146-snapshot-array) |
+| [1255-maximum-score-words-formed-by-letters](https://github.com/K-Raze/DSA-CPP/tree/master/1255-maximum-score-words-formed-by-letters) |
 | [1288-remove-covered-intervals](https://github.com/K-Raze/DSA-CPP/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/K-Raze/DSA-CPP/tree/master/1301-number-of-paths-with-max-score) |
 | [1326-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/K-Raze/DSA-CPP/tree/master/1326-minimum-number-of-taps-to-open-to-water-a-garden) |
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1021-remove-outermost-parentheses](https://github.com/K-Raze/DSA-CPP/tree/master/1021-remove-outermost-parentheses) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/K-Raze/DSA-CPP/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/K-Raze/DSA-CPP/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
+| [1255-maximum-score-words-formed-by-letters](https://github.com/K-Raze/DSA-CPP/tree/master/1255-maximum-score-words-formed-by-letters) |
 | [1278-palindrome-partitioning-iii](https://github.com/K-Raze/DSA-CPP/tree/master/1278-palindrome-partitioning-iii) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/K-Raze/DSA-CPP/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1371-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/K-Raze/DSA-CPP/tree/master/1371-find-the-longest-substring-containing-vowels-in-even-counts) |
@@ -217,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0981-time-based-key-value-store](https://github.com/K-Raze/DSA-CPP/tree/master/0981-time-based-key-value-store) |
 | [0982-triples-with-bitwise-and-equal-to-zero](https://github.com/K-Raze/DSA-CPP/tree/master/0982-triples-with-bitwise-and-equal-to-zero) |
 | [1146-snapshot-array](https://github.com/K-Raze/DSA-CPP/tree/master/1146-snapshot-array) |
+| [1255-maximum-score-words-formed-by-letters](https://github.com/K-Raze/DSA-CPP/tree/master/1255-maximum-score-words-formed-by-letters) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/K-Raze/DSA-CPP/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1371-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/K-Raze/DSA-CPP/tree/master/1371-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/K-Raze/DSA-CPP/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -336,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1024-video-stitching](https://github.com/K-Raze/DSA-CPP/tree/master/1024-video-stitching) |
 | [1031-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/K-Raze/DSA-CPP/tree/master/1031-maximum-sum-of-two-non-overlapping-subarrays) |
 | [1125-smallest-sufficient-team](https://github.com/K-Raze/DSA-CPP/tree/master/1125-smallest-sufficient-team) |
+| [1255-maximum-score-words-formed-by-letters](https://github.com/K-Raze/DSA-CPP/tree/master/1255-maximum-score-words-formed-by-letters) |
 | [1278-palindrome-partitioning-iii](https://github.com/K-Raze/DSA-CPP/tree/master/1278-palindrome-partitioning-iii) |
 | [1301-number-of-paths-with-max-score](https://github.com/K-Raze/DSA-CPP/tree/master/1301-number-of-paths-with-max-score) |
 | [1326-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/K-Raze/DSA-CPP/tree/master/1326-minimum-number-of-taps-to-open-to-water-a-garden) |
@@ -521,6 +525,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/K-Raze/DSA-CPP/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0982-triples-with-bitwise-and-equal-to-zero](https://github.com/K-Raze/DSA-CPP/tree/master/0982-triples-with-bitwise-and-equal-to-zero) |
 | [1125-smallest-sufficient-team](https://github.com/K-Raze/DSA-CPP/tree/master/1125-smallest-sufficient-team) |
+| [1255-maximum-score-words-formed-by-letters](https://github.com/K-Raze/DSA-CPP/tree/master/1255-maximum-score-words-formed-by-letters) |
 | [1371-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/K-Raze/DSA-CPP/tree/master/1371-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1655-distribute-repeating-integers](https://github.com/K-Raze/DSA-CPP/tree/master/1655-distribute-repeating-integers) |
 | [1707-maximum-xor-with-an-element-from-array](https://github.com/K-Raze/DSA-CPP/tree/master/1707-maximum-xor-with-an-element-from-array) |
@@ -556,6 +561,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1125-smallest-sufficient-team](https://github.com/K-Raze/DSA-CPP/tree/master/1125-smallest-sufficient-team) |
+| [1255-maximum-score-words-formed-by-letters](https://github.com/K-Raze/DSA-CPP/tree/master/1255-maximum-score-words-formed-by-letters) |
 | [1655-distribute-repeating-integers](https://github.com/K-Raze/DSA-CPP/tree/master/1655-distribute-repeating-integers) |
 | [1879-minimum-xor-sum-of-two-arrays](https://github.com/K-Raze/DSA-CPP/tree/master/1879-minimum-xor-sum-of-two-arrays) |
 | [1994-the-number-of-good-subsets](https://github.com/K-Raze/DSA-CPP/tree/master/1994-the-number-of-good-subsets) |
@@ -616,6 +622,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0212-word-search-ii](https://github.com/K-Raze/DSA-CPP/tree/master/0212-word-search-ii) |
 | [0301-remove-invalid-parentheses](https://github.com/K-Raze/DSA-CPP/tree/master/0301-remove-invalid-parentheses) |
 | [0494-target-sum](https://github.com/K-Raze/DSA-CPP/tree/master/0494-target-sum) |
+| [1255-maximum-score-words-formed-by-letters](https://github.com/K-Raze/DSA-CPP/tree/master/1255-maximum-score-words-formed-by-letters) |
 | [1655-distribute-repeating-integers](https://github.com/K-Raze/DSA-CPP/tree/master/1655-distribute-repeating-integers) |
 | [2178-maximum-split-of-positive-even-integers](https://github.com/K-Raze/DSA-CPP/tree/master/2178-maximum-split-of-positive-even-integers) |
 ## Greedy
@@ -874,6 +881,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0811-subdomain-visit-count](https://github.com/K-Raze/DSA-CPP/tree/master/0811-subdomain-visit-count) |
+| [1255-maximum-score-words-formed-by-letters](https://github.com/K-Raze/DSA-CPP/tree/master/1255-maximum-score-words-formed-by-letters) |
 | [1655-distribute-repeating-integers](https://github.com/K-Raze/DSA-CPP/tree/master/1655-distribute-repeating-integers) |
 | [1782-count-pairs-of-nodes](https://github.com/K-Raze/DSA-CPP/tree/master/1782-count-pairs-of-nodes) |
 | [1862-sum-of-floored-pairs](https://github.com/K-Raze/DSA-CPP/tree/master/1862-sum-of-floored-pairs) |
