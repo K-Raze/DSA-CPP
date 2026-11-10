@@ -134,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/K-Raze/DSA-CPP/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3665-twisted-mirror-path-count](https://github.com/K-Raze/DSA-CPP/tree/master/3665-twisted-mirror-path-count) |
 | [3681-maximum-xor-of-subsequences](https://github.com/K-Raze/DSA-CPP/tree/master/3681-maximum-xor-of-subsequences) |
+| [3693-climbing-stairs-ii](https://github.com/K-Raze/DSA-CPP/tree/master/3693-climbing-stairs-ii) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/K-Raze/DSA-CPP/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3715-sum-of-perfect-square-ancestors](https://github.com/K-Raze/DSA-CPP/tree/master/3715-sum-of-perfect-square-ancestors) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/K-Raze/DSA-CPP/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -384,6 +385,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3575-maximum-good-subtree-score](https://github.com/K-Raze/DSA-CPP/tree/master/3575-maximum-good-subtree-score) |
 | [3620-network-recovery-pathways](https://github.com/K-Raze/DSA-CPP/tree/master/3620-network-recovery-pathways) |
 | [3665-twisted-mirror-path-count](https://github.com/K-Raze/DSA-CPP/tree/master/3665-twisted-mirror-path-count) |
+| [3693-climbing-stairs-ii](https://github.com/K-Raze/DSA-CPP/tree/master/3693-climbing-stairs-ii) |
 | [3704-count-no-zero-pairs-that-sum-to-n](https://github.com/K-Raze/DSA-CPP/tree/master/3704-count-no-zero-pairs-that-sum-to-n) |
 | [3977-minimum-time-to-reach-target-with-limited-power](https://github.com/K-Raze/DSA-CPP/tree/master/3977-minimum-time-to-reach-target-with-limited-power) |
 | [4027-elevator-requests-iii](https://github.com/K-Raze/DSA-CPP/tree/master/4027-elevator-requests-iii) |
