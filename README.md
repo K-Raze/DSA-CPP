@@ -624,6 +624,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3704-count-no-zero-pairs-that-sum-to-n](https://github.com/K-Raze/DSA-CPP/tree/master/3704-count-no-zero-pairs-that-sum-to-n) |
 | [3715-sum-of-perfect-square-ancestors](https://github.com/K-Raze/DSA-CPP/tree/master/3715-sum-of-perfect-square-ancestors) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/K-Raze/DSA-CPP/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/K-Raze/DSA-CPP/tree/master/3789-minimum-cost-to-acquire-required-items) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/K-Raze/DSA-CPP/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3870-count-commas-in-range](https://github.com/K-Raze/DSA-CPP/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/K-Raze/DSA-CPP/tree/master/3871-count-commas-in-range-ii) |
@@ -671,6 +672,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3523-make-array-non-decreasing](https://github.com/K-Raze/DSA-CPP/tree/master/3523-make-array-non-decreasing) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/K-Raze/DSA-CPP/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3681-maximum-xor-of-subsequences](https://github.com/K-Raze/DSA-CPP/tree/master/3681-maximum-xor-of-subsequences) |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/K-Raze/DSA-CPP/tree/master/3789-minimum-cost-to-acquire-required-items) |
 | [4026-maximum-gap-between-stations](https://github.com/K-Raze/DSA-CPP/tree/master/4026-maximum-gap-between-stations) |
 ## Design
 |  |
