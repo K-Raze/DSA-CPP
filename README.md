@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2972-count-the-number-of-incremovable-subarrays-ii](https://github.com/K-Raze/DSA-CPP/tree/master/2972-count-the-number-of-incremovable-subarrays-ii) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/K-Raze/DSA-CPP/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3022-minimize-or-of-remaining-elements-using-operations](https://github.com/K-Raze/DSA-CPP/tree/master/3022-minimize-or-of-remaining-elements-using-operations) |
+| [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/K-Raze/DSA-CPP/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3113-find-the-number-of-subarrays-where-boundary-elements-are-maximum](https://github.com/K-Raze/DSA-CPP/tree/master/3113-find-the-number-of-subarrays-where-boundary-elements-are-maximum) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/K-Raze/DSA-CPP/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3229-minimum-operations-to-make-array-equal-to-target](https://github.com/K-Raze/DSA-CPP/tree/master/3229-minimum-operations-to-make-array-equal-to-target) |
