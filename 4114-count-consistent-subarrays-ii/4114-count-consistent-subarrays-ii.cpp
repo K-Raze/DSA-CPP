@@ -2,7 +2,7 @@ using ll=long long;
 class Solution {
 public:
 
-    vector<int>giveNse(vector<int>& arr)
+    inline vector<int>giveNse(vector<int>& arr)
     {
         int n=arr.size();
         vector<int>ans(n,n);
@@ -21,7 +21,7 @@ public:
         return ans;
     }
 
-    vector<int>givePse(vector<int>& arr)
+    inline vector<int>givePse(vector<int>& arr)
     {
         int n=arr.size();
         vector<int>ans(n,-1);
@@ -40,14 +40,14 @@ public:
         return ans;
     }
 
-    vector<vector<int>> giveN0bit(vector<int>& arr)
+    inline vector<vector<int>> giveN0bit(vector<int>& arr)
     {
         int n=arr.size();
-        vector<int>temp(31,n);
+        vector<int>temp(23,n);
         vector<vector<int>>ans(n);
         for(int i=n-1;i>=0;i--)
         {
-            for(int bit=30;bit>=0;bit--)
+            for(int bit=22;bit>=0;bit--)
                 if(!((arr[i]>>bit)&1))
                     temp[bit]=i;
             ans[i]=temp;
@@ -55,14 +55,14 @@ public:
         return ans;
     }
 
-    vector<vector<int>> giveP0bit(vector<int>& arr)
+    inline vector<vector<int>> giveP0bit(vector<int>& arr)
     {
         int n=arr.size();
-        vector<int>temp(31,-1);
+        vector<int>temp(23,-1);
         vector<vector<int>>ans(n);
         for(int i=0;i<n;i++)
         {
-            for(int bit=30;bit>=0;bit--)
+            for(int bit=22;bit>=0;bit--)
                 if(!((arr[i]>>bit)&1))
                     temp[bit]=i;
             ans[i]=temp;
@@ -83,12 +83,12 @@ public:
         for(int i=0;i<n;i++)
         {
             ll l=pse[i];
-            for(int bit=30;bit>=0;bit--)
+            for(int bit=22;bit>=0;bit--)
                 if((arr[i]>>bit)&1)
                     l=max(l,(ll)p0bit[i][bit]);
 
             ll r=nse[i];
-            for(int bit=30;bit>=0;bit--)
+            for(int bit=22;bit>=0;bit--)
                 if((arr[i]>>bit)&1)
                     r=min(r,(ll)n0bit[i][bit]);
             
