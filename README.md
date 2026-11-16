@@ -194,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1927-sum-game](https://github.com/K-Raze/DSA-CPP/tree/master/1927-sum-game) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/K-Raze/DSA-CPP/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/K-Raze/DSA-CPP/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/K-Raze/DSA-CPP/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2301-match-substring-after-replacement](https://github.com/K-Raze/DSA-CPP/tree/master/2301-match-substring-after-replacement) |
 | [2468-split-message-based-on-limit](https://github.com/K-Raze/DSA-CPP/tree/master/2468-split-message-based-on-limit) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/K-Raze/DSA-CPP/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
@@ -882,6 +883,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0068-text-justification](https://github.com/K-Raze/DSA-CPP/tree/master/0068-text-justification) |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/K-Raze/DSA-CPP/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/K-Raze/DSA-CPP/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/K-Raze/DSA-CPP/tree/master/3498-reverse-degree-of-a-string) |
 | [3522-calculate-score-after-performing-instructions](https://github.com/K-Raze/DSA-CPP/tree/master/3522-calculate-score-after-performing-instructions) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/K-Raze/DSA-CPP/tree/master/3867-sum-of-gcd-of-formed-pairs) |
