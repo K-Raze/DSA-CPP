@@ -6,37 +6,28 @@ public:
     int findMinChangeSs(string& s,int d)
     {
         int n=s.size();
-
-        // extract the string
-        vector<string>str;
-
+        int ans=0;
         vector<bool>vis(n,0);
         for(int i=0;i<n;i++)
             if(!vis[i])
             {
-                string temp;
+                string t;
                 int idx=i;
                 while(idx<n && !vis[idx])
                 {
-                    temp+=s[idx];
+                    t+=s[idx];
                     vis[idx]=1;
                     idx+=d;
                 }
-                str.push_back(temp);
+                int l=0,r=t.size()-1;
+                while(l<=r)
+                {
+                    if(t[l]!=t[r])
+                        ans++;
+                    l++;
+                    r--;
+                }
             }
-
-        int ans=0;
-        for(string& t : str)
-        {   
-            int l=0,r=t.size()-1;
-            while(l<=r)
-            {
-                if(t[l]!=t[r])
-                    ans++;
-                l++;
-                r--;
-            }
-        }
         return ans;
     }
 
