@@ -209,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/K-Raze/DSA-CPP/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/K-Raze/DSA-CPP/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3305-count-of-substrings-containing-every-vowel-and-k-consonants-i](https://github.com/K-Raze/DSA-CPP/tree/master/3305-count-of-substrings-containing-every-vowel-and-k-consonants-i) |
+| [3306-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/K-Raze/DSA-CPP/tree/master/3306-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3327-check-if-dfs-strings-are-palindromes](https://github.com/K-Raze/DSA-CPP/tree/master/3327-check-if-dfs-strings-are-palindromes) |
 | [3331-find-subtree-sizes-after-changes](https://github.com/K-Raze/DSA-CPP/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3343-count-number-of-balanced-permutations](https://github.com/K-Raze/DSA-CPP/tree/master/3343-count-number-of-balanced-permutations) |
@@ -262,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/K-Raze/DSA-CPP/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/K-Raze/DSA-CPP/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3305-count-of-substrings-containing-every-vowel-and-k-consonants-i](https://github.com/K-Raze/DSA-CPP/tree/master/3305-count-of-substrings-containing-every-vowel-and-k-consonants-i) |
+| [3306-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/K-Raze/DSA-CPP/tree/master/3306-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/K-Raze/DSA-CPP/tree/master/3312-sorted-gcd-pair-queries) |
 | [3327-check-if-dfs-strings-are-palindromes](https://github.com/K-Raze/DSA-CPP/tree/master/3327-check-if-dfs-strings-are-palindromes) |
 | [3331-find-subtree-sizes-after-changes](https://github.com/K-Raze/DSA-CPP/tree/master/3331-find-subtree-sizes-after-changes) |
@@ -345,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2935-maximum-strong-pair-xor-ii](https://github.com/K-Raze/DSA-CPP/tree/master/2935-maximum-strong-pair-xor-ii) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/K-Raze/DSA-CPP/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3305-count-of-substrings-containing-every-vowel-and-k-consonants-i](https://github.com/K-Raze/DSA-CPP/tree/master/3305-count-of-substrings-containing-every-vowel-and-k-consonants-i) |
+| [3306-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/K-Raze/DSA-CPP/tree/master/3306-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/K-Raze/DSA-CPP/tree/master/3411-maximum-subarray-with-equal-products) |
 | [4067-longest-subarray-with-restricted-pair-sums](https://github.com/K-Raze/DSA-CPP/tree/master/4067-longest-subarray-with-restricted-pair-sums) |
 ## Dynamic Programming
