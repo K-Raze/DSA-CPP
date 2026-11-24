@@ -26,7 +26,7 @@ public:
             step--;
             currLen=prevLen;
         }
-        prev%=26;
-        return 'a'+(prev)%26;
+        
+        return 'a'+prev%26;
     }
 };
