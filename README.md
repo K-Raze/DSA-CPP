@@ -572,6 +572,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3007-maximum-number-that-sum-of-the-prices-is-less-than-or-equal-to-k](https://github.com/K-Raze/DSA-CPP/tree/master/3007-maximum-number-that-sum-of-the-prices-is-less-than-or-equal-to-k) |
 | [3022-minimize-or-of-remaining-elements-using-operations](https://github.com/K-Raze/DSA-CPP/tree/master/3022-minimize-or-of-remaining-elements-using-operations) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/K-Raze/DSA-CPP/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+| [3307-find-the-k-th-character-in-string-game-ii](https://github.com/K-Raze/DSA-CPP/tree/master/3307-find-the-k-th-character-in-string-game-ii) |
 | [3393-count-paths-with-the-given-xor-value](https://github.com/K-Raze/DSA-CPP/tree/master/3393-count-paths-with-the-given-xor-value) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/K-Raze/DSA-CPP/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3533-concatenated-divisibility](https://github.com/K-Raze/DSA-CPP/tree/master/3533-concatenated-divisibility) |
@@ -627,6 +628,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2963-count-the-number-of-good-partitions](https://github.com/K-Raze/DSA-CPP/tree/master/2963-count-the-number-of-good-partitions) |
 | [3007-maximum-number-that-sum-of-the-prices-is-less-than-or-equal-to-k](https://github.com/K-Raze/DSA-CPP/tree/master/3007-maximum-number-that-sum-of-the-prices-is-less-than-or-equal-to-k) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/K-Raze/DSA-CPP/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+| [3307-find-the-k-th-character-in-string-game-ii](https://github.com/K-Raze/DSA-CPP/tree/master/3307-find-the-k-th-character-in-string-game-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/K-Raze/DSA-CPP/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/K-Raze/DSA-CPP/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3343-count-number-of-balanced-permutations](https://github.com/K-Raze/DSA-CPP/tree/master/3343-count-number-of-balanced-permutations) |
@@ -1026,6 +1028,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [3307-find-the-k-th-character-in-string-game-ii](https://github.com/K-Raze/DSA-CPP/tree/master/3307-find-the-k-th-character-in-string-game-ii) |
 | [3483-unique-3-digit-even-numbers](https://github.com/K-Raze/DSA-CPP/tree/master/3483-unique-3-digit-even-numbers) |
 ## Bracket Sequences
 |  |
