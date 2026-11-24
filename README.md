@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3331-find-subtree-sizes-after-changes](https://github.com/K-Raze/DSA-CPP/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/K-Raze/DSA-CPP/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3393-count-paths-with-the-given-xor-value](https://github.com/K-Raze/DSA-CPP/tree/master/3393-count-paths-with-the-given-xor-value) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/K-Raze/DSA-CPP/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/K-Raze/DSA-CPP/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3483-unique-3-digit-even-numbers](https://github.com/K-Raze/DSA-CPP/tree/master/3483-unique-3-digit-even-numbers) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/K-Raze/DSA-CPP/tree/master/3501-maximize-active-section-with-trade-ii) |
@@ -338,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2932-maximum-strong-pair-xor-i](https://github.com/K-Raze/DSA-CPP/tree/master/2932-maximum-strong-pair-xor-i) |
 | [2935-maximum-strong-pair-xor-ii](https://github.com/K-Raze/DSA-CPP/tree/master/2935-maximum-strong-pair-xor-ii) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/K-Raze/DSA-CPP/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/K-Raze/DSA-CPP/tree/master/3411-maximum-subarray-with-equal-products) |
 | [4067-longest-subarray-with-restricted-pair-sums](https://github.com/K-Raze/DSA-CPP/tree/master/4067-longest-subarray-with-restricted-pair-sums) |
 ## Dynamic Programming
 |  |
@@ -629,6 +631,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/K-Raze/DSA-CPP/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3343-count-number-of-balanced-permutations](https://github.com/K-Raze/DSA-CPP/tree/master/3343-count-number-of-balanced-permutations) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/K-Raze/DSA-CPP/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/K-Raze/DSA-CPP/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/K-Raze/DSA-CPP/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/K-Raze/DSA-CPP/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3519-count-numbers-with-non-decreasing-digits](https://github.com/K-Raze/DSA-CPP/tree/master/3519-count-numbers-with-non-decreasing-digits) |
@@ -861,6 +864,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2959-number-of-possible-sets-of-closing-branches](https://github.com/K-Raze/DSA-CPP/tree/master/2959-number-of-possible-sets-of-closing-branches) |
 | [2970-count-the-number-of-incremovable-subarrays-i](https://github.com/K-Raze/DSA-CPP/tree/master/2970-count-the-number-of-incremovable-subarrays-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/K-Raze/DSA-CPP/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/K-Raze/DSA-CPP/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3483-unique-3-digit-even-numbers](https://github.com/K-Raze/DSA-CPP/tree/master/3483-unique-3-digit-even-numbers) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/K-Raze/DSA-CPP/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/K-Raze/DSA-CPP/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
@@ -878,6 +882,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/K-Raze/DSA-CPP/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3312-sorted-gcd-pair-queries](https://github.com/K-Raze/DSA-CPP/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/K-Raze/DSA-CPP/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/K-Raze/DSA-CPP/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3715-sum-of-perfect-square-ancestors](https://github.com/K-Raze/DSA-CPP/tree/master/3715-sum-of-perfect-square-ancestors) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/K-Raze/DSA-CPP/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Game Theory
