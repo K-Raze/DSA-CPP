@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1024-video-stitching](https://github.com/K-Raze/DSA-CPP/tree/master/1024-video-stitching) |
 | [1029-two-city-scheduling](https://github.com/K-Raze/DSA-CPP/tree/master/1029-two-city-scheduling) |
 | [1031-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/K-Raze/DSA-CPP/tree/master/1031-maximum-sum-of-two-non-overlapping-subarrays) |
+| [1095-find-in-mountain-array](https://github.com/K-Raze/DSA-CPP/tree/master/1095-find-in-mountain-array) |
 | [1125-smallest-sufficient-team](https://github.com/K-Raze/DSA-CPP/tree/master/1125-smallest-sufficient-team) |
 | [1146-snapshot-array](https://github.com/K-Raze/DSA-CPP/tree/master/1146-snapshot-array) |
 | [1255-maximum-score-words-formed-by-letters](https://github.com/K-Raze/DSA-CPP/tree/master/1255-maximum-score-words-formed-by-letters) |
@@ -481,6 +482,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0327-count-of-range-sum](https://github.com/K-Raze/DSA-CPP/tree/master/0327-count-of-range-sum) |
 | [0887-super-egg-drop](https://github.com/K-Raze/DSA-CPP/tree/master/0887-super-egg-drop) |
 | [0981-time-based-key-value-store](https://github.com/K-Raze/DSA-CPP/tree/master/0981-time-based-key-value-store) |
+| [1095-find-in-mountain-array](https://github.com/K-Raze/DSA-CPP/tree/master/1095-find-in-mountain-array) |
 | [1146-snapshot-array](https://github.com/K-Raze/DSA-CPP/tree/master/1146-snapshot-array) |
 | [1201-ugly-number-iii](https://github.com/K-Raze/DSA-CPP/tree/master/1201-ugly-number-iii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/K-Raze/DSA-CPP/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -1163,4 +1165,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0810-chalkboard-xor-game](https://github.com/K-Raze/DSA-CPP/tree/master/0810-chalkboard-xor-game) |
+## Interactive
+|  |
+| ------- |
+| [1095-find-in-mountain-array](https://github.com/K-Raze/DSA-CPP/tree/master/1095-find-in-mountain-array) |
+## Ternary Search
+|  |
+| ------- |
+| [1095-find-in-mountain-array](https://github.com/K-Raze/DSA-CPP/tree/master/1095-find-in-mountain-array) |
 <!---LeetCode Topics End-->
