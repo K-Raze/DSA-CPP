@@ -433,6 +433,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1916-count-ways-to-build-rooms-in-an-ant-colony](https://github.com/K-Raze/DSA-CPP/tree/master/1916-count-ways-to-build-rooms-in-an-ant-colony) |
 | [2203-minimum-weighted-subgraph-with-the-required-paths](https://github.com/K-Raze/DSA-CPP/tree/master/2203-minimum-weighted-subgraph-with-the-required-paths) |
 | [2328-number-of-increasing-paths-in-a-grid](https://github.com/K-Raze/DSA-CPP/tree/master/2328-number-of-increasing-paths-in-a-grid) |
+| [2360-longest-cycle-in-a-graph](https://github.com/K-Raze/DSA-CPP/tree/master/2360-longest-cycle-in-a-graph) |
 | [2392-build-a-matrix-with-conditions](https://github.com/K-Raze/DSA-CPP/tree/master/2392-build-a-matrix-with-conditions) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/K-Raze/DSA-CPP/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2603-collect-coins-in-a-tree](https://github.com/K-Raze/DSA-CPP/tree/master/2603-collect-coins-in-a-tree) |
@@ -522,6 +523,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1377-frog-position-after-t-seconds](https://github.com/K-Raze/DSA-CPP/tree/master/1377-frog-position-after-t-seconds) |
 | [2258-escape-the-spreading-fire](https://github.com/K-Raze/DSA-CPP/tree/master/2258-escape-the-spreading-fire) |
 | [2328-number-of-increasing-paths-in-a-grid](https://github.com/K-Raze/DSA-CPP/tree/master/2328-number-of-increasing-paths-in-a-grid) |
+| [2360-longest-cycle-in-a-graph](https://github.com/K-Raze/DSA-CPP/tree/master/2360-longest-cycle-in-a-graph) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/K-Raze/DSA-CPP/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2503-maximum-number-of-points-from-grid-queries](https://github.com/K-Raze/DSA-CPP/tree/master/2503-maximum-number-of-points-from-grid-queries) |
 | [2608-shortest-cycle-in-a-graph](https://github.com/K-Raze/DSA-CPP/tree/master/2608-shortest-cycle-in-a-graph) |
@@ -748,6 +750,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1916-count-ways-to-build-rooms-in-an-ant-colony](https://github.com/K-Raze/DSA-CPP/tree/master/1916-count-ways-to-build-rooms-in-an-ant-colony) |
 | [1938-maximum-genetic-difference-query](https://github.com/K-Raze/DSA-CPP/tree/master/1938-maximum-genetic-difference-query) |
 | [2328-number-of-increasing-paths-in-a-grid](https://github.com/K-Raze/DSA-CPP/tree/master/2328-number-of-increasing-paths-in-a-grid) |
+| [2360-longest-cycle-in-a-graph](https://github.com/K-Raze/DSA-CPP/tree/master/2360-longest-cycle-in-a-graph) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/K-Raze/DSA-CPP/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/K-Raze/DSA-CPP/tree/master/2685-count-the-number-of-complete-components) |
 | [2876-count-visited-nodes-in-a-directed-graph](https://github.com/K-Raze/DSA-CPP/tree/master/2876-count-visited-nodes-in-a-directed-graph) |
@@ -765,6 +768,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/K-Raze/DSA-CPP/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [1916-count-ways-to-build-rooms-in-an-ant-colony](https://github.com/K-Raze/DSA-CPP/tree/master/1916-count-ways-to-build-rooms-in-an-ant-colony) |
 | [2328-number-of-increasing-paths-in-a-grid](https://github.com/K-Raze/DSA-CPP/tree/master/2328-number-of-increasing-paths-in-a-grid) |
+| [2360-longest-cycle-in-a-graph](https://github.com/K-Raze/DSA-CPP/tree/master/2360-longest-cycle-in-a-graph) |
 | [2392-build-a-matrix-with-conditions](https://github.com/K-Raze/DSA-CPP/tree/master/2392-build-a-matrix-with-conditions) |
 | [2603-collect-coins-in-a-tree](https://github.com/K-Raze/DSA-CPP/tree/master/2603-collect-coins-in-a-tree) |
 | [2876-count-visited-nodes-in-a-directed-graph](https://github.com/K-Raze/DSA-CPP/tree/master/2876-count-visited-nodes-in-a-directed-graph) |
@@ -1136,10 +1140,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Kosaraju's Algorithm
 |  |
 | ------- |
+| [2360-longest-cycle-in-a-graph](https://github.com/K-Raze/DSA-CPP/tree/master/2360-longest-cycle-in-a-graph) |
 | [2876-count-visited-nodes-in-a-directed-graph](https://github.com/K-Raze/DSA-CPP/tree/master/2876-count-visited-nodes-in-a-directed-graph) |
 ## Tarjan's SCC Algorithm
 |  |
 | ------- |
+| [2360-longest-cycle-in-a-graph](https://github.com/K-Raze/DSA-CPP/tree/master/2360-longest-cycle-in-a-graph) |
 | [2876-count-visited-nodes-in-a-directed-graph](https://github.com/K-Raze/DSA-CPP/tree/master/2876-count-visited-nodes-in-a-directed-graph) |
 ## Minimum Spanning Tree
 |  |
